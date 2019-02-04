@@ -1,9 +1,5 @@
 #+title: Socle interministériel des logiciels libres
 
-Ce dépôt est archivé.
-
-Il est maintenu sur https://github.com/etalab/SILL.
-
 Présentation HTML du Socle interministériel des logiciels libres 2018.
 
 - La [[https://references.modernisation.gouv.fr/socle-logiciels-libres][page du SILL]]
@@ -12,5 +8,4 @@ Présentation HTML du Socle interministériel des logiciels libres 2018.
 - Le [[file:sill.org][sill.org]] avec une section par « secteur »
 - Un tableau [[file:sources.org][sources.org]] présentant l’ensemble
 
-Et la présentation [[https://entrepreneur-interet-general.github.io/sill/][HTML en ligne]].
 
