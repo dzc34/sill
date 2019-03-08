@@ -7,6 +7,7 @@ Voir la [[https://references.modernisation.gouv.fr/socle-logiciels-libres][page 
 * SILL 2019
 
 - La page principale du [[file:2019][SILL 2019]]
+- Le tableau [[file:2019/sill-2019.ods][.ods]] ou [[file:2019/sill-2019.csv][.csv]] complet
 
 * SILL 2018
 
