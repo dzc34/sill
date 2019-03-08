@@ -2,6 +2,8 @@
 
 Ce dépôt sert pour la publication du SILL en HTML.
 
+Voir [le site](https://disic.github.io/sill/).
+
 # Licence
 
 Bastien Guerry, Etalab/DINSC, 2019.
