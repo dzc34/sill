@@ -13,7 +13,7 @@ Voir la [[https://references.modernisation.gouv.fr/socle-logiciels-libres][page 
 
 - La page principale du [[file:2018][SILL 2018]]
 - Une version [[file:2018/sources.csv][csv]] du SILL PDF 2018
-- Une version [[file:2018/sill.org][lisible]] avec une section par « secteur »
-- Un tableau [[file:2018/sources.org][sources.org]] présentant l’ensemble
+- Une version en [[file:2018/sources.md][tableau statique]]
+- Une version [[file:2018/sill.md][linéaire]] avec une section par secteur
 
 
