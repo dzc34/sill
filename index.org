@@ -1,6 +1,7 @@
 #+title: Socle interministériel des logiciels libres
 
-- Présentation HTML du Socle interministériel des logiciels libres.
+* Présentation HTML du Socle interministériel des logiciels libres
+
 - Voir la [[https://references.modernisation.gouv.fr/socle-logiciels-libres][page du SILL]] sur references.modernisation.gouv.fr.
 - Pour contribuer à ces documents, merci de consulter ce dépôt.
 - Pour toute question, écrire à [[mailto:bastien.guerry@data.gouv.fr][bastien.guerry@data.gouv.fr]].
