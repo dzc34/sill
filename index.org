@@ -1,21 +1,24 @@
 #+title: Socle interministériel des logiciels libres
 
-* Présentation HTML du Socle interministériel des logiciels libres
+* Le Socle interministériel des logiciels libres (SILL)
 
-- Voir la [[https://references.modernisation.gouv.fr/socle-logiciels-libres][page du SILL]] sur references.modernisation.gouv.fr.
-- Pour contribuer à ces documents, merci de consulter ce dépôt.
-- Pour toute question, écrire à [[mailto:bastien.guerry@data.gouv.fr][bastien.guerry@data.gouv.fr]].
+- Voir la [[https://references.modernisation.gouv.fr/socle-logiciels-libres][page de référence du SILL]]
+- Cette page propose une *version navigable* du SILL
+- Pour toute suggestion, merci de consulter [[https://github.com/disic/sill][ce dépôt]]
+- Pour toute question, écrire à [[mailto:bastien.guerry@data.gouv.fr][bastien.guerry@data.gouv.fr]]
 
 * SILL 2019
 
-- La page principale du [[file:2019][SILL 2019]]
-- Le tableau [[file:2019/sill-2019.ods][.ods]] ou [[file:2019/sill-2019.csv][.csv]] complet
+- Page principale du [[file:2019][SILL 2019]]
+- Tableau [[file:2019/sill-2019.ods][ODS]] ou [[file:2019/sill-2019.csv][CSV]] du SILL complet
 
 * SILL 2018
 
-- La page principale du [[file:2018][SILL 2018]]
-- Une version [[file:2018/sources.csv][csv]] du SILL PDF 2018
+- Page principale du [[file:2018][SILL 2018]]
+- Une version [[file:2018/sources.csv][CSV]] du SILL 2018
 - Une version en [[file:2018/sources.md][tableau statique]]
 - Une version [[file:2018/sill.md][linéaire]] avec une section par secteur
 
+* Licence
 
+Le contenu du SILL et de ce dépôt est publié sous [[https://github.com/etalab/Licence-Ouverte/blob/master/LO.md][licence Ouverte 2.0]].
