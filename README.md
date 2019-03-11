@@ -6,6 +6,6 @@ Voir [le site](https://disic.github.io/sill/).
 
 # Licence
 
-Bastien Guerry, Etalab/DINSC, 2019.
+Bastien Guerry, Etalab/DINSIC, 2019.
 
 Le contenu du SILL et de ce dépôt est sous licence Ouverte 2.0.
