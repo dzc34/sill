@@ -42,6 +42,9 @@
       le cycle de vie d’une application utilisée via un navigateur web
     - Version : 1.0.4
     - Porteur : DINSIC
+  - IS Designer :
+    - Version : 1.9.0
+    - Porteur : Groupe MIMDEV
   - ARX Data Anonymization Tool
     - Version : 3.7.1
     - Porteur : MIMDEV

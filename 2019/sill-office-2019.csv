@@ -1,76 +1,76 @@
-SECTEUR,COMPOSANT,FONCTIONNALITÉ,CAS D’USAGE,LOGICIEL,STATUT,LICENCE,LOGICIELPARENT,FORMAT ASSOCIÉ,Win X86/x64,LINUXMIMO,ANDROID,VERSIONFRANÇAISE
-sécurité,authentification,Gestion de mots de passe,,KeePass,R,GPL2,0,KDB,X,2.3,Keepass2Android Offline,X
-sécurité,chiffrement,Chiffrement de disques,,VeraCrypt,O,AGPL,0,s.o.,X,1.2,,X
-espace utilisateur et canal,consultation et édition de documents,Suite bureautique,,LibreOffice,R,MPL2,,ODF 1.2,2,6.1,,X
-espace utilisateur et canal,consultation et édition de documents,diffusion multiformat,,MultiDiff,R,LGPL2.1,LibreOffice,s.o.,2,1.3.0,0,X
-espace utilisateur et canal,consultation et édition de documents,cartes géographie,,Ooo.HG,R,Creative Commons,LibreOffice,s.o.,,9.12,,X
-espace utilisateur et canal,consultation et édition de documents,correction grammaticale,,Grammalecte,R,GPL3,LibreOffice,s.o.,2,0.6.5,0,X
-espace utilisateur et canal,consultation et édition de documents,galerie d’images,diagrammes informatiques,VRT network equipment,R,Ccbysa,LibreOffice,odg,,1.2,,
-espace utilisateur et canal,consultation et édition de documents,schémas,,draw.io Desktop,O,Apache,,images,,9.3,,
-espace utilisateur et canal,consultation et édition de documents,orientation de la page,,PortraitOrLandscape,R,LGPL3,LibreOffice,s.o.,,2,,X
-espace utilisateur et canal,consultation et édition de documents,correction anglicismes,,FranceTerme,R,CECILL-C,0,s.o.,0,0,X,X
-espace utilisateur et canal,consultation et édition de documents,Éditeur de textes,,Notepad++,R,GPL,,TXT,X,i,,X
-espace utilisateur et canal,consultation et édition de documents,Lecture simple de fichier PDF,sans remplissage de formulaire ni vérification de signature,SumatraPDF,R,GPL3,,PDF,X,utiliser Evince,0,X
-espace utilisateur et canal,consultation et édition de documents,"Outil de fusion, extraction et découpage de fichiers PDF. Il permet aussi de changer le sens des pages.",,PDFSam Basic,,AGPL3,,PDF,x,4.0,,X
-espace utilisateur et canal,consultation et édition de documents,Éditeur HTML,,BlueGriffon,R,LGPL/GPL/MPL,0,HTML,X,3.0',0,X
-orchestration et logique métier,moteur SIG,Système d’information géographique,,Qgis,R,GPL,,,X,3.4,,X
-espace utilisateur et canal,consultation et édition de documents,PAO,,Scribus,R,GPL2,0,SLA,X,1.5,0,X
-espace utilisateur et canal,consultation et édition de documents,Lecteur multimédia,Lecteur Multimédia,VLC,R,GPL,,s.o.,X,3.0.6,3.0.6,X
-espace utilisateur et canal,consultation et édition de documents,convertisseur de formats vidéo,,Avidemux,O,GPL2,,nombreux,X,2.7,,X
-espace utilisateur et canal,consultation et édition de documents,Enregistrement et édition de sons,Enregistrement et édition de sons,Audacity,R,GPL2,,,X,2.1,,X
-espace utilisateur et canal,consultation et édition de documents,Dessin (vectoriel),,Inkscape,O,GPL,,SVG,X,0.92,,X
-espace utilisateur et canal,consultation et édition de documents,Dessin (matriciel),,The Gimp,R,GPL3,,XCF,X,2.10.2,,X
-espace utilisateur et canal,consultation et édition de documents,Lecteur de fichiers ODF sous Android,,OpenDocument Reader,R,GPL,,ODF,,,3.0.9,X
-espace utilisateur et canal,consultation et édition de documents,Lecteur de fichiers PDF sous Android,,MuPDF,R,GPL,,PDF,,,1.11,X
-espace utilisateur et canal,messagerie agenda contacts,Courrielleur,Courrielleur,Thunderbird,R,MPL2,0,s.o.,X,60,,X
-espace utilisateur et canal,visiophonie,webconférence,,Jitsi,R,0,0,0,0,0,0,0
-données et contenu,gestion des accès aux données,Client FTP,Client FTP,Filezilla,R,GPL,0,s.o.,X,3.40,,X
-espace utilisateur et canal,navigateur web,Navigateur,Navigateur,Firefox ESR,R,MPL2,0,HTML,X,ESR 60,60,X
-espace utilisateur et canal,navigateur web,recherche,,Qwant,R,Licence MIT/X11,Firefox,,X,5,,
-espace utilisateur et canal,navigateur web,Pour utiliser ses codes,Pour utiliser ses codes,KeeFox,O,GPL V2.0,Firefox,0,0,2.5,0,X
-espace utilisateur et canal,navigateur web,bloqueur des publicités et des pisteurs,,Ublock Origin,,GPL3,Firefox,,,1.18,1.18,X
-espace utilisateur et canal,navigateur web,correction grammaticale,,Grammalecte,R,GPL3,Firefox,s.o.,2,0.6.5,,X
-espace utilisateur et canal,accessibilité,lecteur d’écran,,NVDA,R,GPL2,0,s.o.,X,0,0,X
-espace utilisateur et canal,outil de productivité,Grapheur d'idées,,Freeplane,R,GPL2,,0,X,1.7,,X
-espace utilisateur et canal,outil de productivité,Gestion de projet,,ProjectLibre,R,CPA,,POD et XML,X,1.7,,
-données et contenu,compression décompression,Compression,,7zip,R,LGPL V2,0,nombreux,x,i,0,x
-espace utilisateur et canal,consultation et édition de documents,Capture d'écran,,GreenShot,R,GPL,0,nombreux,X,i,0,X
-espace utilisateur et canal,consultation et édition de documents,Création de DVD vidéo avec un menu de navigation.,,DVD Styler,O,GPL,,nombreux,X,3.0.4,,X
-opérations,synchronisation réplication déduplication,Synchronisation Sauvegarde,,FreeFileSync,R,GPL3,0,s.o.,X,10.6,0,X
-opérations,déploiement gestion d’actif et de configuration,"Inventaire, télédéploiement et découverte du réseau",,OCS Inventory NG serveur,R,GPL2,0,s.o.,0,2.3,,X
-opérations,déploiement gestion d’actif et de configuration,"Inventaire, télédéploiement et découverte du réseau",,Agent OCS,R,GPL2,OCS,s.o.,X,2.3.1.3,,X
-opérations,déploiement gestion d’actif et de configuration,Gestion de parc et suivi d'incidents,,GLPI,R,GPL2,0,s.o.,0,9.3,0,X
-opérations,déploiement gestion d’actif et de configuration,Rapports supplémentaires à ceux inclus dans GLPI,,Reports (rapports),R,AGPL3,GLPI,s.o.,0,1.12,0,0
-opérations,déploiement gestion d’actif et de configuration,Export en pdf des fiches GLPI,,PDF (impression de pdf),R,AGPL3,GLPI,s.o.,0,1.4,0,0
-opérations,déploiement gestion d’actif et de configuration,Serveur de services web permettant à une application externe d'interroger et de piloter GLPI.,,WebService,O,GPLv2+,GLPI,s.o.,0,1.8,0,0
-opérations,déploiement gestion d’actif et de configuration,Automatisation de l'import OCSInventory-NG,Gestion parc,OCS Inventory ng,R,GPL2+,GLPI,s.o.,0,01/05/04,0,X
-opérations,déploiement gestion d’actif et de configuration,"Inventaire, télédéploiement et découverte du réseau",Gestion parc,FusionInventory,O,AGPL3+,GLPI,s.o.,0,9.1+1.1,0,0
-opérations,déploiement gestion d’actif et de configuration,Affichage de GLPI pour terminaux mobiles et tablettes,Gestion parc,Mobile,O,GPL2+,GLPI,s.o.,X,1.1.6,0,0
-opérations,déploiement gestion d’actif et de configuration,Désinstallation d’objets inventoriés,Gestion parc,Uninstall,R,GPL2+,GLPI,s.o.,0,2.5 .1,0,X
-opérations,déploiement gestion d’actif et de configuration,Injection de données dans GLPI à l'aide de fichiers CSV,glpi,Data Injection,R,GPL2+,GLPI,s.o.,0,2.6.4,0,X
-opérations,déploiement gestion d’actif et de configuration,Notifications supplémentaires à celles incluses dans GLPI,Gestion des tickets,Additional Alerts,O,GPL2+,GLPI,s.o.,0,1.9.0,0,X
-opérations,déploiement gestion d’actif et de configuration,Escalade de tickets,Gestion des tickets,Escalation,O,GPL2+,GLPI,s.o.,0,0.85+1.0,0,X
-opérations,déploiement gestion d’actif et de configuration,Options de configuration supplémentaires,Gestion des tickets,Behaviors (Comportements),R,AGPLv3+,GLPI,s.o.,0,02/01/01,0,X
-opérations,service level management,Affichage graphique des délais de prise en compte des incidents + indicateurs sous forme de rapports,Gestion des tickets,TimeLineTicket,O,GPL2+,GLPI,s.o.,0,0,0,0
-opérations,déploiement gestion d’actif et de configuration,Gestion des stocks et demandes par une entité différente de celles définies pour la délégation de gestion.,Gestion de parc,Geststock,R,,GLPI,s.o.,,1.0.0,,x
-données et contenu,gestion des accès aux données,Effacement complet de tous les supports magnétiques d’une machine.,,DBAN «Darik's Boot and Nuke»,O,GPL2 / LGPL2,,,,2.3.0,,
-espace utilisateur et canal,consultation et édition de documents,Ensemble d’outils destiné à aider les lecteurs débutants ou en difficulté à décoder les mots en utilisant les principes de la lecture en couleur,,LireCouleur,R,LGPL-v2.1,LibreOffice,,,4.7,X,
-opérations,déploiement gestion d’actif et de configuration,"Déploiement, mise à jour et suppression des logiciels et des configurations sur un parc Windows",Gestion de parc,WAPT,O,GPLv3,,,X,1.6 Community,,X
-opérations,service level management,Plugin GLPI-Survey (questionnaire),Gestion de parc,GLPI,O,AGPLv3+,GLPI,,,9.3.1.0,,
-espace utilisateur et canal,messagerie agenda contacts,Courrielleur pour Android,Client de Messagerie,K-9 Mail,O,apache V2.0,K-9 Mail,,n,,o,o
-conception et développement,qualité et sécurité de code source,Outil de dev pour l’accessibilité,,WEBACCESS,O,GPLv2,NVDA,,o,x,n,o
-conception et développement,qualité et sécurité de code source,Outil de test de compatibilité RGAOutil de test accessibilité,,assistant_rga,O,License Ouverte 1.0,Firefox,,o,,n,o
-espace utilisateur et canal,consultation et édition de documents,captation vidéo et flux,,OBS Studio,R,GPL2,,,,22,,
-espace utilisateur et canal,outil de productivité,gestion de tâches,,Wekan,O,,,,,,,
-espace utilisateur et canal,messagerie agenda contacts,Rendez-vous,,Framadate,O,,,,,,,
-orchestration et logique métier,outil collaboratif,enquête,,Limesurvey,O,,,,,,,
-orchestration et logique métier,outil collaboratif,partage de fichiers,,NextCloud,O,,,,,,,
-orchestration et logique métier,outil collaboratif,wiki,,MediaWiki,O,,,,,,,
-espace utilisateur et canal,messagerie agenda contacts,messagerie instantanée,,Rocketchat,R,,,,,,,
-orchestration et logique métier,outil collaboratif,microblogue,,Mastodon,O,,,,,,,
-orchestration et logique métier,moteur SIG,informations géographiques,,uMap.OpenStreetMap,O,,,,,,,
-orchestration et logique métier,outil collaboratif,rédaction collaborative,,LibreOffice en ligne,O,,,,,,,
-orchestration et logique métier,outil collaboratif,forum,,Discourse,R,,,,,,,
-données et contenu,gestion de contenu web,gestion de contenu web,,Drupal,O,,,,,,,
-orchestration et logique métier,outil collaboratif,blogue,,Wordpress,O,,,,,,,
-espace utilisateur et canal,messagerie agenda contacts,liste de diffusion/discussion,,Sympa,O,,,,,,,
+TRI,SECTEUR,COMPOSANT,FONCTIONNALITÉ,CAS D’USAGE,RESPONSABLESUIVI,QUI ?,COURRIEL,LOGICIEL,STATUT,LICENCE,LOGICIELPARENT,FORMAT ASSOCIÉ,Win X86/x64,Version,LINUXMIMO,ANDROID,VERSIONFRANÇAISE,VEILLECERTA,CSPN,MARCHESUPPORT i f 2,DERNIÈRE MAJ LIGNE,Qui a modifié,COMMENTAIRE,QUELQUES RÉFÉRENCES
+1,sécurité,authentification,Gestion de mots de passe,,FINANCES (Windows et Linux) ENVIRONNEMENT (Android),Rémi Vuillemot,remi.vuillemot@finances.gouv.fr,KeePass,R,GPL2,0,KDB,X,2.4,2.3,Keepass2Android Offline,X,x,X,2,04/12/18,RV,,
+2,sécurité,chiffrement,Chiffrement de disques,,MIMO,s.o.,s.o.,VeraCrypt,O,AGPL,0,s.o.,X,1.2,1.2,,X,0,X,i,21/12/18,LPI,compatible avec les unités chiffrées avec truecrypt,
+3,espace utilisateur et canal,consultation et édition de documents,Suite bureautique,,MIMO,Fabienne Guilbaut(tous modules sauf Base) Francis Duchêne(module Base uniquement),Fabienne.Guilbaut@developpement-durable.gouv.fr Francis.Duchene@developpement-durable.gouv.fr,LibreOffice,R,MPL2,,ODF 1.2,2,6.1,6.1,,X,X,,2,07/11/18,FGB-FD,,
+4,espace utilisateur et canal,consultation et édition de documents,diffusion multiformat,,CULTURE,Géraldine Taillard,geraldine.taillard@culture.gouv.fr,MultiDiff,R,LGPL2.1,LibreOffice,s.o.,2,1.3.0,1.3.0,0,X,,,non,05/02/19,GTA,Cette nouvelle version prend les formats OpenXML en compte. Cette extension n’a pas évolué depuis 2015. Faut-il la garder ?,
+5,espace utilisateur et canal,consultation et édition de documents,cartes géographie,,CULTURE,Géraldine Taillard,geraldine.taillard@culture.gouv.fr,Ooo.HG,R,Creative Commons,LibreOffice,s.o.,,9.12,9.12,,X,,,non,05/02/19,GTA,Indépendant du système d’exploitation. Pas de mise à jour depuis 2012... Faut-il garder cette extension ?,
+6,espace utilisateur et canal,consultation et édition de documents,correction grammaticale,,INTERIEUR,Thierry Boulestin,Thierry.Boulestin@interieur.gouv.fr,Grammalecte,R,GPL3,LibreOffice,s.o.,2,0.6.5,0.6.5,0,X,0,0,f,20/12/18,LPI,Indépendant du système d’exploitation,
+7,espace utilisateur et canal,consultation et édition de documents,galerie d’images,diagrammes informatiques,AFFAIRES ETRANGERES,Philippe Amiot,philippe.amiot@diplomatie.gouv.fr,VRT network equipment,R,Ccbysa,LibreOffice,odg,,1.2,1.2,,,,,non,29/01/19,PHA,à la place de DIA,
+"7,5",espace utilisateur et canal,consultation et édition de documents,schémas,,MIMO,s.o.,s.o.,draw.io Desktop,O,Apache,,images,,9.3,9.3,,,,,non,20/12/18,LPI,à la place de DIA,
+8,espace utilisateur et canal,consultation et édition de documents,orientation de la page,,INTERIEUR,Serge Manna,serge.manna@bouches-du-rhone.gouv.fr,PortraitOrLandscape,R,LGPL3,LibreOffice,s.o.,,2,2,,X,,,non,13/12/18,,Fonctionnement OK sur la version 6,
+9,espace utilisateur et canal,consultation et édition de documents,correction anglicismes,,CULTURE,Géraldine Taillard,geraldine.taillard@culture.gouv.fr,FranceTerme,R,CECILL-C,0,s.o.,0,0,0,X,X,0,0,non,05/02/19,GTA,,
+10,espace utilisateur et canal,consultation et édition de documents,Éditeur de textes,,ÉDUCATION,Fabrice Audouze,pole@ac-paris.fr,Notepad++,R,GPL,,TXT,X,7.5.8,i,,X,,,f,09/11/18,FAU,,
+11,espace utilisateur et canal,consultation et édition de documents,Lecture simple de fichier PDF,sans remplissage de formulaire ni vérification de signature,MIMO,s.o.,s.o.,SumatraPDF,R,GPL3,,PDF,X,3.1.2,utiliser Evince,0,X,,,f,20/12/18,LPI,L'édition de formulaires interactifs et l'ajout de commentaires ne sont pas implémentés. Pas d'évolution depuis 2016.,
+"11,5",espace utilisateur et canal,consultation et édition de documents,"Outil de fusion, extraction et découpage de fichiers PDF. Il permet aussi de changer le sens des pages.",,CULTURE,Géraldine Taillard,geraldine.taillard@culture.gouv.fr,PDFSam Basic,,AGPL3,,PDF,x,4.0 (3.3.7 pour 32b),4.0,,X,,,non,05/02/19,GTA,Nécessite JRE 8 minimum,
+12,espace utilisateur et canal,consultation et édition de documents,Éditeur HTML,,INTÉRIEUR,Christophe Cazin,christophe.cazin@interieur.gouv.fr,BlueGriffon,R,LGPL/GPL/MPL,0,HTML,X,3.0',3.0',0,X,0,0,i,12/12/18,KZ1,,
+13,orchestration et logique métier,moteur SIG,Système d’information géographique,,ENVIRONNEMENT,Alain Ferraton,alain.ferraton@developpement-gouv.fr,Qgis,R,GPL,,,X,3.4,3.4,,X,,,2,07/11/18,GTA,,
+14,espace utilisateur et canal,consultation et édition de documents,PAO,,INTÉRIEUR,Christophe Cazin,christophe.cazin@interieur.gouv.fr,Scribus,R,GPL2,0,SLA,X,1.5,1.5,0,X,0,0,i,12/12/18,KZ1,,
+15,espace utilisateur et canal,consultation et édition de documents,Lecteur multimédia,Lecteur Multimédia,CULTURE,Christian Gémy,christian.gemy@culture.gouv.fr,VLC,R,GPL,,s.o.,X,3.0.6,3.0.6,3.0.6,X,,,2,05/02/19,GTA,,
+16,espace utilisateur et canal,consultation et édition de documents,convertisseur de formats vidéo,,MIMO,s.o.,s.o.,Avidemux,O,GPL2,,nombreux,X,2.7,2.7,,X,0,0,non,21/12/18,LPI,,
+17,espace utilisateur et canal,consultation et édition de documents,Enregistrement et édition de sons,Enregistrement et édition de sons,CULTURE,Christian Gémy,christian.gemy@culture.gouv.fr,Audacity,R,GPL2,,,X,2.1,2.1,,X,,,non,05/02/19,GTA,Pas d’évolution depuis 2017.,
+18,espace utilisateur et canal,consultation et édition de documents,Dessin (vectoriel),,AFFAIRES ETRANGERES,Philippe Amiot,philippe.amiot@diplomatie.gouv.fr,Inkscape,O,GPL,,SVG,X,0.92,0.92,,X,,,i,29/01/18,PHA,,
+19,espace utilisateur et canal,consultation et édition de documents,Dessin (matriciel),,ENVIRONNEMENT,Fabienne Guilbaut,Fabienne.Guilbaut@developpement-durable.gouv.fr,The Gimp,R,GPL3,,XCF,X,2.10.8,2.10.2,,X,,,i,08/11/18,FGB,"pour la gestion d'images, vous pouvez utiliser XnView (graticiel)",
+20,espace utilisateur et canal,consultation et édition de documents,Lecteur de fichiers ODF sous Android,,ENVIRONNEMENT,Morad EL HAMMOUCHI,Morad.El-hammouchi@developpement-durable.gouv.fr,OpenDocument Reader,R,GPL,,ODF,,,,3.0.9,X,,0,non,11/12/18,,Pour Android versions 4.4 à 8. Pertes de mise en page,
+21,espace utilisateur et canal,consultation et édition de documents,Lecteur de fichiers PDF sous Android,,ENVIRONNEMENT,'Morad EL HAMMOUCHI,'Morad.El-hammouchi@developpement-durable.gouv.fr,MuPDF,R,GPL,,PDF,,,,1.11,X,,,non,11/12/18,,Pour Android versions 4.4 à 8.,
+23,espace utilisateur et canal,messagerie agenda contacts,Courrielleur,Courrielleur,MIMO,s.o.,s.o.,Thunderbird,R,MPL2,0,s.o.,X,60,60,,X,X,,2,07/11/18,GTA,,
+24,espace utilisateur et canal,visiophonie,webconférence,,DINSIC,s.o.,s.o.,Jitsi,R,0,0,0,0,2.9,0,0,0,0,0,i,29/11/18,,client et serveur,
+25,données et contenu,gestion des accès aux données,Client FTP,Client FTP,CULTURE,Stéphane Bors,stephane.bors@culture.gouv.fr,Filezilla,R,GPL,0,s.o.,X,3.40,3.40,,X,,,2,05/02/19,GTA,,
+26,espace utilisateur et canal,navigateur web,Navigateur,Navigateur,MIMO,s.o.,s.o.,Firefox ESR,R,MPL2,0,HTML,X,ESR 60,ESR 60,60,X,X,,2,07/11/18,GTA,,
+27,espace utilisateur et canal,navigateur web,recherche,,CULTURE,Géraldine Taillard,geraldine.taillard@culture.gouv.fr,Qwant,R,Licence MIT/X11,Firefox,,X,5,5,,,,,non,05/02/19,GTA,,
+28,espace utilisateur et canal,navigateur web,Pour utiliser ses codes,Pour utiliser ses codes,CULTURE,Géraldine Taillard,geraldine.taillard@culture.gouv.fr,KeeFox,O,GPL V2.0,Firefox,0,0,2.5,2.5,0,X,0,0,non,05/02/19,GTA,,
+"28,5",espace utilisateur et canal,navigateur web,bloqueur des publicités et des pisteurs,,CULTURE,Géraldine Taillard,geraldine.taillard@culture.gouv.fr,Ublock Origin,,GPL3,Firefox,,,1.18,1.18,1.18,X,,,non,05/02/19,GTA,léger en empreinte mémoire et en utilisation du processeur,
+29,espace utilisateur et canal,navigateur web,correction grammaticale,,INTERIEUR,Thierry Boulestin,Thierry.Boulestin@interieur.gouv.fr,Grammalecte,R,GPL3,Firefox,s.o.,2,0.6.5,0.6.5,,X,,,non,16/01/19,LPI,Version compatible avec celle de Firefox,
+30,espace utilisateur et canal,accessibilité,lecteur d’écran,,POLE EMPLOI,René THAVIXAY,Rene.THAVIXAY@pole-emploi.fr,NVDA,R,GPL2,0,s.o.,X,2018.4.1,0,0,X,0,0,2,25/01/19,RTH,https://github.com/nvaccess/nvda/,
+31,espace utilisateur et canal,outil de productivité,Grapheur d'idées,,ENVIRONNEMENT,Jean Hénaut,jean.henaut@developpement-durable.gouv.fr,Freeplane,R,GPL2,,0,X,1.7,1.7,,X,,,i,06/12/18,JH,version disponible 1.7.3 du 26/11 https://sourceforge.net/projects/freeplane/files/freeplane%20stable/,
+32,espace utilisateur et canal,outil de productivité,Gestion de projet,,ENVIRONNEMENT,Isabelle Blanc,Isabelle-k.blanc@developpement-durable.gouv.fr,ProjectLibre,R,CPA,,POD et XML,X,1.7,1.7,,,,,2,21/12/18,IB,nécessite une version java 32bits,
+33,données et contenu,compression décompression,Compression,,FINANCES,Rémi VUILLEMOT,remi.vuillemot@finances.gouv.fr,7zip,R,LGPL V2,0,nombreux,x,18.05,i,0,x,x,0,i,04/12/18,RV,,
+34,espace utilisateur et canal,consultation et édition de documents,Capture d'écran,,MIMO,Sylvain Doubremelle,sylvain.doubremelle@developpement-durable.gouv.fr,GreenShot,R,GPL,0,nombreux,X,1.2.10,i,0,X,0,0,non,15/01/19,SD,A repackager pour desinstaller les versions antérieures,
+36,espace utilisateur et canal,consultation et édition de documents,Création de DVD vidéo avec un menu de navigation.,,ENVIRONNEMENT,Sébastien Foy,sebastien.foy@developpement-durable.gouv.fr,DVD Styler,O,GPL,,nombreux,X,3.0.4,3.0.4,,X,,,non,22/11/18,SF,,
+39,opérations,synchronisation réplication déduplication,Synchronisation Sauvegarde,,ENVIRONNEMENT,Bruno Vanhauwaert,Bruno.Vanhauwaert@developpement-durable.gouv.fr,FreeFileSync,R,GPL3,0,s.o.,X,10.6,10.6,0,X,0,0,non,11/12/18,,Remplace Synkron,
+40,opérations,déploiement gestion d’actif et de configuration,"Inventaire, télédéploiement et découverte du réseau",,INTÉRIEUR,Audrey PIERRE,audrey.pierre@interieur.gouv.fr,OCS Inventory NG serveur,R,GPL2,0,s.o.,0,2.3,2.3,,X,,,2,01/12/18,SMA,à partir de 2.3,
+"40,5",opérations,déploiement gestion d’actif et de configuration,"Inventaire, télédéploiement et découverte du réseau",,INTÉRIEUR,Audrey PIERRE,audrey.pierre@interieur.gouv.fr,Agent OCS,R,GPL2,OCS,s.o.,X,2.3.1.3,2.3.1.3,,X,,,i,01/12/18,SMA,à partir de 2.3,
+45,opérations,déploiement gestion d’actif et de configuration,Gestion de parc et suivi d'incidents,,INTERIEUR,Audrey PIERRE,audrey.pierre@interieur.gouv.fr,GLPI,R,GPL2,0,s.o.,0,0,9.3,0,X,X,0,2,13/12/18,SMA,Prendre LA 9.3.2 qui corrige pas mal de bugs,
+46,opérations,déploiement gestion d’actif et de configuration,Rapports supplémentaires à ceux inclus dans GLPI,,CNAF,Jean-Luc Buhant,jean-luc.buhant@cnafmail.fr,Reports (rapports),R,AGPL3,GLPI,s.o.,0,0,1.12,0,0,0,0,i,29/11/18,JLB CNAF,Version compatible glpi >= 9.3 et =< 9.4,
+47,opérations,déploiement gestion d’actif et de configuration,Export en pdf des fiches GLPI,,CNAF,Jean-Luc Buhant,jean-luc.buhant@cnafmail.fr,PDF (impression de pdf),R,AGPL3,GLPI,s.o.,0,0,1.4,0,0,0,0,i,29/11/18,JLB CNAF,Version compatible glpi >= 9.3,
+48,opérations,déploiement gestion d’actif et de configuration,Serveur de services web permettant à une application externe d'interroger et de piloter GLPI.,,MIMO,s.o.,s.o.,WebService,O,GPLv2+,GLPI,s.o.,0,0,1.8,0,0,0,0,i,12/02/19,LPI,passe en O car personne n’a mis à jour,
+49,opérations,déploiement gestion d’actif et de configuration,Automatisation de l'import OCSInventory-NG,Gestion parc,MIMO,s.o.,s.o.,OCS Inventory ng,R,GPL2+,GLPI,s.o.,0,0,01/05/04,0,X,0,0,i,13/12/18,SMA,,
+50,opérations,déploiement gestion d’actif et de configuration,"Inventaire, télédéploiement et découverte du réseau",Gestion parc,MIMO,s.o.,s.o.,FusionInventory,O,AGPL3+,GLPI,s.o.,0,0,9.1+1.1,0,0,0,0,2,12/02/19,LPI,personne ne met à jour depuis Nelly,
+51,opérations,déploiement gestion d’actif et de configuration,Affichage de GLPI pour terminaux mobiles et tablettes,Gestion parc,MIMO,s.o.,s.o.,Mobile,O,GPL2+,GLPI,s.o.,X,0,1.1.6,0,0,0,0,i,12/02/19,LPI,personne ne met à jour depuis Nelly,
+52,opérations,déploiement gestion d’actif et de configuration,Désinstallation d’objets inventoriés,Gestion parc,CNAF,Jean-Luc Buhant,jean-luc.buhant@cnafmail.fr,Uninstall,R,GPL2+,GLPI,s.o.,0,0,2.5 .1,0,X,0,0,i,29/11/18,JLB CNAF,Compatible 9.3,
+53,opérations,déploiement gestion d’actif et de configuration,Injection de données dans GLPI à l'aide de fichiers CSV,glpi,CNAF,Jean-Luc Buhant,jean-luc.buhant@cnafmail.fr,Data Injection,R,GPL2+,GLPI,s.o.,0,0,2.6.4,0,X,0,0,i,29/11/18,JLB CNAF,Compatible 9.3,
+54,opérations,déploiement gestion d’actif et de configuration,Notifications supplémentaires à celles incluses dans GLPI,Gestion des tickets,INSERM,Najib Bouddour,najib.bouddour@inserm.fr,Additional Alerts,O,GPL2+,GLPI,s.o.,0,0,1.9.0,0,X,0,0,i,12/02/19,LPI,passe en O car Najib n’a pas pu recetter la version pour GLPI 9,
+55,opérations,déploiement gestion d’actif et de configuration,Escalade de tickets,Gestion des tickets,INSERM,Najib Bouddour,najib.bouddour@inserm.fr,Escalation,O,GPL2+,GLPI,s.o.,0,0,0.85+1.0,0,X,0,0,i,12/02/19,LPI,passe en O car Najib n’a pas pu recetter la version pour GLPI 9,
+56,opérations,déploiement gestion d’actif et de configuration,Options de configuration supplémentaires,Gestion des tickets,MIMO,s.o.,s.o.,Behaviors (Comportements),R,AGPLv3+,GLPI,s.o.,0,0,02/01/01,0,X,0,0,i,13/12/18,SMA,,
+57,opérations,service level management,Affichage graphique des délais de prise en compte des incidents + indicateurs sous forme de rapports,Gestion des tickets,INSERM,Najib Bouddour,najib.bouddour@inserm.fr,TimeLineTicket,O,GPL2+,GLPI,s.o.,0,0,0,0,0,0,0,i,12/02/19,LPI,"Version non releasée mais développée, Najib n’a pas pu recetter",
+"57,5",opérations,déploiement gestion d’actif et de configuration,Gestion des stocks et demandes par une entité différente de celles définies pour la délégation de gestion.,Gestion de parc,AFFAIRES ETRANGERES,Antoine Acquaviva,antoine.acquaviva@diplomatie.gouv.fr,Geststock,R,,GLPI,s.o.,,,1.0.0,,x,,,non,29/01/19,PHA,Développée à la demande du MEAE,
+59,données et contenu,gestion des accès aux données,Effacement complet de tous les supports magnétiques d’une machine.,,MIMO,s.o.,s.o.,DBAN «Darik's Boot and Nuke»,O,GPL2 / LGPL2,,,,,2.3.0,,,,,non,16/01/19,LPI,le Québec ne l’utilise plus,
+60,espace utilisateur et canal,consultation et édition de documents,Ensemble d’outils destiné à aider les lecteurs débutants ou en difficulté à décoder les mots en utilisant les principes de la lecture en couleur,,INTERIEUR,Christophe Cazin,christophe.cazin@interieur.gouv.fr,LireCouleur,R,LGPL-v2.1,LibreOffice,,,4.7,4.7,X,,,,,07/11/18,GTA,Proposition de Christophe Cazin.,
+61,opérations,déploiement gestion d’actif et de configuration,"Déploiement, mise à jour et suppression des logiciels et des configurations sur un parc Windows",Gestion de parc,CULTURE,Johann Leclercq,johann.leclercq@culture.gouv.fr,WAPT,O,GPLv3,,,X,1.6 Community,1.6 Community,,X,,en avril 2019,,22/11/18,GTA,,
+62,opérations,service level management,Plugin GLPI-Survey (questionnaire),Gestion de parc,INTERIEUR,Audrey PIERRE,audrey.pierre@interieur.gouv.fr,GLPI,O,AGPLv3+,GLPI,,,9.3.1.0,9.3.1.0,,,,,,13/12/18,SMA,Questionnaire associé à un gabarit de tickets,
+63,espace utilisateur et canal,messagerie agenda contacts,Courrielleur pour Android,Client de Messagerie,Adullact,Matthieu FAURE,matthieufaure@adullactorg,K-9 Mail,O,apache V2.0,K-9 Mail,,n,5.600,,o,o,,,non,23/01/19,MF,Proposition de Christophe CAZIN,https://k9mail.github.io/    Utilisé prochainement sur les tablettes Police et GN
+64,conception et développement,qualité et sécurité de code source,Outil de dev pour l’accessibilité,,INTERIEUR,christophe CAZIN,christophe.cazin@interieur.gouv.fr,WEBACCESS,O,GPLv2,NVDA,,o,2018.10.10,x,n,o,,,non,28/11/18,KZ1,Proposition DINSIC,https://github.com/accessolutions/WebAccessForNVDA/
+65,conception et développement,qualité et sécurité de code source,Outil de test de compatibilité RGAOutil de test accessibilité,,INTERIEUR,christophe CAZIN,christophe.cazin@interieur.gouv.fr,assistant_rga,O,License Ouverte 1.0,Firefox,,o,1.0.4,,n,o,,,non,28/11/18,KZ1,Proposition DINSIC,https://github.com/DISIC/assistant-rgaa/blob/master/doc/installation.md
+66,espace utilisateur et canal,consultation et édition de documents,captation vidéo et flux,,Université de Strasbourg,François-Xavier Schnell,francois.schnell@unistra.fr,OBS Studio,R,GPL2,,,,22,22,,,,,non,20/12/18,LPI,,
+67,espace utilisateur et canal,outil de productivité,gestion de tâches,,DINSIC,s.o.,s.o.,Wekan,O,,,,,,,,,,,,05/12/18,LPI,"kanban, gestion de petit projet agile",
+68,espace utilisateur et canal,messagerie agenda contacts,Rendez-vous,,DINSIC,s.o.,s.o.,Framadate,O,,,,,,,,,,,,20/12/18,LPI,le projet issu de studs porté par framasoft https://git.framasoft.org/framasoft/framadate,
+69,orchestration et logique métier,outil collaboratif,enquête,,INTERIEUR,christophe CAZIN,christophe.cazin@interieur.gouv.fr,Limesurvey,O,,,,,,,,,,,,05/12/18,LPI,,
+70,orchestration et logique métier,outil collaboratif,partage de fichiers,,DINSIC,s.o.,s.o.,NextCloud,O,,,,,,,,,,,,05/12/18,LPI,,
+71,orchestration et logique métier,outil collaboratif,wiki,,DINSIC,s.o.,s.o.,MediaWiki,O,,,,,,,,,,,,05/12/18,LPI,,
+72,espace utilisateur et canal,messagerie agenda contacts,messagerie instantanée,,DINSIC,s.o.,s.o.,Rocketchat,R,,,,,,,,,,,,20/12/18,LPI,en attendant Tchap,
+73,orchestration et logique métier,outil collaboratif,microblogue,,DINSIC,s.o.,s.o.,Mastodon,O,,,,,,,,,,,,05/12/18,LPI,,
+74,orchestration et logique métier,moteur SIG,informations géographiques,,DINSIC,s.o.,s.o.,uMap.OpenStreetMap,O,,,,,,,,,,,,20/12/18,LPI,,
+75,orchestration et logique métier,outil collaboratif,rédaction collaborative,,DINSIC,s.o.,s.o.,LibreOffice en ligne,O,,,,,,,,,,,,05/12/18,LPI,,
+76,orchestration et logique métier,outil collaboratif,forum,,DINSIC,s.o.,s.o.,Discourse,R,,,,,,,,,,,,20/12/18,LPI,,
+77,données et contenu,gestion de contenu web,gestion de contenu web,,DINSIC,s.o.,s.o.,Drupal,O,,,,,,,,,,,,05/12/18,LPI,,
+78,orchestration et logique métier,outil collaboratif,blogue,,DINSIC,s.o.,s.o.,Wordpress,O,,,,,,,,,,,,05/12/18,LPI,,
+79,espace utilisateur et canal,messagerie agenda contacts,liste de diffusion/discussion,,DINSIC,s.o.,s.o.,Sympa,O,,,,,,,,,,,,05/12/18,LPI,,
