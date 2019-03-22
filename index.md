@@ -10,8 +10,10 @@
 
 # SILL 2019
 
--   Page principale du [SILL 2019](2019)
--   Tableau [ODS](2019/sill-2019.ods) ou [CSV](2019/sill-2019.csv) du SILL complet
+-   Version [PDF](2019/sill-2019.pdf)
+-   Version [HTML](2019/)
+-   Version [ODS](2019/sill-2019.ods)
+-   Version [CSV](2019/sill-2019.csv)
 
 
 # SILL 2018
