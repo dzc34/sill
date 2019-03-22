@@ -1,6 +1,6 @@
 #+title: Listes des changements entre le SILL 2018 et le SILL 2019
 
-* SILL PROD
+* SILL MIMPROD
 
 ** Entrées et sorties
 
@@ -32,7 +32,7 @@
 | logstash / kibana      |  5.6 |   6.X |
 | Eole AMON              |  2.6 |   2.7 |
     
-* SILL DEV
+* SILL MIMDEV
 
 ** Entrées et sorties
 
@@ -87,7 +87,7 @@
 | Talend Open Studio for Data Integration (BASIC) |   6.3.X |   7.0.1 |
 | GitLab Community Edition                        |  9.0.10 |    11.X |
 
-* SILL Office
+* SILL MIMO
 
 ** Entrées et sorties
 
