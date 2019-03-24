@@ -1,9 +1,8 @@
-#+title: Socle interministériel des logiciels libres
+#+title: Socle interministériel des logiciels libres (SILL)
 
-* Le Socle interministériel des logiciels libres (SILL)
+* Socle interministériel des logiciels libres (SILL)
 
-- Voir la [[https://references.modernisation.gouv.fr/socle-logiciels-libres][page de référence du SILL]]
-- Cette page propose une *version navigable* du SILL
+- Qu'est-ce que le SILL ? Voir la [[https://references.modernisation.gouv.fr/socle-logiciels-libres][page de référence du SILL]]
 - Pour toute suggestion, merci de consulter [[https://github.com/disic/sill][ce dépôt]]
 - Pour toute question, écrire à [[mailto:bastien.guerry@data.gouv.fr][bastien.guerry@data.gouv.fr]]
 
@@ -23,4 +22,6 @@
 
 * Licence
 
-Le contenu du SILL et de ce dépôt est publié sous [[https://github.com/etalab/Licence-Ouverte/blob/master/LO.md][licence Ouverte 2.0]].
+Le SILL est publié par les Groupes Mutualisation Interministérielle.
+
+Ce dépôt est publié sous [[https://github.com/etalab/Licence-Ouverte/blob/master/LO.md][licence Ouverte 2.0]].
