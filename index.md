@@ -1,5 +1,3 @@
-
-
 # Le Socle interministériel des logiciels libres (SILL)
 
 -   Voir la [page de référence du SILL](https://references.modernisation.gouv.fr/socle-logiciels-libres)
