@@ -8,10 +8,9 @@
 
 * SILL 2019
 
-- Version [[file:2019/sill-2019.pdf][PDF]]
+- Version [[file:2019/sill-2019.pdf][PDF]] et [[file:2019/sill-2019.odt][ODT]]
+- Version [[file:2019/sill-2019.ods][ODS]] et [[file:2019/sill-2019.csv][CSV]]
 - Version [[file:2019/][HTML]]
-- Version [[file:2019/sill-2019.ods][ODS]]
-- Version [[file:2019/sill-2019.csv][CSV]]
 
 * SILL 2018
 

@@ -1,6 +1,6 @@
 
 
-# Le Socle interministériel des logiciels libres (SILL)
+# Socle interministériel des logiciels libres (SILL)
 
 -   Qu'est-ce que le SILL ? Voir la [page de référence du SILL](https://references.modernisation.gouv.fr/socle-logiciels-libres)
 -   Pour toute suggestion, merci de consulter [ce dépôt](https://github.com/disic/sill)
@@ -9,10 +9,9 @@
 
 # SILL 2019
 
--   Version [PDF](2019/sill-2019.pdf)
+-   Version [PDF](2019/sill-2019.pdf) et [ODT](2019/sill-2019.odt)
+-   Version [ODS](2019/sill-2019.ods) et [CSV](2019/sill-2019.csv)
 -   Version [HTML](2019/)
--   Version [ODS](2019/sill-2019.ods)
--   Version [CSV](2019/sill-2019.csv)
 
 
 # SILL 2018
