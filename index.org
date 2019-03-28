@@ -11,6 +11,7 @@
 - Version [[file:2019/sill-2019.pdf][PDF]] et [[file:2019/sill-2019.odt][ODT]]
 - Version [[file:2019/sill-2019.ods][ODS]] et [[file:2019/sill-2019.csv][CSV]]
 - Version [[file:2019/][HTML]]
+- Liste des changements ([[file:2019/sill-diff-2018-2019.odt][ODT]] et [[file:2019/sill-diff-2018-2019.pdf][PDF]])
 
 * SILL 2018
 
