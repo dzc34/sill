@@ -121,7 +121,7 @@ Données et contenu,BD Relationnelles,Base transactionnelle cluster,Base de prod
 Données et contenu,BD Relationnelles,Base de données Géomatique,Information géographique,PostGIS,,R,"2,4",,,,,,
 Données et contenu,Gestionnaire de données non relationnelles,Base de données NoSQL,Base de données Document,MongoDB,,R,"3,4",,,,,,
 Données et contenu,Moteur de recherche,Indexation et recherche plein texte,En mode cluster,ElasticSearch,,R,6.x,,,,,,
-Données et contenu,Moteur de recherche,Indexation et recherche plein texte,Limité à 1 serveur,Apache SolR,,FR,0,,,,,,
+Données et contenu,Moteur de recherche,Indexation et recherche plein texte,Limité à 1 serveur,Apache SolR,,R,8.0.0,,,,,,
 Logiciel Système et Virtualisation,Système d'Exploitation,Distribution GNU/LINUX,En centre de production,CentOS (souche Redhat),,R,"7,6",,,,,,
 Logiciel Système et Virtualisation,Système d'Exploitation,Distribution GNU/LINUX,Services déconcentrés,Ubuntu – Eole,,R,"2,7",,,,,,
 Logiciel Système et Virtualisation,Système d'Exploitation,Distribution GNU/LINUX,En centre de production,Debian,,R,9,,,,,,
