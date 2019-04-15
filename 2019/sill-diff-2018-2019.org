@@ -119,9 +119,9 @@
 - *K-9 Mail*
   - Fonctionnalité : Courrielleur pour Android
   - Version : 5.600
-- *WEBACCESS* (NVDA)
+- *WebAccess* (NVDA)
   - Fonctionnalité : Outil de dev pour l’accessibilité
-  - Version : 2018.10.10
+  - Version : 2019.04.11
 - *assistant_rga* (Firefox)
   - Fonctionnalité : Outil de test de compatibilité RGAOutil de test accessibilité
   - Version 1.0.4
