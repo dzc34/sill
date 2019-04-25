@@ -13,10 +13,6 @@ territoriales.
 -   Pour une modification sur ce site, merci de consulter [ce dépôt](https://github.com/disic/sill)
 -   Pour toute question, écrire à [bastien.guerry@data.gouv.fr](mailto:bastien.guerry@data.gouv.fr)
 
-**La version présentée ici est une version de travail.**
-
-La version stable sera publiée par les groupes MIM.
-
 
 # Les communautés qui construisent le SILL
 
@@ -33,6 +29,10 @@ email ; un groupe « noyau » assure la coordination de l'ensemble.
 
 
 # SILL 2019
+
+**La version présentée ici est une version de travail.**
+
+La version stable sera publiée par les groupes MIM.
 
 -   Version [PDF](2019/sill-2019.pdf) et [ODT](2019/sill-2019.odt)
 -   Version [ODS](2019/sill-2019.ods) et [CSV](2019/sill-2019.csv)
