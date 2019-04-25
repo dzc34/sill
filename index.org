@@ -1,10 +1,30 @@
-#+title: Socle interministériel des logiciels libres (SILL)
+#+title: Socle interministériel des logiciels libres
 
-* Socle interministériel des logiciels libres (SILL)
+* Socle interministériel des logiciels libres
 
-- Qu'est-ce que le SILL ? Voir la [[https://references.modernisation.gouv.fr/socle-logiciels-libres][page de référence du SILL]]
-- Pour toute suggestion, merci de consulter [[https://github.com/disic/sill][ce dépôt]]
+Le socle interministériel de logiciels libres (SILL) est le catalogue
+de référence des logiciels libres recommandés par l’Etat.  
+
+Il est construit de façon collaborative par des communautés d’agents
+informaticiens de l’État, d’opérateurs publics et de collectivités
+territoriales.
+
+- Pour plus de détails, voir la [[https://references.modernisation.gouv.fr/socle-logiciels-libres][page de référence du SILL]]
+- Pour une modification sur ce site, merci de consulter [[https://github.com/disic/sill][ce dépôt]]
 - Pour toute question, écrire à [[mailto:bastien.guerry@data.gouv.fr][bastien.guerry@data.gouv.fr]]
+
+* Les communautés qui construisent le SILL
+
+Le SILL est rédigé par trois groupes :
+
+- le groupe MIMO se consacre aux outils de bureautique ;
+- le groupe MIMDEV se consacre aux outils de développement ;
+- Le groupe MIMPROD se consacre aux outils de mise en production.
+
+Le préfixe "MIM" signifie "Mutualisation interministérielle".
+
+Chaque groupe se réunit en présentiel et échange régulièrement par
+email ; un groupe « noyau » assure la coordination de l'ensemble.
 
 * SILL 2019
 
@@ -22,6 +42,7 @@
 
 * Licence
 
-Le SILL est publié par les Groupes Mutualisation Interministérielle.
+Le SILL est publié par les groupes de mutualisation
+interministérielle.
 
 Ce dépôt est publié sous [[https://github.com/etalab/Licence-Ouverte/blob/master/LO.md][licence Ouverte 2.0]].
