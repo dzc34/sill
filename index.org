@@ -13,6 +13,10 @@ territoriales.
 - Pour une modification sur ce site, merci de consulter [[https://github.com/disic/sill][ce dépôt]]
 - Pour toute question, écrire à [[mailto:bastien.guerry@data.gouv.fr][bastien.guerry@data.gouv.fr]]
 
+*La version présentée ici est une version de travail.*
+
+La version stable sera publiée par les groupes MIM.
+
 * Les communautés qui construisent le SILL
 
 Le SILL est rédigé par trois groupes :
