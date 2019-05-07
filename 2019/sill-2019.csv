@@ -59,7 +59,6 @@ opérations,déploiement gestion d’actif et de configuration,"Déploiement, mi
 opérations,service level management,Plugin GLPI-Survey (questionnaire),Gestion de parc,/GLPI/,AGPLv3+,O,9.3.1.0,GLPI,,,9.3.1.0,,
 espace utilisateur et canal,messagerie agenda contacts,Courrielleur pour Android,Client de Messagerie,/K-9 Mail/,apache V2.0,O,5.600,K-9 Mail,,n,,o,o
 conception et développement,qualité et sécurité de code source,Outil de dev pour l’accessibilité,,/WebAccess/,GPLv2,O,2019.04.11,NVDA,,o,x,n,o
-conception et développement,qualité et sécurité de code source,Outil de test de compatibilité RGAOutil de test accessibilité,,/assistant_rga/,License Ouverte 1.0,O,1.0.4,Firefox,,o,,n,o
 espace utilisateur et canal,consultation et édition de documents,captation vidéo et flux,,OBS Studio,GPL2,R,22,,,,22,,
 espace utilisateur et canal,outil de productivité,gestion de tâches,,Wekan,,O,,,,,,,
 espace utilisateur et canal,messagerie agenda contacts,Rendez-vous,,Framadate,,O,,,,,,,

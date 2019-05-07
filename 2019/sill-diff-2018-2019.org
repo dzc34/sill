@@ -122,9 +122,6 @@
 - *WebAccess* (NVDA)
   - Fonctionnalité : Outil de dev pour l’accessibilité
   - Version : 2019.04.11
-- *assistant_rga* (Firefox)
-  - Fonctionnalité : Outil de test de compatibilité RGAOutil de test accessibilité
-  - Version 1.0.4
 - *Wekan*
   - Fonctionnalité : gestion de tâches
 - *Framadate*
