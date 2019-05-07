@@ -26,7 +26,7 @@ Le préfixe "MIM" signifie "Mutualisation interministérielle".
 Chaque groupe se réunit en présentiel et échange régulièrement par
 email ; un groupe « noyau » assure la coordination de l'ensemble.
 
-* SILL 2019
+* Le SILL 2019
 
 *La version présentée ici est une version de travail.*
 
@@ -37,7 +37,7 @@ La version stable sera publiée par les groupes MIM.
 - Version [[file:2019/][HTML]]
 - Liste des changements ([[file:2019/sill-diff-2018-2019.odt][ODT]] et [[file:2019/sill-diff-2018-2019.pdf][PDF]])
 
-* SILL 2018
+* Le SILL 2018
 
 - Page principale du [[file:2018][SILL 2018]]
 - Une version [[file:2018/sources.csv][CSV]] du SILL 2018

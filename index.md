@@ -28,7 +28,7 @@ Chaque groupe se réunit en présentiel et échange régulièrement par
 email ; un groupe « noyau » assure la coordination de l'ensemble.
 
 
-# SILL 2019
+# Le SILL 2019
 
 **La version présentée ici est une version de travail.**
 
@@ -40,7 +40,7 @@ La version stable sera publiée par les groupes MIM.
 -   Liste des changements ([ODT](2019/sill-diff-2018-2019.odt) et [PDF](2019/sill-diff-2018-2019.pdf))
 
 
-# SILL 2018
+# Le SILL 2018
 
 -   Page principale du [SILL 2018](2018)
 -   Une version [CSV](2018/sources.csv) du SILL 2018
