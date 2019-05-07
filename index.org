@@ -3,23 +3,23 @@
 * Socle interministériel des logiciels libres
 
 Le socle interministériel de logiciels libres (SILL) est le catalogue
-de référence des logiciels libres recommandés par l’Etat.  
+de référence des logiciels libres recommandés par l’Etat.
 
 Il est construit de façon collaborative par des communautés d’agents
 informaticiens de l’État, d’opérateurs publics et de collectivités
 territoriales.
 
-- Pour plus de détails, voir la [[https://references.modernisation.gouv.fr/socle-logiciels-libres][page de référence du SILL]]
-- Pour une modification sur ce site, merci de consulter [[https://github.com/disic/sill][ce dépôt]]
+- La page d'accueil de ces groupes : [[https://www.mim-libre.fr/][www.mim-libre.fr]]
+- La page de présentation du SILL [[https://references.modernisation.gouv.fr/socle-logiciels-libres][côté DINSIC]]
 - Pour toute question, écrire à [[mailto:bastien.guerry@data.gouv.fr][bastien.guerry@data.gouv.fr]]
 
 * Les communautés qui construisent le SILL
 
 Le SILL est rédigé par trois groupes :
 
-- le groupe MIMO se consacre aux outils de bureautique ;
-- le groupe MIMDEV se consacre aux outils de développement ;
-- Le groupe MIMPROD se consacre aux outils de mise en production.
+- [[https://www.mim-libre.fr/mimo/][le groupe MIMO]] se consacre aux outils de bureautique ;
+- [[https://www.mim-libre.fr/mimdev-outils-de-developpements/][le groupe MIMDEV]] se consacre aux outils de développement ;
+- [[https://www.mim-libre.fr/mimprod-outils-de-production/][le groupe MIMPROD]] se consacre aux outils de mise en production.
 
 Le préfixe "MIM" signifie "Mutualisation interministérielle".
 
@@ -37,7 +37,10 @@ La version stable sera publiée par les groupes MIM.
 - Version [[file:2019/][HTML]]
 - Liste des changements ([[file:2019/sill-diff-2018-2019.odt][ODT]] et [[file:2019/sill-diff-2018-2019.pdf][PDF]])
 
-* Le SILL 2018
+*Pour proposer un nouveau logiciel en vue du SILL 2020*, vous pouvez
+[[https://github.com/DISIC/sill/issues/new][ouvrir un ticket sur le dépôt de travail]].
+
+* COMMENT Le SILL 2018
 
 - Page principale du [[file:2018][SILL 2018]]
 - Une version [[file:2018/sources.csv][CSV]] du SILL 2018
