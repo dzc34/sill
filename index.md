@@ -39,6 +39,8 @@ La version stable sera publiée par les groupes MIM.
 -   Version [HTML](2019/)
 -   Liste des changements ([ODT](2019/sill-diff-2018-2019.odt) et [PDF](2019/sill-diff-2018-2019.pdf))
 
+[Télécharger](ftp://eoleng.ac-dijon.fr/SILL2019/) l'installateur de LibreOffice MIMO.
+
 **Pour proposer un nouveau logiciel en vue du SILL 2020**, vous pouvez
 [ouvrir un ticket sur le dépôt de travail](https://github.com/DISIC/sill/issues/new).
 
