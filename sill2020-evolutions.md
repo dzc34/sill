@@ -131,6 +131,32 @@ en (3) informations complètementaires (pour tous les niveaux `R`, `O` et
 
 ## #4: Publier le sill sur sill.etalab.gouv.fr
 
+Le SILL est aujourd'hui publié par les groupes MIM en PDF dans sa
+version stable.
 
-## #5: Publier des cas d'usage
+Il est aussi publié sur ce dépôt comme une version de travail.
+
+La publication du SILL sur un sous-domaine d'Etalab répondrait en
+partie au problème du portage officiel du SILL par la DINSIC.  L'outil
+de publication devrait aussi permettre de gérer les demandes d'entrée
+dans le SILL et l'harmonisation du travail des trois groupes MIM\*.
+
+
+## #5: Publier des cas d'usage et des informations sur l'utilisation
+
+Si l'entrée d'une souche au niveau *recommandé* (`R`) dépend de
+l'existence d'informations publiques sur son utilisation effective par
+un ministère ou un organisme public, il faut commencer à publier ce
+genre d'informations quelque part.
+
+
+## #6 Ouvrir (tous?) les niveaux à tous les organismes publics
+
+Aujourd'hui, les souches présentes dans le SILL sont utilisées dans
+les ministères centraux, qu'elles soient en recommandation ou en
+observation.
+
+Nous pouvons envisager d'ouvrir le nouveau niveau U à tous les
+organismes publics, voire même tous les niveaux à tous les organismes
+publics, au-delà des seuls ministères centraux.
 
