@@ -136,7 +136,7 @@
   - Fonctionnalité : messagerie instantanée
 - *Mastodon*
   - Fonctionnalité : microblogue
-- *uMap.OpenStreetMap*
+- *uMap*
   - Fonctionnalité : informations géographiques
 - *LibreOffice en ligne*
   - Fonctionnalité : rédaction collaborative

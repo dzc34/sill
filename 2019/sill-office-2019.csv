@@ -67,7 +67,7 @@ TRI,SECTEUR,COMPOSANT,FONCTIONNALITÉ,CAS D’USAGE,RESPONSABLESUIVI,QUI ?,COURR
 71,orchestration et logique métier,outil collaboratif,wiki,,DINSIC,s.o.,s.o.,MediaWiki,O,,,,,,,,,,,,05/12/18,LPI,,
 72,espace utilisateur et canal,messagerie agenda contacts,messagerie instantanée,,DINSIC,s.o.,s.o.,Rocketchat,R,,,,,,,,,,,,20/12/18,LPI,en attendant Tchap,
 73,orchestration et logique métier,outil collaboratif,microblogue,,DINSIC,s.o.,s.o.,Mastodon,O,,,,,,,,,,,,05/12/18,LPI,,
-74,orchestration et logique métier,moteur SIG,informations géographiques,,DINSIC,s.o.,s.o.,uMap.OpenStreetMap,O,,,,,,,,,,,,20/12/18,LPI,,
+74,orchestration et logique métier,moteur SIG,informations géographiques,,DINSIC,s.o.,s.o.,uMap,O,,,,,,,,,,,,20/12/18,LPI,,
 75,orchestration et logique métier,outil collaboratif,rédaction collaborative,,DINSIC,s.o.,s.o.,LibreOffice en ligne,O,,,,,,,,,,,,05/12/18,LPI,,
 76,orchestration et logique métier,outil collaboratif,forum,,DINSIC,s.o.,s.o.,Discourse,R,,,,,,,,,,,,20/12/18,LPI,,
 77,données et contenu,gestion de contenu web,gestion de contenu web,,DINSIC,s.o.,s.o.,Drupal,O,,,,,,,,,,,,05/12/18,LPI,,
