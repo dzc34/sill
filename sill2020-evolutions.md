@@ -106,7 +106,7 @@ La publication du SILL sur un sous-domaine d'Etalab répondrait en partie au pro
 Si l'entrée d'un logiciel libre au niveau *recommandé* (`R`) dépend de l'existence d'informations publiques sur son utilisation effective par un ministère ou un organisme public, il faut commencer à publier ce genre d'informations quelque part.
 
 
-## #6 Ouvrir (tous?) les niveaux à tous les organismes publics
+## #6: [Ouvrir (tous?) les niveaux à tous les organismes publics](https://github.com/DISIC/sill/issues/25)
 
 Aujourd'hui, les souches présentes dans le SILL sont utilisées dans les ministères centraux, qu'elles soient en recommandation ou en observation.
 
