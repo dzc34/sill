@@ -45,6 +45,12 @@ La version stable sera publiée par les groupes MIM.
 [ouvrir un ticket sur le dépôt de travail](https://github.com/DISIC/sill/issues/new).
 
 
+# Le SILL 2020 : propositions d'évolution
+
+Suite à la réunion de juin 2019, plusieurs difficultés ont été
+identifiés et plusieurs [propositions d'évolution](sill2020-evolutions.md) formulées.
+
+
 # Licence
 
 Le SILL est publié par les groupes de mutualisation

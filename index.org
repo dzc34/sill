@@ -42,6 +42,11 @@ La version stable sera publiée par les groupes MIM.
 *Pour proposer un nouveau logiciel en vue du SILL 2020*, vous pouvez
 [[https://github.com/DISIC/sill/issues/new][ouvrir un ticket sur le dépôt de travail]].
 
+* Le SILL 2020 : propositions d'évolution
+
+Suite à la réunion de juin 2019, plusieurs difficultés ont été
+identifiés et plusieurs [[file:sill2020-evolutions.org][propositions d'évolution]] formulées.
+
 * COMMENT Le SILL 2018
 
 - Page principale du [[file:2018][SILL 2018]]
