@@ -29,7 +29,7 @@ Il existe trois documents distincts pour le suivi des souches présentes dans le
 # Propositions
 
 
-## #1: Retravailler les catégories de recommandation
+## #1: [Retravailler les catégories de recommandation](https://github.com/DISIC/sill/issues/20)
 
 Aujourd'hui, le SILL distingue trois niveaux :
 
@@ -46,7 +46,7 @@ La proposition consiste à proposer ces niveaux :
 Les souches en fin de recommandation ne feraient plus partie du SILL (mais la mise à jour du SILL indiquerait la liste des souches qui en sortent) et les souches *en usage* seraient des logiciels utilisés sans avoir cocher tous les critères pour atteindre le niveau *recommandé*.
 
 
-## #2: Distinguer deux rôles : "référent" et "utilisateur"
+## #2: [Distinguer deux rôles : "référent" et "utilisateur"](https://github.com/DISIC/sill/issues/21)
 
 Aujourd'hui, un référent est une personne dont le nom n'apparaît pas publiquement sur le SILL mais qui est la personne ressource pour les groupes MIM quand ceux-ci cherchent des informations sur une souche.  Aucune souche n'entre dans le SILL sans référent.
 
@@ -59,7 +59,7 @@ La proposition consiste à distinguer deux rôles :
 Une souche pourrait entrer en *recommandation* (`R`) seulement si elle a un *référent*.  Mais une souche portée seulement par un *utilisateur* pourrait entrer en *observation* (`O`) et/ou en *utilisation* (`U`).
 
 
-## #3: Mieux définir les « critères » d'entrée dans le SILL
+## #3: [Mieux définir les « critères » d'entrée dans le SILL](https://github.com/DISIC/sill/issues/22)
 
 Aujourd'hui, la liste des critères est publiée dans un document interne aux groupes MIM.
 
@@ -92,7 +92,7 @@ Nous proposition de les réorganiser en (1) **prérequis** (pour tous les niveau
 -   Le logiciel est adapté aux besoins des ministères français : intégration dans les SI ministériels et respect de la PSSIE, traduction en français, besoins spécifiques aux grands comptes.
 
 
-## #4: Publier le sill sur sill.etalab.gouv.fr
+## #4: [Publier le sill sur sill.etalab.gouv.fr](https://github.com/DISIC/sill/issues/23)
 
 Le SILL est aujourd'hui publié par les groupes MIM en PDF dans sa version stable.
 
@@ -101,7 +101,7 @@ Il est aussi publié sur ce dépôt comme une version de travail.
 La publication du SILL sur un sous-domaine d'Etalab répondrait en partie au problème du portage officiel du SILL par la DINSIC.  L'outil de publication devrait aussi permettre de gérer les demandes d'entrée dans le SILL et l'harmonisation du travail des trois groupes MIM\*.
 
 
-## #5: Publier des cas d'usage et des informations sur l'utilisation
+## #5: [Publier des cas d'usage et des informations sur l'utilisation](https://github.com/DISIC/sill/issues/24)
 
 Si l'entrée d'un logiciel libre au niveau *recommandé* (`R`) dépend de l'existence d'informations publiques sur son utilisation effective par un ministère ou un organisme public, il faut commencer à publier ce genre d'informations quelque part.
 
