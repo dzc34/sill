@@ -131,9 +131,9 @@ Le référent *n’est pas* :
 - obligé de rester référent toute l’année ;
 - obligé de publier son identité.
 
-* Licence
+* Licence du SILL et de ce dépôt
 
-Le SILL est publié par les groupes de mutualisation
-interministérielle.
+Le SILL est publié par les groupes de mutualisation interministérielle
+sous [[https://github.com/etalab/Licence-Ouverte/blob/master/LO.md][licence Ouverte 2.0]].
 
 Ce dépôt est publié sous [[https://github.com/etalab/Licence-Ouverte/blob/master/LO.md][licence Ouverte 2.0]].
