@@ -120,7 +120,7 @@ Le référent :
 4. participe au moins une fois par an à l’une des réunions du groupe
    MIM pertinent (MIMO, MIMPROD ou MIMDEV) ;
 
-5. participe aux discussions entre mainteneurs sur [[https://listes.etalab.gouv.fr/listinfo/sill-mainteneurs][sill-mainteneurs]] ;
+5. participe aux discussions entre mainteneurs sur la liste [[https://listes.etalab.gouv.fr/listinfo/sill-mainteneurs][sill-mainteneurs]] ;
 
 6. cherche un référent pour le remplacer s’il venait à ne plus pouvoir
    être référent.
