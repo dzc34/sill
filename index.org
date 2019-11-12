@@ -108,22 +108,12 @@ son ministère.
 
 *Le référent :*
 
-1. atteste de l’usage d’un logiciel libre dans son administration
-   centrale ;
-
-2. collecte les informations pertinentes (de la version utilisée à des
-   cas d’usage complets) sur le logiciel ;
-
-3. remonte ces informations aux mainteneurs du [[https://github.com/disic/sill][dépôt SILL]] hébergé par
-   la DINUM - s’il peut, il met à jour ce dépôt directement ;
-
-4. participe au moins une fois par an à l’une des réunions du groupe
-   MIM pertinent (MIMO, MIMPROD ou MIMDEV) ;
-
+1. atteste de l’usage d’un logiciel libre dans son administration centrale ;
+2. collecte les informations pertinentes (de la version utilisée à des cas d’usage complets) sur le logiciel ;
+3. remonte ces informations aux mainteneurs du [[https://github.com/disic/sill][dépôt SILL]] hébergé par la DINUM - s’il peut, il met à jour ce dépôt directement ;
+4. participe au moins une fois par an à l’une des réunions du groupe MIM pertinent (MIMO, MIMPROD ou MIMDEV) ;
 5. participe aux discussions entre mainteneurs sur la liste [[https://listes.etalab.gouv.fr/listinfo/sill-mainteneurs][sill-mainteneurs]] ;
-
-6. cherche un référent pour le remplacer s’il venait à ne plus pouvoir
-   être référent.
+6. cherche un référent pour le remplacer s’il venait à ne plus pouvoir être référent.
 
 *Le référent n’est pas :*
 
