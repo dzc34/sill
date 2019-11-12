@@ -9,22 +9,11 @@ Il est construit de façon collaborative par des communautés d’agents
 informaticiens de l’État, d’opérateurs publics et de collectivités
 territoriales.
 
-- La page d'accueil de ces groupes : [[https://www.mim-libre.fr/][www.mim-libre.fr]]
-- La page de présentation du SILL [[https://references.modernisation.gouv.fr/socle-logiciels-libres][côté DINSIC]]
-- Pour toute question, écrire à [[mailto:bastien.guerry@data.gouv.fr][bastien.guerry@data.gouv.fr]]
+- La page d'accueil du SILL côté DINUM : [[https://disic.github.io/sill/index.html][disic.github.io/sill]]
+- La page d'accueil des groupes MIM : [[https://www.mim-libre.fr/][www.mim-libre.fr]]
+- L'ancienne page de présentation du SILL [[https://references.modernisation.gouv.fr/socle-logiciels-libres][côté DINSIC]]
 
-* Les communautés qui construisent le SILL
-
-Le SILL est rédigé par trois groupes :
-
-- [[https://www.mim-libre.fr/mimo/][le groupe MIMO]] se consacre aux outils de bureautique ;
-- [[https://www.mim-libre.fr/mimdev-outils-de-developpements/][le groupe MIMDEV]] se consacre aux outils de développement ;
-- [[https://www.mim-libre.fr/mimprod-outils-de-production/][le groupe MIMPROD]] se consacre aux outils de mise en production.
-
-Le préfixe "MIM" signifie "Mutualisation interministérielle".
-
-Chaque groupe se réunit en présentiel et échange régulièrement par
-email ; un groupe « noyau » assure la coordination de l'ensemble.
+Pour toute question, écrire à [[mailto:bastien.guerry@data.gouv.fr][bastien.guerry@data.gouv.fr]]
 
 * Le SILL 2019
 
@@ -42,10 +31,24 @@ La version stable sera publiée par les groupes MIM.
 *Pour proposer un nouveau logiciel en vue du SILL 2020*, vous pouvez
 [[https://github.com/DISIC/sill/issues/new][ouvrir un ticket sur le dépôt de travail]].
 
-* Le SILL 2020 : propositions d'évolution
+* Les communautés qui construisent le SILL
 
-Suite à la réunion de juin 2019, plusieurs difficultés ont été
-identifiés et plusieurs [[file:sill2020-evolutions.org][propositions d'évolution]] formulées.
+Le SILL est rédigé par trois groupes :
+
+- [[https://www.mim-libre.fr/mimo/][le groupe MIMO]] se consacre aux outils de bureautique ;
+- [[https://www.mim-libre.fr/mimdev-outils-de-developpements/][le groupe MIMDEV]] se consacre aux outils de développement ;
+- [[https://www.mim-libre.fr/mimprod-outils-de-production/][le groupe MIMPROD]] se consacre aux outils de mise en production.
+
+Le préfixe "MIM" signifie "Mutualisation interministérielle".
+
+Chaque groupe se réunit en présentiel et échange régulièrement par
+email ; un groupe « noyau » assure la coordination de l'ensemble.
+
+Pour demander à participer aux échanges des groupes :
+
+- s’inscrire sur [[https://listes.etalab.gouv.fr/listinfo/mimdev][la liste MIMDEV]] ;
+- s’inscrire sur [[https://listes.etalab.gouv.fr/listinfo/mimo][la liste MIMO]] ;
+- s’inscrire sur [[https://listes.etalab.gouv.fr/listinfo/mimprod][la liste MIMPROD]] ;
 
 * COMMENT Le SILL 2018
 
