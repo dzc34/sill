@@ -1,4 +1,15 @@
 
+# Table des matières
+
+-   [Socle interministériel des logiciels libres](#org4709da6)
+-   [Le SILL 2019](#org56d8b26)
+-   [Les communautés qui construisent le SILL](#orgac2de5d)
+-   [Les critères d’entrée d’un logiciel dans le SILL](#orgd4c8ef7)
+-   [Licence](#org5fabe7d)
+
+
+
+<a id="org4709da6"></a>
 
 # Socle interministériel des logiciels libres
 
@@ -16,6 +27,8 @@ territoriales.
 Pour toute question, écrire à [bastien.guerry@data.gouv.fr](mailto:bastien.guerry@data.gouv.fr)
 
 
+<a id="org56d8b26"></a>
+
 # Le SILL 2019
 
 **La version présentée ici est une version de travail.**
@@ -32,6 +45,8 @@ La version stable sera publiée par les groupes MIM.
 **Pour proposer un nouveau logiciel en vue du SILL 2020**, vous pouvez
 [ouvrir un ticket sur le dépôt de travail](https://github.com/DISIC/sill/issues/new).
 
+
+<a id="orgac2de5d"></a>
 
 # Les communautés qui construisent le SILL
 
@@ -52,6 +67,8 @@ Pour demander à participer aux échanges des groupes :
 -   s’inscrire sur [la liste MIMO](https://listes.etalab.gouv.fr/listinfo/mimo) ;
 -   s’inscrire sur [la liste MIMPROD](https://listes.etalab.gouv.fr/listinfo/mimprod) ;
 
+
+<a id="orgd4c8ef7"></a>
 
 # Les critères d’entrée d’un logiciel dans le SILL
 
@@ -97,6 +114,8 @@ Pour demander à participer aux échanges des groupes :
 -   L’un des ministères utilisateur ayant un usage significatif du
     logiciel a **publié des informations sur cet usage**.
 
+
+<a id="org5fabe7d"></a>
 
 # Licence
 

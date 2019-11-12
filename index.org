@@ -1,4 +1,5 @@
 #+title: Socle interministériel des logiciels libres
+#+options: toc:1
 
 * Socle interministériel des logiciels libres
 
