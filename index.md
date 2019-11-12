@@ -1,15 +1,17 @@
 
 # Table des matières
 
--   [Socle interministériel des logiciels libres](#org4709da6)
--   [Le SILL 2019](#org56d8b26)
--   [Les communautés qui construisent le SILL](#orgac2de5d)
--   [Les critères d’entrée d’un logiciel dans le SILL](#orgd4c8ef7)
--   [Licence](#org5fabe7d)
+-   [Socle interministériel des logiciels libres](#orga11392b)
+-   [Le SILL 2019](#orgcd6c690)
+-   [Les communautés qui construisent le SILL](#org00f49da)
+-   [Les critères d’entrée d’un logiciel dans le SILL](#orga717077)
+-   [Comment ajouter un logiciel libre dans le SILL ?](#orgda08a61)
+-   [Que signifie être « référent » d’un logiciel ?](#org5fb8818)
+-   [Licence](#orgf16a9d4)
 
 
 
-<a id="org4709da6"></a>
+<a id="orga11392b"></a>
 
 # Socle interministériel des logiciels libres
 
@@ -27,26 +29,22 @@ territoriales.
 Pour toute question, écrire à [bastien.guerry@data.gouv.fr](mailto:bastien.guerry@data.gouv.fr)
 
 
-<a id="org56d8b26"></a>
+<a id="orgcd6c690"></a>
 
 # Le SILL 2019
 
-**La version présentée ici est une version de travail.**
+Voici toutes les versions du SILL 2019 :
 
-La version stable sera publiée par les groupes MIM.
-
+-   Version [HTML](2019/)
 -   Version [PDF](2019/sill-2019.pdf) et [ODT](2019/sill-2019.odt)
 -   Version [ODS](2019/sill-2019.ods) et [CSV](2019/sill-2019.csv)
--   Version [HTML](2019/)
--   Liste des changements ([ODT](2019/sill-diff-2018-2019.odt) et [PDF](2019/sill-diff-2018-2019.pdf))
 
-[Télécharger](ftp://eoleng.ac-dijon.fr/SILL2019/) l'installateur de LibreOffice MIMO.
+Vous pouvez voir la liste des changements depuis 2018 ([ODT](2019/sill-diff-2018-2019.odt) et [PDF](2019/sill-diff-2018-2019.pdf)).
 
-**Pour proposer un nouveau logiciel en vue du SILL 2020**, vous pouvez
-[ouvrir un ticket sur le dépôt de travail](https://github.com/DISIC/sill/issues/new).
+Vous pouvez [télécharger l'installateur de LibreOffice MIMO](ftp://eoleng.ac-dijon.fr/SILL2019/).
 
 
-<a id="orgac2de5d"></a>
+<a id="org00f49da"></a>
 
 # Les communautés qui construisent le SILL
 
@@ -68,7 +66,7 @@ Pour demander à participer aux échanges des groupes :
 -   s’inscrire sur [la liste MIMPROD](https://listes.etalab.gouv.fr/listinfo/mimprod) ;
 
 
-<a id="orgd4c8ef7"></a>
+<a id="orga717077"></a>
 
 # Les critères d’entrée d’un logiciel dans le SILL
 
@@ -115,7 +113,58 @@ Pour demander à participer aux échanges des groupes :
     logiciel a **publié des informations sur cet usage**.
 
 
-<a id="org5fabe7d"></a>
+<a id="orgda08a61"></a>
+
+# Comment ajouter un logiciel libre dans le SILL ?
+
+Pour proposer un nouveau logiciel en vue du SILL 2020, vous pouvez
+[ouvrir un ticket sur le dépôt de travail](https://github.com/DISIC/sill/issues/new).
+
+**Attention**: pour qu’un logiciel entre dans le SILL, il faut qu’un agent
+public se porte volontaire pour en être le *référent* (voir ci-dessous.)
+
+
+<a id="org5fb8818"></a>
+
+# Que signifie être « référent » d’un logiciel ?
+
+
+## Qui peut être « référent SILL » ?
+
+Tout agent public travaillant dans une administration central peut
+être référent d’un logiciel libre dont il connaît l’usage au sein de
+son ministère.
+
+
+## Quels sont les tâches du référent ?
+
+Le référent :
+
+1.  atteste de l’usage d’un logiciel libre dans son administration
+    centrale ;
+
+2.  collecte les informations pertinentes (de la version utilisée à des
+    cas d’usage complets) sur le logiciel ;
+
+3.  remonte ces informations aux mainteneurs du [dépôt SILL](https://github.com/disic/sill) hébergé par
+    la DINUM - s’il peut, il met à jour ce dépôt directement ;
+
+4.  participe au moins une fois par an à l’une des réunions du groupe
+    MIM pertinent (MIMO, MIMPROD ou MIMDEV) ;
+
+5.  participe aux discussions entre mainteneurs sur [sill-mainteneurs](https://listes.etalab.gouv.fr/listinfo/sill-mainteneurs) ;
+
+6.  cherche un référent pour le remplacer s’il venait à ne plus pouvoir
+    être référent.
+
+Le référent **n’est pas** : 
+
+-   un contact de support pour l’ensemble de l’administration ;
+-   obligé de rester référent toute l’année ;
+-   obligé de publier son identité.
+
+
+<a id="orgf16a9d4"></a>
 
 # Licence
 
