@@ -106,7 +106,7 @@ son ministère.
 
 ** Quels sont les tâches du référent ?
 
-Le référent :
+*Le référent :*
 
 1. atteste de l’usage d’un logiciel libre dans son administration
    centrale ;
@@ -125,7 +125,7 @@ Le référent :
 6. cherche un référent pour le remplacer s’il venait à ne plus pouvoir
    être référent.
 
-Le référent *n’est pas* : 
+*Le référent n’est pas :*
 
 - un contact de support pour l’ensemble de l’administration ;
 - obligé de rester référent toute l’année ;

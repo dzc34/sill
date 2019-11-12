@@ -1,17 +1,17 @@
 
 # Table des matières
 
--   [Socle interministériel des logiciels libres](#org6f6e7fa)
--   [Le SILL 2019](#org2de8116)
--   [Les communautés qui construisent le SILL](#org6210fdf)
--   [Les critères d’entrée d’un logiciel dans le SILL](#org852315f)
--   [Comment ajouter un logiciel libre dans le SILL ?](#org5b0c65a)
--   [Que signifie être « référent » d’un logiciel ?](#orga342d1e)
--   [Licence du SILL et de ce dépôt](#org9ecb9a9)
+-   [Socle interministériel des logiciels libres](#org1360cb9)
+-   [Le SILL 2019](#org3948ef4)
+-   [Les communautés qui construisent le SILL](#org9d1cfd6)
+-   [Les critères d’entrée d’un logiciel dans le SILL](#org5b362b7)
+-   [Comment ajouter un logiciel libre dans le SILL ?](#orgf4646a2)
+-   [Que signifie être « référent » d’un logiciel ?](#orgbdc03b8)
+-   [Licence du SILL et de ce dépôt](#orgb370a81)
 
 
 
-<a id="org6f6e7fa"></a>
+<a id="org1360cb9"></a>
 
 # Socle interministériel des logiciels libres
 
@@ -29,7 +29,7 @@ territoriales.
 Pour toute question, écrire à [bastien.guerry@data.gouv.fr](mailto:bastien.guerry@data.gouv.fr)
 
 
-<a id="org2de8116"></a>
+<a id="org3948ef4"></a>
 
 # Le SILL 2019
 
@@ -44,7 +44,7 @@ Vous pouvez voir la liste des changements depuis 2018 ([ODT](2019/sill-diff-2018
 Vous pouvez [télécharger l'installateur de LibreOffice MIMO](ftp://eoleng.ac-dijon.fr/SILL2019/).
 
 
-<a id="org6210fdf"></a>
+<a id="org9d1cfd6"></a>
 
 # Les communautés qui construisent le SILL
 
@@ -66,7 +66,7 @@ Pour demander à participer aux échanges des groupes :
 -   s’inscrire sur [la liste MIMPROD](https://listes.etalab.gouv.fr/listinfo/mimprod) ;
 
 
-<a id="org852315f"></a>
+<a id="org5b362b7"></a>
 
 # Les critères d’entrée d’un logiciel dans le SILL
 
@@ -113,7 +113,7 @@ Pour demander à participer aux échanges des groupes :
     logiciel a **publié des informations sur cet usage**.
 
 
-<a id="org5b0c65a"></a>
+<a id="orgf4646a2"></a>
 
 # Comment ajouter un logiciel libre dans le SILL ?
 
@@ -124,7 +124,7 @@ Pour proposer un nouveau logiciel en vue du SILL 2020, vous pouvez
 public se porte volontaire pour en être le *référent* (voir ci-dessous.)
 
 
-<a id="orga342d1e"></a>
+<a id="orgbdc03b8"></a>
 
 # Que signifie être « référent » d’un logiciel ?
 
@@ -138,7 +138,7 @@ son ministère.
 
 ## Quels sont les tâches du référent ?
 
-Le référent :
+**Le référent :**
 
 1.  atteste de l’usage d’un logiciel libre dans son administration
     centrale ;
@@ -157,14 +157,14 @@ Le référent :
 6.  cherche un référent pour le remplacer s’il venait à ne plus pouvoir
     être référent.
 
-Le référent **n’est pas** : 
+**Le référent n’est pas :**
 
 -   un contact de support pour l’ensemble de l’administration ;
 -   obligé de rester référent toute l’année ;
 -   obligé de publier son identité.
 
 
-<a id="org9ecb9a9"></a>
+<a id="orgb370a81"></a>
 
 # Licence du SILL et de ce dépôt
 
