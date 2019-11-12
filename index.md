@@ -53,6 +53,51 @@ Pour demander à participer aux échanges des groupes :
 -   s’inscrire sur [la liste MIMPROD](https://listes.etalab.gouv.fr/listinfo/mimprod) ;
 
 
+# Les critères d’entrée d’un logiciel dans le SILL
+
+
+## Un prérequis pour tous les logiciels
+
+-   Le code source du logiciel est publié sous l'une des licences libres
+    reconnues par la [Free Software Foundation](https://www.gnu.org/licenses/license-list.fr.html) ou l'[Open Source
+    Initiative](https://opensource.org/licenses), sans délai de publication entre le code source et la
+    version exécutable.
+
+
+## Deux critères obligatoires pour les logiciels recommandés
+
+-   Il existe un agent public d’une administration centrale référent
+    pour ce logiciel libre.
+
+-   Le logiciel est actuellement utilisé dans au moins un ministère.
+
+
+## D’autres informations optionnelles
+
+-   Le logiciel est **mûr et actif** : la longévité est constatée, il y a de
+    bonnes garanties sur la pérennité et il existe une communauté
+    dynamique ainsi qu’une feuille de route.
+
+-   Le logiciel est **performant**, il a une bonne couverture fonctionnelle
+    par rapport au besoin.
+
+-   Pour les outils de bureautique, le **logiciel est multiplateforme**.
+
+-   Si pertinent, le **logiciel respecte des normes et des standards**,
+    notamment ceux du [RGI](http://references.modernisation.gouv.fr/interoperabilite) et du [RGAA](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/).
+
+-   Le logiciel propose des **facilités d'exploitation** : supervision,
+    administration, configuration, sauvegarde, existence d'installeurs,
+    d'outils de configuration et de déploiement.
+
+-   Le logiciel est **adapté aux besoins des ministères** français :
+    intégration dans les SI ministériels et respect de la PSSIE,
+    traduction en français, besoins spécifiques aux grands comptes.
+
+-   L’un des ministères utilisateur ayant un usage significatif du
+    logiciel a **publié des informations sur cet usage**.
+
+
 # Licence
 
 Le SILL est publié par les groupes de mutualisation
