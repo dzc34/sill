@@ -96,6 +96,11 @@ public se porte volontaire pour en être le /référent/ (voir ci-dessous.)
 
 * Que signifie être « référent » d’un logiciel ?
 
+** Vous souhaitez être référent ?
+
+Pour cela, vous pouvez [[https://github.com/DISIC/sill/issues/new/choose][ouvrir un ticket]] sur le dépôt du SILL ou
+envoyer un mail à =bastien.guerry@data.gouv.fr=.
+
 ** Qui peut être « référent SILL » ?
 
 Tout agent public travaillant dans une administration central peut
