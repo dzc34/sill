@@ -1,12 +1,12 @@
 
 # Table des matières
 
--   [Le SILL 2019](#org2fbb149)
--   [Les communautés qui construisent le SILL](#orgbf98731)
--   [Les critères d’entrée d’un logiciel dans le SILL](#orgf7580e2)
--   [Comment ajouter un logiciel libre dans le SILL ?](#org518333c)
--   [Que signifie être « référent » d’un logiciel ?](#orgdcbb474)
--   [Licence du SILL et de ce dépôt](#org7ad7e36)
+-   [Le SILL 2019](#org979231f)
+-   [Les communautés qui construisent le SILL](#org551e3f9)
+-   [Les critères d’entrée d’un logiciel dans le SILL](#org5cb154c)
+-   [Comment ajouter un logiciel libre dans le SILL ?](#orgb0bebe3)
+-   [Que signifie être « référent » d’un logiciel ?](#org95a72ea)
+-   [Licence du SILL et de ce dépôt](#org7c8d675)
 
 Le socle interministériel de logiciels libres (SILL) est le catalogue
 de référence des logiciels libres recommandés par l’Etat.
@@ -22,7 +22,7 @@ territoriales.
 Pour toute question, écrire à [bastien.guerry@data.gouv.fr](mailto:bastien.guerry@data.gouv.fr)
 
 
-<a id="org2fbb149"></a>
+<a id="org979231f"></a>
 
 # Le SILL 2019
 
@@ -37,7 +37,7 @@ Vous pouvez voir la liste des changements depuis 2018 ([ODT](2019/sill-diff-2018
 Vous pouvez [télécharger l'installateur de LibreOffice MIMO](ftp://eoleng.ac-dijon.fr/SILL2019/).
 
 
-<a id="orgbf98731"></a>
+<a id="org551e3f9"></a>
 
 # Les communautés qui construisent le SILL
 
@@ -59,7 +59,7 @@ Pour demander à participer aux échanges des groupes :
 -   s’inscrire sur [la liste MIMPROD](https://listes.etalab.gouv.fr/listinfo/mimprod) ;
 
 
-<a id="orgf7580e2"></a>
+<a id="org5cb154c"></a>
 
 # Les critères d’entrée d’un logiciel dans le SILL
 
@@ -107,18 +107,18 @@ Pour demander à participer aux échanges des groupes :
     logiciel a **publié des informations sur cet usage**.
 
 
-<a id="org518333c"></a>
+<a id="orgb0bebe3"></a>
 
 # Comment ajouter un logiciel libre dans le SILL ?
 
 Pour proposer un nouveau logiciel en vue du SILL 2020, vous pouvez
-[ouvrir un ticket sur le dépôt de travail](https://github.com/DISIC/sill/issues/new).
+[ouvrir un ticket sur le dépôt de travail](https://github.com/DISIC/sill/issues/new?assignees=bzg&labels=Soumission&template=ajout-logiciel.md&title=Nouveau+logiciel+%3A+).
 
 **Attention**: pour qu’un logiciel entre dans le SILL, il faut qu’un agent
 public se porte volontaire pour en être le *référent* (voir ci-dessous.)
 
 
-<a id="orgdcbb474"></a>
+<a id="org95a72ea"></a>
 
 # Que signifie être « référent » d’un logiciel ?
 
@@ -154,7 +154,7 @@ son ministère.
 -   obligé de publier son identité.
 
 
-<a id="org7ad7e36"></a>
+<a id="org7c8d675"></a>
 
 # Licence du SILL et de ce dépôt
 
