@@ -1,6 +1,6 @@
 ---
 name: Proposition d'amélioration du SILL
-about: Proposer une amélioration du SILL autre que l'ajout d'un logiciel
+about: Proposer une amélioration du SILL autre que l'ajout/suppression d'un logiciel
 title: 'Amélioration : '
 labels: 'Amélioration'
 assignees: 'bzg'
