@@ -1,7 +1,7 @@
 ---
-name: Publication d'un cas d'usage
-about: Demander ou annoncer la publication d'un cas d'usage d'un logiciel du SILL
-title: 'Cas d'usage : '
+name: "Publication d'un cas d'usage"
+about: "Demander ou annoncer la publication d'un cas d'usage d'un logiciel du SILL"
+title: "Cas d'usage : "
 labels: 'Usage'
 assignees: 'bzg'
 ---
