@@ -59,7 +59,8 @@ Pour demander à participer aux échanges des groupes :
 - Il existe un agent public d’une administration centrale référent
   pour ce logiciel libre.
 
-- Le logiciel est actuellement utilisé dans au moins un ministère.
+- Le logiciel est actuellement utilisé dans au moins une
+  administration centrale.
 
 ** D’autres informations optionnelles
 
