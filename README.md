@@ -1,8 +1,14 @@
 # Dépôt pour la publication et la gestion du SILL
 
-Ce dépôt sert pour la publication du Socle Interministériel de Logiciels Libres en HTML et le suivi des logiciels référencés : mise à jour des informations, entrées et sorties du SILL.
+Ce dépôt sert pour la publication du Socle Interministériel de
+Logiciels Libres en HTML et le suivi des logiciels référencés : mise à
+jour des informations, entrées et sorties du Socle Interministériel de
+Logiciels Libres.
 
 Voir [le site](https://disic.github.io/sill/).
+
+L'interface d'affichage du SILL est développée [sur ce
+dépôt](https://github.com/etalab/sillweb).
 
 # Modèle de données
 
