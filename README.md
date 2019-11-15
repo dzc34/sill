@@ -18,7 +18,6 @@ Voir [le site](https://disic.github.io/sill/).
 | composant   | Description du composant          | Test & Intégration          | Valeur obligatoire |
 | secteur     | Description du secteur            | Conception & Développement  | Valeur obligatoire |
 | version     | Version recommandée               | 1.0                         | Valeur obligatoire |
-|-------------|-----------------------------------|-----------------------------|--------------------|
 | parent      | Logiciel parent                   | LibreOffice                 | Valeur optionnelle |
 | mots-clefs  | Mots-clefs assiociés              | image                       | Valeur optionnelle |
 | win-x86-x64 | Disponible pour x86 et x64        | O                           | Valeur optionnelle |
