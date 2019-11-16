@@ -852,8 +852,7 @@
   "version": "1.6 Community"
   "cas-usage": "Gestion de parc"
   "android": ""
-  "fonction": "Déploiement, mise à jour et suppression des logiciels et des configurations\
-    \ sur un parc Windows"
+  "fonction": "Déploiement, mise à jour et suppression des logiciels et des configurations sur un parc Windows"
 - "statut": "O"
   "nom": "GLPI"
   "linux-mimo": "9.3.1.0"
