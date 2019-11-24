@@ -104,7 +104,7 @@ envoyer un mail à =bastien.guerry@data.gouv.fr=.
 
 ** Qui peut être « référent SILL » ?
 
-Tout agent public travaillant dans une administration central peut
+Tout agent public travaillant dans une administration centrale peut
 être référent d’un logiciel libre dont il connaît l’usage au sein de
 son ministère.
 
