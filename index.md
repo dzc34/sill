@@ -1,12 +1,12 @@
 
 # Table des matières
 
--   [Le SILL 2019](#orgec09b51)
--   [Les communautés qui construisent le SILL](#orgfca3cc9)
--   [Les critères d’entrée d’un logiciel dans le SILL](#org75ff439)
--   [Comment ajouter un logiciel libre dans le SILL ?](#org894ce28)
--   [Que signifie être « référent » d’un logiciel ?](#org52cd94c)
--   [Licence du SILL et de ce dépôt](#orgf27a54e)
+-   [Le SILL 2019](#org98e2f22)
+-   [Les communautés qui construisent le SILL](#orgd997df5)
+-   [Les critères d’entrée d’un logiciel dans le SILL](#org15dc194)
+-   [Comment ajouter un logiciel libre dans le SILL ?](#org3eeb159)
+-   [Que signifie être « référent » d’un logiciel ?](#orgfc5a1ea)
+-   [Licence du SILL et de ce dépôt](#org0362436)
 
 Le socle interministériel de logiciels libres (SILL) est le catalogue
 de référence des logiciels libres recommandés par l’Etat.
@@ -22,7 +22,7 @@ territoriales.
 Pour toute question, écrire à [bastien.guerry@data.gouv.fr](mailto:bastien.guerry@data.gouv.fr)
 
 
-<a id="orgec09b51"></a>
+<a id="org98e2f22"></a>
 
 # Le SILL 2019
 
@@ -37,7 +37,7 @@ Vous pouvez voir la liste des changements depuis 2018 ([ODT](2019/sill-diff-2018
 Vous pouvez [télécharger l'installateur de LibreOffice MIMO](ftp://eoleng.ac-dijon.fr/SILL2019/).
 
 
-<a id="orgfca3cc9"></a>
+<a id="orgd997df5"></a>
 
 # Les communautés qui construisent le SILL
 
@@ -59,7 +59,7 @@ Pour demander à participer aux échanges des groupes :
 -   s’inscrire sur [la liste MIMPROD](https://listes.etalab.gouv.fr/listinfo/mimprod) ;
 
 
-<a id="org75ff439"></a>
+<a id="org15dc194"></a>
 
 # Les critères d’entrée d’un logiciel dans le SILL
 
@@ -107,7 +107,7 @@ Pour demander à participer aux échanges des groupes :
     logiciel a **publié des informations sur cet usage**.
 
 
-<a id="org894ce28"></a>
+<a id="org3eeb159"></a>
 
 # Comment ajouter un logiciel libre dans le SILL ?
 
@@ -118,15 +118,16 @@ Pour proposer un nouveau logiciel en vue du SILL 2020, vous pouvez
 public se porte volontaire pour en être le *référent* (voir ci-dessous.)
 
 
-<a id="org52cd94c"></a>
+<a id="orgfc5a1ea"></a>
 
 # Que signifie être « référent » d’un logiciel ?
 
 
 ## Vous souhaitez être référent ?
 
-Pour cela, vous pouvez [ouvrir un ticket](https://github.com/DISIC/sill/issues/new/choose) sur le dépôt du SILL ou
-envoyer un mail à `bastien.guerry@data.gouv.fr`.
+Pour cela, vous pouvez [ouvrir un ticket](https://github.com/DISIC/sill/issues/new/choose) sur le dépôt du SILL, demander
+de vous inscrire sur la [liste de discussion des référents](https://listes.etalab.gouv.fr/listinfo/sill-mainteneurs) ou envoyer
+un mail à `bastien.guerry@data.gouv.fr`.
 
 
 ## Qui peut être « référent SILL » ?
@@ -154,7 +155,7 @@ son ministère.
 -   obligé de publier son identité.
 
 
-<a id="orgf27a54e"></a>
+<a id="org0362436"></a>
 
 # Licence du SILL et de ce dépôt
 

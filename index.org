@@ -99,8 +99,9 @@ public se porte volontaire pour en être le /référent/ (voir ci-dessous.)
 
 ** Vous souhaitez être référent ?
 
-Pour cela, vous pouvez [[https://github.com/DISIC/sill/issues/new/choose][ouvrir un ticket]] sur le dépôt du SILL ou
-envoyer un mail à =bastien.guerry@data.gouv.fr=.
+Pour cela, vous pouvez [[https://github.com/DISIC/sill/issues/new/choose][ouvrir un ticket]] sur le dépôt du SILL, demander
+de vous inscrire sur la [[https://listes.etalab.gouv.fr/listinfo/sill-mainteneurs][liste de discussion des référents]] ou envoyer
+un mail à =bastien.guerry@data.gouv.fr=.
 
 ** Qui peut être « référent SILL » ?
 
