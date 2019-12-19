@@ -126,6 +126,13 @@ son ministère.
 - obligé de rester référent toute l’année ;
 - obligé de publier son identité.
 
+* Présentations partagées dans les groupes MIM
+
+- 27/11/2019 (MIMO) : [[https://speakerdeck.com/bluehats/presentation-management-poste-de-travail][Présentation Management Poste de travail]]
+- 27/11/2019 (MIMO) : [[https://speakerdeck.com/bluehats/firefox-for-enterprise][Firefox for Entreprise]]
+- 27/11/2019 (MIMO) : [[https://speakerdeck.com/bluehats/la-gestion-du-poste-de-travail-temps-reel][La gestion du poste de travail temps réel]]
+- 27/11/2019 (MIMO) : [[https://speakerdeck.com/bluehats/nextcloud-le-cloud-alternatif-aux-gafam][Nextcloud - Le cloud alternatif aux GAFAM]]
+
 * Licence du SILL et de ce dépôt
 
 Le SILL est publié par les groupes de mutualisation interministérielle

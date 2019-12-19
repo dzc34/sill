@@ -1,12 +1,13 @@
 
 # Table des matières
 
--   [Le SILL 2019](#org98e2f22)
--   [Les communautés qui construisent le SILL](#orgd997df5)
--   [Les critères d’entrée d’un logiciel dans le SILL](#org15dc194)
--   [Comment ajouter un logiciel libre dans le SILL ?](#org3eeb159)
--   [Que signifie être « référent » d’un logiciel ?](#orgfc5a1ea)
--   [Licence du SILL et de ce dépôt](#org0362436)
+-   [Le SILL 2019](#org6d52c8d)
+-   [Les communautés qui construisent le SILL](#orgd12809b)
+-   [Les critères d’entrée d’un logiciel dans le SILL](#org0adbc6e)
+-   [Comment ajouter un logiciel libre dans le SILL ?](#org26af79d)
+-   [Que signifie être « référent » d’un logiciel ?](#orgfed6393)
+-   [Présentations partagées dans les groupes MIM](#org381b36b)
+-   [Licence du SILL et de ce dépôt](#orgcc842c3)
 
 Le socle interministériel de logiciels libres (SILL) est le catalogue
 de référence des logiciels libres recommandés par l’Etat.
@@ -22,7 +23,7 @@ territoriales.
 Pour toute question, écrire à [bastien.guerry@data.gouv.fr](mailto:bastien.guerry@data.gouv.fr)
 
 
-<a id="org98e2f22"></a>
+<a id="org6d52c8d"></a>
 
 # Le SILL 2019
 
@@ -37,7 +38,7 @@ Vous pouvez voir la liste des changements depuis 2018 ([ODT](2019/sill-diff-2018
 Vous pouvez [télécharger l'installateur de LibreOffice MIMO](ftp://eoleng.ac-dijon.fr/SILL2019/).
 
 
-<a id="orgd997df5"></a>
+<a id="orgd12809b"></a>
 
 # Les communautés qui construisent le SILL
 
@@ -59,7 +60,7 @@ Pour demander à participer aux échanges des groupes :
 -   s’inscrire sur [la liste MIMPROD](https://listes.etalab.gouv.fr/listinfo/mimprod) ;
 
 
-<a id="org15dc194"></a>
+<a id="org0adbc6e"></a>
 
 # Les critères d’entrée d’un logiciel dans le SILL
 
@@ -107,7 +108,7 @@ Pour demander à participer aux échanges des groupes :
     logiciel a **publié des informations sur cet usage**.
 
 
-<a id="org3eeb159"></a>
+<a id="org26af79d"></a>
 
 # Comment ajouter un logiciel libre dans le SILL ?
 
@@ -118,7 +119,7 @@ Pour proposer un nouveau logiciel en vue du SILL 2020, vous pouvez
 public se porte volontaire pour en être le *référent* (voir ci-dessous.)
 
 
-<a id="orgfc5a1ea"></a>
+<a id="orgfed6393"></a>
 
 # Que signifie être « référent » d’un logiciel ?
 
@@ -155,7 +156,17 @@ son ministère.
 -   obligé de publier son identité.
 
 
-<a id="org0362436"></a>
+<a id="org381b36b"></a>
+
+# Présentations partagées dans les groupes MIM
+
+-   27/11/2019 (MIMO) : [Présentation Management Poste de travail](https://speakerdeck.com/bluehats/presentation-management-poste-de-travail)
+-   27/11/2019 (MIMO) : [Firefox for Entreprise](https://speakerdeck.com/bluehats/firefox-for-enterprise)
+-   27/11/2019 (MIMO) : [La gestion du poste de travail temps réel](https://speakerdeck.com/bluehats/la-gestion-du-poste-de-travail-temps-reel)
+-   27/11/2019 (MIMO) : [Nextcloud - Le cloud alternatif aux GAFAM](https://speakerdeck.com/bluehats/nextcloud-le-cloud-alternatif-aux-gafam)
+
+
+<a id="orgcc842c3"></a>
 
 # Licence du SILL et de ce dépôt
 
