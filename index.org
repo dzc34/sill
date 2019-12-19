@@ -133,6 +133,15 @@ son ministère.
 - 27/11/2019 (MIMO) : [[https://speakerdeck.com/bluehats/la-gestion-du-poste-de-travail-temps-reel][La gestion du poste de travail temps réel]]
 - 27/11/2019 (MIMO) : [[https://speakerdeck.com/bluehats/nextcloud-le-cloud-alternatif-aux-gafam][Nextcloud - Le cloud alternatif aux GAFAM]]
 
+* Le mouvement =#BlueHats=
+
+Le mouvement #BlueHats a été lancé en décembre 2018 par la DINUM et il
+rassemble toutes celles et ceux qui soutiennent le développement et
+l'utilisation de logiciels libres dans l'administration publique.
+
+Vous pouvez retrouver [[https://github.com/DISIC/gazette-bluehats][la gazette #BlueHats]] publiée par la DINUM, [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][vous
+y inscrire]] et voir la [[https://github.com/DISIC/evenements-bluehats][documentation sur les événements #BlueHats]].
+
 * Licence du SILL et de ce dépôt
 
 Le SILL est publié par les groupes de mutualisation interministérielle
