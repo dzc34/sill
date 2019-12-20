@@ -55,7 +55,7 @@ HTML,Éditeur HTML,BlueGriffon,R,,,Espace utilisateur et canal,"LGPL-3.0-only, G
 SLA,PAO,Scribus,R,,,Espace utilisateur et canal,GPL-2.0-only,,Consultation et édition de documents,,,,MIMO,1.5
 s.o.,Lecteur multimédia,VLC,R,,,Espace utilisateur et canal,GPL-2.0-only,,Consultation et édition de documents,,Lecteur Multimédia,,MIMO,3.0.6
 ,Enregistrement et édition de sons,Audacity,R,,,Espace utilisateur et canal,GPL-2.0-only,,Consultation et édition de documents,,Enregistrement et édition de sons,,MIMO,2.1
-XCF,Dessin (matriciel),Gimp,R,,,Espace utilisateur et canal,GPL-3.0-only,,Consultation et édition de documents,,,,MIMO,2.10.8
+XCF,Dessin (matriciel),Gimp,R,,Q8038,Espace utilisateur et canal,GPL-3.0-only,,Consultation et édition de documents,,,,MIMO,2.10.8
 ODF,,OpenDocument Reader,R,,,Espace utilisateur et canal,GPL,,Consultation et édition de documents,,,,MIMO,
 PDF,,MuPDF,R,,,Espace utilisateur et canal,AGPL-3.0,,Consultation et édition de documents,,,,MIMO,
 s.o.,Courrielleur,Thunderbird,R,,,Espace utilisateur et canal,MPL-2.0,,Messagerie agenda contacts,,Courrielleur,,MIMO,60
