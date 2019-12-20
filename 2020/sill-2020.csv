@@ -26,11 +26,11 @@ formats,fonction,nom,statut,parent,wikidata_entity,secteur,licence,referent,comp
 ,Base de données,H2,R,,,Conception & Développement,,,Test & Intégration,,poste développeur,,MIMDEV,1.4.197
 ,Outil de monitoring,Javamelody,R,,,Conception & Développement,Apache-2.0,,Test & Intégration,,,,MIMDEV,1.74.0
 ,Reprise des données,Talend Open Studio for Data Integration (BASIC),R,,,Conception & Développement,,,Test & Intégration,,Outil d'automatisation de la reprise de données,,MIMDEV,7.0.1
-,Portail de gestion de projet,Redmine,R,,,Orchestration & logique métier,,,Outil collaboratif,,,,MIMDEV,3.X
-,Plateforme de développement,GitLab Community Edition,R,,,Orchestration & logique métier,,,Outil collaboratif,,,,MIMDEV,11.X
+,Portail de gestion de projet,Redmine,R,,Q1149365,Orchestration & logique métier,,,Outil collaboratif,,,,MIMDEV,3.X
+,Plateforme de développement,GitLab Community Edition,R,,Q16639197,Orchestration & logique métier,,,Outil collaboratif,,,,MIMDEV,11.X
 ,Environnement de développement,Spring Boot,O,,,Conception & Développement,Apache-2.0,,Aide au développement,,,,MIMDEV,2.X
 ,Environnement de développement,IS Designer,O,,,Conception & Développement,,,Modeleur,,,,MIMDEV,1.9.0
-,Outil de gestion des dépendances,Yarn,O,,,Conception & Développement,BSD-2-Clause,,"Installation, Packaging, Diffusion et Distribution",,,,MIMDEV,1.12.3
+,Outil de gestion des dépendances,Yarn,O,,Q28975591,Conception & Développement,BSD-2-Clause,,"Installation, Packaging, Diffusion et Distribution",,,,MIMDEV,1.12.3
 ,Vérification de la conformité de l'application aux règles d'accessibilité,Asqatasun,O,,,Conception & Développement,AGPL-3.0,,Qualité et sécurité du code source,,,,MIMDEV,docker
 ,Vérification de la conformité de l'application aux règles d'accessibilité,Tanaguru,O,,,Conception & Développement,,,Qualité et sécurité du code source,,,,MIMDEV,5.0.3
 ,Vérification de la conformité de l'application aux règles d'accessibilité,Assistant RGAA,O,,,Conception & Développement,,,Qualité et sécurité du code source,,poste de travail des agents impliqués dans le cycle de vie d’une application utilisée via un navigateur web,,MIMDEV,1.0.4
@@ -39,9 +39,9 @@ formats,fonction,nom,statut,parent,wikidata_entity,secteur,licence,referent,comp
 ,Outil de maquettage IHM (statique et/ou dynamique),Pencil,FR,,,Conception & Développement,,,"Outils d’analyse, de Modélisation et de gestion de Patrimoine",,,,MIMDEV,3
 ,Outil d'injection afin tester les couches basses,Fitnesse,FR,,,Conception & Développement,,,Test & Intégration,,,,MIMDEV,20161106
 ,Outil d'injection afin tester les couches basses,DbFit,FR,,,Conception & Développement,,,Test & Intégration,,,,MIMDEV,3.2.0
-,Forum,PHPBB,FR,,,Orchestration & logique métier,,,Outil collaboratif,,Utilisé au sein d'une forge.,,MIMDEV,3.0.9
-KDBX,Gestion de mots de passe,KeePass,R,,,Sécurité,GPL-2.0-only,,Authentification,,,,MIMO,2.3
-ODF 1.2,Suite bureautique,LibreOffice,R,,,Espace utilisateur et canal,MPL-2.0,,Consultation et édition de documents,,,,MIMO,6.1
+,Forum,PHPBB,FR,,Q14270,Orchestration & logique métier,,,Outil collaboratif,,Utilisé au sein d'une forge.,,MIMDEV,3.0.9
+KDBX,Gestion de mots de passe,KeePass,R,,Q762660,Sécurité,GPL-2.0-only,,Authentification,,,,MIMO,2.3
+ODF 1.2,Suite bureautique,LibreOffice,R,,Q10135,Espace utilisateur et canal,MPL-2.0,,Consultation et édition de documents,,,,MIMO,6.1
 s.o.,Diffusion multiformat,MultiDiff,R,LibreOffice,,Espace utilisateur et canal,LGPL-2.0-only.1,,Consultation et édition de documents,,,,MIMO,1.3.0
 s.o.,Cartes géographie,Ooo.HG,R,LibreOffice,,Espace utilisateur et canal,Creative Commons,,Consultation et édition de documents,,,,MIMO,9.12
 s.o.,Correction grammaticale,Grammalecte,R,LibreOffice,,Espace utilisateur et canal,GPL-3.0-only,,Consultation et édition de documents,,,,MIMO,0.6.5
@@ -52,12 +52,12 @@ TXT,Éditeur de textes,Notepad++,R,,,Espace utilisateur et canal,GPL-2.0-only,,C
 PDF,Lecture simple de fichier PDF,SumatraPDF,R,,,Espace utilisateur et canal,GPL-3.0-only,,Consultation et édition de documents,,sans remplissage de formulaire ni vérification de signature,,MIMO,3.1.2
 HTML,Éditeur HTML,BlueGriffon,R,,,Espace utilisateur et canal,"LGPL-3.0-only, GPL-3.0-only, MPL-2.0",,Consultation et édition de documents,,,,MIMO,3.0
 ,Système d’information géographique,Qgis,R,,,Orchestration et logique métier,GPL-2.0-only,,Moteur SIG,,,,MIMO,3.4
-SLA,PAO,Scribus,R,,,Espace utilisateur et canal,GPL-2.0-only,,Consultation et édition de documents,,,,MIMO,1.5
-s.o.,Lecteur multimédia,VLC,R,,,Espace utilisateur et canal,GPL-2.0-only,,Consultation et édition de documents,,Lecteur Multimédia,,MIMO,3.0.6
-,Enregistrement et édition de sons,Audacity,R,,,Espace utilisateur et canal,GPL-2.0-only,,Consultation et édition de documents,,Enregistrement et édition de sons,,MIMO,2.1
+SLA,PAO,Scribus,R,,Q8295,Espace utilisateur et canal,GPL-2.0-only,,Consultation et édition de documents,,,,MIMO,1.5
+s.o.,Lecteur multimédia,VLC,R,,Q171477,Espace utilisateur et canal,GPL-2.0-only,,Consultation et édition de documents,,Lecteur Multimédia,,MIMO,3.0.6
+,Enregistrement et édition de sons,Audacity,R,,Q191782,Espace utilisateur et canal,GPL-2.0-only,,Consultation et édition de documents,,Enregistrement et édition de sons,,MIMO,2.1
 XCF,Dessin (matriciel),Gimp,R,,Q8038,Espace utilisateur et canal,GPL-3.0-only,,Consultation et édition de documents,,,,MIMO,2.10.8
 ODF,,OpenDocument Reader,R,,,Espace utilisateur et canal,GPL,,Consultation et édition de documents,,,,MIMO,
-PDF,,MuPDF,R,,,Espace utilisateur et canal,AGPL-3.0,,Consultation et édition de documents,,,,MIMO,
+PDF,,MuPDF,R,,Q6930567,Espace utilisateur et canal,AGPL-3.0,,Consultation et édition de documents,,,,MIMO,
 s.o.,Courrielleur,Thunderbird,R,,,Espace utilisateur et canal,MPL-2.0,,Messagerie agenda contacts,,Courrielleur,,MIMO,60
 ,Webconférence,Jitsi,R,,,Espace utilisateur et canal,Apache-2.0,,Visiophonie,,,,MIMO,2.9
 s.o.,Client FTP,Filezilla,R,,,Données et contenu,GPL-2.0,,Gestion des accès aux données,,Client FTP,,MIMO,3.40
@@ -134,8 +134,8 @@ PDF,"Outil de fusion, extraction et découpage de fichiers PDF. Il permet aussi 
 ,Antivirus : Orienté serveur,ClamAV,R,,,Sécurité,,,Antivirus,,Serveur Bureautique,,MIMPROD,Version Distribution
 ,Annuaire,OpenLdap,R,,,Sécurité,,,Authentification,,Serveur Bureautique,,MIMPROD,"2,4"
 ,SSO,LemonLDAP::NG,R,,,Sécurité,,,Authentification,,Serveur Bureautique,,MIMPROD,Version Distribution
-,Gestion des logs en mode centralisé,logstash,R,,,Sécurité,Apache-2.0,,Gestion des logs,,Serveur Bureautique,,MIMPROD,6.x
-,Gestion des logs en mode centralisé,kibana,R,,,Sécurité,Apache-2.0,,Gestion des logs,,Serveur Bureautique,,MIMPROD,6.x
+,Gestion des logs en mode centralisé,Logstash,R,,Q17620247,Sécurité,Apache-2.0,,Gestion des logs,,Serveur Bureautique,,MIMPROD,6.x
+,Gestion des logs en mode centralisé,Kibana,R,,Q21156460,Sécurité,Apache-2.0,,Gestion des logs,,Serveur Bureautique,,MIMPROD,6.x
 ,Gestion des logs en mode centralisé,Syslog-ng,R,,,Sécurité,,,Gestion des logs,,Serveur Bureautique,,MIMPROD,Version Distribution
 ,Pare-feu réseau et web,Eole AMON,R,,,Réseau,,,Pare-feu – Réseau,,Services déconcentrés,,MIMPROD,"2,7"
 ,Serveur Web & Reverse Proxy,Apache,R,,,Réseau,,,Serveur Web & 'Reverse Proxy,,Services déconcentrés,,MIMPROD,Version Distribution
