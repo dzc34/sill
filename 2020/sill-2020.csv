@@ -1,28 +1,28 @@
 formats,fonction,nom,statut,parent,wikidata_entity,secteur,licence,referent,composant,mots-clefs,cas-usage,utilisateurs,groupe,version
 ,Outil et/ou plugin de génération de tout ou partie du code,Acceleo,R,,,Conception & développement,EPL-2.0,,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,,MIMDEV,3.7.4
-,Environnement de développement,Eclipse,R,,,Conception & Développement,EPL-2.0,,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,,MIMDEV,4.9
-,Environnement de développement,Visual Studio Code,R,,,Conception & Développement,MIT,,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,,MIMDEV,dernière version
-,Environnement de développement,Tomcat,R,,,Conception & Développement,,,Serveur d'application,,,,MIMDEV,9.0
-,Environnement de développement,NodeJS,R,,,Conception & Développement,X11,,Serveur d'application,,,,MIMDEV,8
-,Environnement de développement,OpenJDK,R,,,Conception & Développement,GPL-2.0,,Environnement d'exécution,,,,MIMDEV,8
+,Environnement de développement,Eclipse,R,,Q82268,Conception & Développement,EPL-2.0,,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,,MIMDEV,4.9
+,Environnement de développement,Visual Studio Code,R,,Q19841877,Conception & Développement,MIT,,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,,MIMDEV,dernière version
+,Environnement de développement,Apache Tomcat,R,,Q507430,Conception & Développement,,,Serveur d'application,,,,MIMDEV,9.0
+,Environnement de développement,NodeJS,R,,Q756100,Conception & Développement,X11,,Serveur d'application,,,,MIMDEV,8
+,Environnement de développement,OpenJDK,R,,Q1461054,Conception & Développement,GPL-2.0,,Environnement d'exécution,,,,MIMDEV,8
 ,Outil de remontée de bug,Mantis BT,R,,,Conception & Développement,,,Gestion des Anomalies,,,,MIMDEV,1.X
-,Outil de gestion des configurations (serveur),Git,R,,,Conception & Développement,GPL-2.0,,Gestion du code source,,,,MIMDEV,dernière disponible
-,Outil de gestion des dépendances entre les différents composants d'un projet et cycle de vie,Maven,R,,,Conception & Développement,Apache-2.0,,"Installation, Packaging, Diffusion et Distribution",,,,MIMDEV,3.5.2
+,Outil de gestion des configurations (serveur),Git,R,,Q186055,Conception & Développement,GPL-2.0,,Gestion du code source,,,,MIMDEV,dernière disponible
+,Outil de gestion des dépendances entre les différents composants d'un projet et cycle de vie,Apache Maven,R,,Q139941,Conception & Développement,Apache-2.0,,"Installation, Packaging, Diffusion et Distribution",,,,MIMDEV,3.5.2
 ,Dépôt d'artefacts,Nexus,R,,,Conception & Développement,,,"Installation, Packaging, Diffusion et Distribution",,,,MIMDEV,3.1
-,Gestionnaire de paquets pour Node.js,Npm,R,,,Conception & Développement,Artistic-2.0,,"Installation, Packaging, Diffusion et Distribution",,,,MIMDEV,Dernière version compatible avec la version nodeJS préconisée
+,Gestionnaire de paquets pour Node.js,Npm,R,,Q7067518,Conception & Développement,Artistic-2.0,,"Installation, Packaging, Diffusion et Distribution",,,,MIMDEV,Dernière version compatible avec la version nodeJS préconisée
 ,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : FindBugs CheckStyle Pmd,R,,,Conception & Développement,,,Qualité et sécurité du code source,,,,MIMDEV,6.7
 ,Couverture du code,Jacoco,R,,,Conception & Développement,,,Qualité et sécurité du code source,,,,MIMDEV,0.8.2
 ,Outil de gestion des tests unitaires,Junit,R,,,Conception & Développement,,,Test & Intégration,,,,MIMDEV,5.2
-,Robot de test / Injecteurs,Jmeter,R,,,Conception & Développement,,,Test & Intégration,,,,MIMDEV,5.0
-,Outil d'aide aux tests techniques,SoapUI,R,,,Conception & Développement,,,Test & Intégration,,Tests orientés Web Services,,MIMDEV,5.4.0
-,"Outil d'aide à la livraison (dépôt, intégration continue...)",Jenkins,R,,,Conception & Développement,MIT,,Test & Intégration,,,,MIMDEV,2.x
-,Automatisation des tests Web,Selenium Server,R,,,Conception & Développement,,,Test & Intégration,,,,MIMDEV,3.x
+,Robot de test / Injecteurs,Apache Jmeter,R,,Q616885,Conception & Développement,,,Test & Intégration,,,,MIMDEV,5.0
+,Outil d'aide aux tests techniques,SoapUI,R,,Q2296314,Conception & Développement,,,Test & Intégration,,Tests orientés Web Services,,MIMDEV,5.4.0
+,"Outil d'aide à la livraison (dépôt, intégration continue...)",Jenkins,R,,Q7491312,Conception & Développement,MIT,,Test & Intégration,,,,MIMDEV,2.x
+,Automatisation des tests Web,Selenium Server,R,,Q752522,Conception & Développement,,,Test & Intégration,,,,MIMDEV,3.x
 ,Automatisation des tests Web,Selenium IDE,R,,,Conception & Développement,,,Test & Intégration,,,,MIMDEV,3.4
 ,Automatisation des tests,Squash TA,R,,,Conception & Développement,,,Test & Intégration,,,,MIMDEV,1.11
 ,Gestion des campagnes de tests,Testlink,R,,,Conception & Développement,,,Test & Intégration,,,,MIMDEV,1.9.14
 ,Gestion des campagnes de tests,Squash TM,R,,,Conception & Développement,,,Test & Intégration,,,,MIMDEV,1.17.1
 ,Génération / Gestion des jeux de données,Jailer,R,,,Conception & Développement,,,Test & Intégration,,,,MIMDEV,8.2.x
-,Navigateurs,Chromium,R,,,Conception & Développement,BSD-3-Clause,,Test & Intégration,,poste développeur,,MIMDEV,dernière disponible
+,Navigateurs,Chromium,R,,Q48524,Conception & Développement,BSD-3-Clause,,Test & Intégration,,poste développeur,,MIMDEV,dernière disponible
 ,Base de données,H2,R,,,Conception & Développement,,,Test & Intégration,,poste développeur,,MIMDEV,1.4.197
 ,Outil de monitoring,Javamelody,R,,,Conception & Développement,Apache-2.0,,Test & Intégration,,,,MIMDEV,1.74.0
 ,Reprise des données,Talend Open Studio for Data Integration (BASIC),R,,,Conception & Développement,,,Test & Intégration,,Outil d'automatisation de la reprise de données,,MIMDEV,7.0.1
