@@ -18,6 +18,7 @@ dépôt](https://github.com/etalab/sillweb).
 | Nom             | Description                      | Exemple                     | Propriétés         |
 |-----------------|----------------------------------|-----------------------------|--------------------|
 | nom             | Nom du logiciel                  | Gimp                        | Valeur obligatoire |
+| group           | Nom du groupe MIM responsable    | MIMDEV                      | Valeur obligatoire |
 | licence         | Licence du logiciel              | GPL-3.0-only                | Valeur obligatoire |
 | statut          | Recommandé, en observation       | R                           | Valeur obligatoire |
 | fonction        | Fonctionnalité du logiciel       | Outil de traitement d'image | Valeur obligatoire |
