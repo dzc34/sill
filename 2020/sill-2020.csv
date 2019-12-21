@@ -1,15 +1,15 @@
 fonction,nom,statut,parent,wikidata,secteur,licence,referent,composant,mots-clefs,cas-usage,groupe,version
 Outil et/ou plugin de génération de tout ou partie du code,Acceleo,R,,Q2822666,Conception & développement,EPL-2.0,,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,3.7.4
 Environnement de développement,Eclipse,R,,Q82268,Conception & Développement,EPL-2.0,,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,4.9
-Environnement de développement,Visual Studio Code,R,,Q19841877,Conception & Développement,MIT,,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,Dernière version
+Environnement de développement,Visual Studio Code,R,,Q19841877,Conception & Développement,MIT,,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,Dernière
 Environnement de développement,Apache Tomcat,R,,Q507430,Conception & Développement,,,Serveur d'application,,,MIMDEV,9.0
 Environnement de développement,NodeJS,R,,Q756100,Conception & Développement,X11,,Serveur d'application,,,MIMDEV,8
 Environnement de développement,OpenJDK,R,,Q1461054,Conception & Développement,GPL-2.0,,Environnement d'exécution,,,MIMDEV,8
 Outil de remontée de bug,Mantis BT,R,,,Conception & Développement,,,Gestion des Anomalies,,,MIMDEV,1.X
-Outil de gestion des configurations (serveur),Git,R,,Q186055,Conception & Développement,GPL-2.0,,Gestion du code source,,,MIMDEV,Dernière disponible
+Outil de gestion des configurations (serveur),Git,R,,Q186055,Conception & Développement,GPL-2.0,,Gestion du code source,,,MIMDEV,Dernière
 Outil de gestion des dépendances entre les différents composants d'un projet et cycle de vie,Apache Maven,R,,Q139941,Conception & Développement,Apache-2.0,,"Installation, Packaging, Diffusion et Distribution",,,MIMDEV,3.5.2
 Dépôt d'artefacts,Nexus,R,,,Conception & Développement,,,"Installation, Packaging, Diffusion et Distribution",,,MIMDEV,3.1
-Gestionnaire de paquets pour Node.js,Npm,R,,Q7067518,Conception & Développement,Artistic-2.0,,"Installation, Packaging, Diffusion et Distribution",,,MIMDEV,Dernière version compatible avec la version nodeJS préconisée
+Gestionnaire de paquets pour Node.js,Npm,R,,Q7067518,Conception & Développement,Artistic-2.0,,"Installation, Packaging, Diffusion et Distribution",,,MIMDEV,Dernière
 Tableau de bord d'indicateurs de qualité,SonarQube,R,,Q541691,Conception & Développement,,,Qualité et sécurité du code source,,,MIMDEV,6.7
 Tableau de bord d'indicateurs de qualité,SonarQube Plugins : FindBugs CheckStyle Pmd,R,SonarQube,,Conception & Développement,,,Qualité et sécurité du code source,,,MIMDEV,6.7
 Couverture du code,Jacoco,R,,Q6109486,Conception & Développement,,,Qualité et sécurité du code source,,,MIMDEV,0.8.2
@@ -23,7 +23,7 @@ Automatisation des tests,Squash TA,R,,,Conception & Développement,,,Test & Int�
 Gestion des campagnes de tests,Testlink,R,,Q248384,Conception & Développement,,,Test & Intégration,,,MIMDEV,1.9.14
 Gestion des campagnes de tests,Squash TM,R,,,Conception & Développement,,,Test & Intégration,,,MIMDEV,1.17.1
 Génération / Gestion des jeux de données,Jailer,R,,,Conception & Développement,,,Test & Intégration,,,MIMDEV,8.2.x
-Navigateurs,Chromium,R,,Q48524,Conception & Développement,BSD-3-Clause,,Test & Intégration,,poste développeur,MIMDEV,Dernière disponible
+Navigateurs,Chromium,R,,Q48524,Conception & Développement,BSD-3-Clause,,Test & Intégration,,poste développeur,MIMDEV,Dernière
 Base de données,H2,R,,Q1562670,Conception & Développement,,,Test & Intégration,,poste développeur,MIMDEV,1.4.197
 Outil de monitoring,Javamelody,R,,,Conception & Développement,Apache-2.0,,Test & Intégration,,,MIMDEV,1.74.0
 Reprise des données,Talend Open Studio for Data Integration (BASIC),R,,Q17097860,Conception & Développement,,,Test & Intégration,,Outil d'automatisation de la reprise de données,MIMDEV,7.0.1
@@ -68,7 +68,7 @@ Lecteur d’écran,NVDA,R,,Q1116614,Espace utilisateur et canal,GPL-2.0-only,,Ac
 Grapheur d'idées,Freeplane,R,,Q3028675,Espace utilisateur et canal,GPL-2.0-only,,Outil de productivité,,,MIMO,1.7
 Gestion de projet,ProjectLibre,R,,Q580985,Espace utilisateur et canal,CPA,,Outil de productivité,,,MIMO,1.7
 Compression,7zip,R,,Q215051,Données et contenu,LGPL-2.0-only,,Compression décompression,,,MIMO,18.05
-Capture d'écran,GreenShot,R,,Q1544791,Espace utilisateur et canal,GPL,,Consultation et édition de documents,,,MIMO,1.2.10
+Capture d'écran,GreenShot,R,,Q1544791,Espace utilisateur et canal,GPL-3.0,,Consultation et édition de documents,,,MIMO,1.2.10
 Synchronisation Sauvegarde,FreeFileSync,R,,Q18150468,Opérations,GPL-3.0,,Synchronisation réplication déduplication,,,MIMO,10.6
 "Inventaire, télédéploiement et découverte du réseau",OCS Inventory,R,,Q1135744,Opérations,GPL-2.0-only,,Déploiement gestion d’actif et de configuration,,,MIMO,2.3
 "Inventaire, télédéploiement et découverte du réseau",Agent OCS,R,OCS Inventory,,Opérations,GPL-2.0-only,,Déploiement gestion d’actif et de configuration,,,MIMO,2.3.1.3
@@ -89,7 +89,7 @@ Schémas,Draw.io Desktop,O,,Q59339175,Espace utilisateur et canal,Apache-2.0,,Co
 Convertisseur de formats vidéo,Avidemux,O,,Q790931,Espace utilisateur et canal,GPL-2.0-only,,Consultation et édition de documents,,,MIMO,2.7
 Dessin (vectoriel),Inkscape,O,,Q8041,Espace utilisateur et canal,GPL-2.0-only,,Consultation et édition de documents,,,MIMO,0.92
 Pour utiliser ses codes,KeeFox,O,Firefox,Q61694243,Espace utilisateur et canal,GPL V2.0,,Navigateur web,,Pour utiliser ses codes,MIMO,2.5
-Création de DVD vidéo avec un menu de navigation.,DVD Styler,O,,Q4117800,Espace utilisateur et canal,GPL,,Consultation et édition de documents,,,MIMO,3.0.4
+Création de DVD vidéo avec un menu de navigation.,DVD Styler,O,,Q4117800,Espace utilisateur et canal,GPL-3.0,,Consultation et édition de documents,,,MIMO,3.0.4
 Serveur de services web permettant à une application externe d'interroger et de piloter GLPI.,WebService,O,GLPI,,Opérations,GPL-2.0-or-later,,Déploiement gestion d’actif et de configuration,,,MIMO,1.8
 "Inventaire, télédéploiement et découverte du réseau",FusionInventory,O,GLPI,,Opérations,AGPL-3.0-or-later,,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,9.1+1.1
 Affichage de GLPI pour terminaux mobiles et tablettes,Mobile,O,GLPI,,Opérations,GPL-2.0-only,,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,1.1.6
@@ -154,7 +154,7 @@ Conteneurs logiciels,Docker,R,,Q15206305,Opérations,,,Outils système & virtual
 Orchestration,Kubernetes,R,,Q22661306,Opérations,,,Outils système & virtualisation,,conteneurs,MIMPROD,Distribution
 Outils VisoConférence,Jitsi,R,,Q58427,Espace utilisateur et canal,,,Visiophonie,,,MIMPROD,Distribution
 Base transactionnelle cluster,CockroachDB,O,,,Données et contenu,,,BD Relationnelles,,Base de production,MIMPROD,2
-Annuaire,OpenLdap,O,,Q682918,Sécurité,,,Authentification,,Serveur Bureautique,MIMPROD,0
+Annuaire,OpenLdap,O,,Q682918,Sécurité,,,Authentification,,Serveur Bureautique,MIMPROD,
 IAM,Keycloak,O,,Q42916195,Sécurité,,,Authentification,,Serveur Bureautique,MIMPROD,4
 Stockage Securisé,Vault,O,,Q4052619,Stockage,,,Sauvegarde Serveur,,Services déconcentrés,MIMPROD,
 Déploiement,Consul,O,,,Opérations,,,Outils système & virtualisation,,Services déconcentrés,MIMPROD,Distribution
