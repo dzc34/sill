@@ -25,7 +25,6 @@ dépôt](https://github.com/etalab/sillweb).
 | secteur    | Description du secteur           | Conception & Développement  | Valeur obligatoire |
 | statut     | Recommandé, en observation       | R                           | Valeur obligatoire |
 | version    | Version recommandée              | 1.0                         | Valeur obligatoire |
-|------------|----------------------------------|-----------------------------|--------------------|
 | cas-usage  | Cas d'usage du logiciel          | https://                    | Valeur optionnelle |
 | mots-clefs | Mots-clefs assiociés             | image                       | Valeur optionnelle |
 | parent     | Logiciel parent                  | LibreOffice                 | Valeur optionnelle |
