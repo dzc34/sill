@@ -15,23 +15,22 @@ dépôt](https://github.com/etalab/sillweb).
 - Clef primaire : `nom`
 - Tous les champs sont de type "chaîne de caractère".
 
-| Nom             | Description                      | Exemple                     | Propriétés         |
-|-----------------|----------------------------------|-----------------------------|--------------------|
-| nom             | Nom du logiciel                  | Gimp                        | Valeur obligatoire |
-| group           | Nom du groupe MIM responsable    | MIMDEV                      | Valeur obligatoire |
-| licence         | Licence du logiciel              | GPL-3.0-only                | Valeur obligatoire |
-| statut          | Recommandé, en observation       | R                           | Valeur obligatoire |
-| fonction        | Fonctionnalité du logiciel       | Outil de traitement d'image | Valeur obligatoire |
-| composant       | Description du composant         | Test & Intégration          | Valeur obligatoire |
-| secteur         | Description du secteur           | Conception & Développement  | Valeur obligatoire |
-| version         | Version recommandée              | 1.0                         | Valeur obligatoire |
-| parent          | Logiciel parent                  | LibreOffice                 | Valeur optionnelle |
-| mots-clefs      | Mots-clefs assiociés             | image                       | Valeur optionnelle |
-| formats         | Formats associés au logiciel     | odt                         | Valeur optionnelle |
-| cas-usage       | Cas d'usage du logiciel          | https://                    | Valeur optionnelle |
-| referent        | Administration référente         | DINUM                       | Valeur optionnelle |
-| wikidata_entity | Identifiant de l'entité Wikidata | Q8038                       | Valeur optionnelle |
-| utilisateurs    | Administrations utilisatrices    | DINUM, MINEFI               | Valeur optionnelle |
+| Nom        | Description                      | Exemple                     | Propriétés         |
+|------------|----------------------------------|-----------------------------|--------------------|
+| composant  | Description du composant         | Test & Intégration          | Valeur obligatoire |
+| fonction   | Fonctionnalité du logiciel       | Outil de traitement d'image | Valeur obligatoire |
+| groupe     | Nom du groupe MIM responsable    | MIMDEV                      | Valeur obligatoire |
+| licence    | Licence du logiciel              | GPL-3.0-only                | Valeur obligatoire |
+| nom        | Nom du logiciel                  | Gimp                        | Valeur obligatoire |
+| secteur    | Description du secteur           | Conception & Développement  | Valeur obligatoire |
+| statut     | Recommandé, en observation       | R                           | Valeur obligatoire |
+| version    | Version recommandée              | 1.0                         | Valeur obligatoire |
+|------------|----------------------------------|-----------------------------|--------------------|
+| cas-usage  | Cas d'usage du logiciel          | https://                    | Valeur optionnelle |
+| mots-clefs | Mots-clefs assiociés             | image                       | Valeur optionnelle |
+| parent     | Logiciel parent                  | LibreOffice                 | Valeur optionnelle |
+| referent   | Administration référente         | DINUM                       | Valeur optionnelle |
+| wikidata   | Identifiant de l'entité Wikidata | Q8038                       | Valeur optionnelle |
 
 # Licence
 
