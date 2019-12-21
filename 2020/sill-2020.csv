@@ -69,15 +69,15 @@ Grapheur d'idées,Freeplane,R,,Q3028675,Espace utilisateur et canal,GPL-2.0-only
 Gestion de projet,ProjectLibre,R,,Q580985,Espace utilisateur et canal,CPA,,Outil de productivité,,,MIMO,1.7
 Compression,7zip,R,,Q215051,Données et contenu,LGPL-2.0-only,,Compression décompression,,,MIMO,18.05
 Capture d'écran,GreenShot,R,,Q1544791,Espace utilisateur et canal,GPL,,Consultation et édition de documents,,,MIMO,1.2.10
-Synchronisation Sauvegarde,FreeFileSync,R,,Q18150468,Opérations,GPL3,,Synchronisation réplication déduplication,,,MIMO,10.6
+Synchronisation Sauvegarde,FreeFileSync,R,,Q18150468,Opérations,GPL-3.0,,Synchronisation réplication déduplication,,,MIMO,10.6
 "Inventaire, télédéploiement et découverte du réseau",OCS Inventory,R,,Q1135744,Opérations,GPL-2.0-only,,Déploiement gestion d’actif et de configuration,,,MIMO,2.3
 "Inventaire, télédéploiement et découverte du réseau",Agent OCS,R,OCS Inventory,,Opérations,GPL-2.0-only,,Déploiement gestion d’actif et de configuration,,,MIMO,2.3.1.3
 Gestion de parc et suivi d'incidents,GLPI,R,,Q3104570,Opérations,GPL-2.0-only,,Déploiement gestion d’actif et de configuration,,,MIMO,9.3
 Rapports supplémentaires à ceux inclus dans GLPI,Reports (rapports),R,GLPI,,Opérations,AGPL-3.0,,Déploiement gestion d’actif et de configuration,,,MIMO,1.12
 Export en pdf des fiches GLPI,PDF (impression de pdf),R,GLPI,,Opérations,AGPL-3.0,,Déploiement gestion d’actif et de configuration,,,MIMO,1.4
-Automatisation de l'import OCS Inventory-NG,OCS Inventory ng,R,GLPI,,Opérations,GPL-2.0-only+,,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,01/05/04
-Désinstallation d’objets inventoriés,Uninstall,R,GLPI,,Opérations,GPL-2.0-only+,,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,2.5.1
-Injection de données dans GLPI à l'aide de fichiers CSV,Data Injection,R,GLPI,,Opérations,GPL-2.0-only+,,Déploiement gestion d’actif et de configuration,,glpi,MIMO,2.6.4
+Automatisation de l'import OCS Inventory-NG,OCS Inventory ng,R,GLPI,,Opérations,GPL-2.0-only,,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,01/05/04
+Désinstallation d’objets inventoriés,Uninstall,R,GLPI,,Opérations,GPL-2.0-only,,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,2.5.1
+Injection de données dans GLPI à l'aide de fichiers CSV,Data Injection,R,GLPI,,Opérations,GPL-2.0-only,,Déploiement gestion d’actif et de configuration,,glpi,MIMO,2.6.4
 Options de configuration supplémentaires,Behaviors (Comportements),R,GLPI,,Opérations,AGPL-3.0-or-later,,Déploiement gestion d’actif et de configuration,,Gestion des tickets,MIMO,02/01/01
 Gestion des stocks et demandes par une entité différente de celles définies pour la délégation de gestion.,Geststock,R,GLPI,,Opérations,,,Déploiement gestion d’actif et de configuration,,Gestion de parc,MIMO,1.0.0
 Ensemble d’outils destiné à aider les lecteurs débutants ou en difficulté à décoder les mots en utilisant les principes de la lecture en couleur,LireCouleur,R,LibreOffice,,Espace utilisateur et canal,LGPL-v2.1,,Consultation et édition de documents,,,MIMO,4.7
@@ -90,14 +90,14 @@ Convertisseur de formats vidéo,Avidemux,O,,Q790931,Espace utilisateur et canal,
 Dessin (vectoriel),Inkscape,O,,Q8041,Espace utilisateur et canal,GPL-2.0-only,,Consultation et édition de documents,,,MIMO,0.92
 Pour utiliser ses codes,KeeFox,O,Firefox,Q61694243,Espace utilisateur et canal,GPL V2.0,,Navigateur web,,Pour utiliser ses codes,MIMO,2.5
 Création de DVD vidéo avec un menu de navigation.,DVD Styler,O,,Q4117800,Espace utilisateur et canal,GPL,,Consultation et édition de documents,,,MIMO,3.0.4
-Serveur de services web permettant à une application externe d'interroger et de piloter GLPI.,WebService,O,GLPI,,Opérations,GPLv2+,,Déploiement gestion d’actif et de configuration,,,MIMO,1.8
+Serveur de services web permettant à une application externe d'interroger et de piloter GLPI.,WebService,O,GLPI,,Opérations,GPL-2.0-or-later,,Déploiement gestion d’actif et de configuration,,,MIMO,1.8
 "Inventaire, télédéploiement et découverte du réseau",FusionInventory,O,GLPI,,Opérations,AGPL-3.0-or-later,,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,9.1+1.1
-Affichage de GLPI pour terminaux mobiles et tablettes,Mobile,O,GLPI,,Opérations,GPL-2.0-only+,,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,1.1.6
-Notifications supplémentaires à celles incluses dans GLPI,Additional Alerts,O,GLPI,,Opérations,GPL-2.0-only+,,Déploiement gestion d’actif et de configuration,,Gestion des tickets,MIMO,1.9.0
-Escalade de tickets,Escalation,O,GLPI,,Opérations,GPL-2.0-only+,,Déploiement gestion d’actif et de configuration,,Gestion des tickets,MIMO,0.85+1.0
-Affichage graphique des délais de prise en compte des incidents + indicateurs sous forme de rapports,TimeLineTicket,O,GLPI,,Opérations,GPL-2.0-only+,,Service level management,,Gestion des tickets,MIMO,0
+Affichage de GLPI pour terminaux mobiles et tablettes,Mobile,O,GLPI,,Opérations,GPL-2.0-only,,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,1.1.6
+Notifications supplémentaires à celles incluses dans GLPI,Additional Alerts,O,GLPI,,Opérations,GPL-2.0-only,,Déploiement gestion d’actif et de configuration,,Gestion des tickets,MIMO,1.9.0
+Escalade de tickets,Escalation,O,GLPI,,Opérations,GPL-2.0-only,,Déploiement gestion d’actif et de configuration,,Gestion des tickets,MIMO,0.85+1.0
+Affichage graphique des délais de prise en compte des incidents + indicateurs sous forme de rapports,TimeLineTicket,O,GLPI,,Opérations,GPL-2.0-only,,Service level management,,Gestion des tickets,MIMO,0
 Effacement complet de tous les supports magnétiques d’une machine.,DBAN (Darik's Boot and Nuke),O,,Q1165893,Données et contenu,GPL-2.0-only / LGPL-2.0-only,,Gestion des accès aux données,,,MIMO,2.3.0
-"Déploiement, mise à jour et suppression des logiciels et des configurations sur un parc Windows",WAPT,O,,Q50829216,Opérations,GPLv3,,Déploiement gestion d’actif et de configuration,,Gestion de parc,MIMO,1.6 Community
+"Déploiement, mise à jour et suppression des logiciels et des configurations sur un parc Windows",WAPT,O,,Q50829216,Opérations,GPL-3.0-only,,Déploiement gestion d’actif et de configuration,,Gestion de parc,MIMO,1.6 Community
 Plugin GLPI-Survey (questionnaire),GLPI,O,GLPI,Q3104570,Opérations,AGPL-3.0-or-later,,Service level management,,Gestion de parc,MIMO,9.3.1.0
 ,K-9 Mail,O,,Q14565723,Espace utilisateur et canal,Apache-2.0,,Messagerie agenda contacts,,Client de Messagerie,MIMO,5.600
 Outil de dev pour l’accessibilité,WebAccess,O,NVDA,,Conception et développement,GPL-2.0-only,,Qualité et sécurité de code source,,,MIMO,2019.04.11
