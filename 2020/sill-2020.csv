@@ -50,7 +50,7 @@ Orientation de la page,PortraitOrLandscape,R,LibreOffice,,Espace utilisateur et 
 Correction anglicismes,FranceTerme,R,,Q3080560,Espace utilisateur et canal,CECILL-C,,Consultation et édition de documents,,,MIMO,
 Éditeur de textes,Notepad++,R,,Q2033,Espace utilisateur et canal,GPL-2.0-only,,Consultation et édition de documents,,,MIMO,7.5.8
 Lecture simple de fichier PDF,SumatraPDF,R,,Q479808,Espace utilisateur et canal,GPL-3.0-only,,Consultation et édition de documents,,sans remplissage de formulaire ni vérification de signature,MIMO,3.1.2
-Éditeur HTML,BlueGriffon,R,,Q885580,Espace utilisateur et canal,"LGPL-3.0-only, GPL-3.0-only, MPL-2.0",,Consultation et édition de documents,,,MIMO,3.0
+Éditeur HTML,BlueGriffon,R,,Q885580,Espace utilisateur et canal,"LGPL-3.0, GPL-3.0, MPL-2.0",,Consultation et édition de documents,,,MIMO,3.0
 Système d’information géographique,Qgis,R,,Q1329181,Orchestration et logique métier,GPL-2.0-only,,Moteur SIG,,,MIMO,3.4
 PAO,Scribus,R,,Q8295,Espace utilisateur et canal,GPL-2.0-only,,Consultation et édition de documents,,,MIMO,1.5
 Lecteur multimédia,VLC,R,,Q171477,Espace utilisateur et canal,GPL-2.0-only,,Consultation et édition de documents,,Lecteur Multimédia,MIMO,3.0.6
