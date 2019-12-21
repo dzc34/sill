@@ -1,12 +1,12 @@
 formats,fonction,nom,statut,parent,wikidata_entity,secteur,licence,referent,composant,mots-clefs,cas-usage,utilisateurs,groupe,version
 ,Outil et/ou plugin de génération de tout ou partie du code,Acceleo,R,,,Conception & développement,EPL-2.0,,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,,MIMDEV,3.7.4
 ,Environnement de développement,Eclipse,R,,Q82268,Conception & Développement,EPL-2.0,,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,,MIMDEV,4.9
-,Environnement de développement,Visual Studio Code,R,,Q19841877,Conception & Développement,MIT,,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,,MIMDEV,dernière version
+,Environnement de développement,Visual Studio Code,R,,Q19841877,Conception & Développement,MIT,,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,,MIMDEV,Dernière version
 ,Environnement de développement,Apache Tomcat,R,,Q507430,Conception & Développement,,,Serveur d'application,,,,MIMDEV,9.0
 ,Environnement de développement,NodeJS,R,,Q756100,Conception & Développement,X11,,Serveur d'application,,,,MIMDEV,8
 ,Environnement de développement,OpenJDK,R,,Q1461054,Conception & Développement,GPL-2.0,,Environnement d'exécution,,,,MIMDEV,8
 ,Outil de remontée de bug,Mantis BT,R,,,Conception & Développement,,,Gestion des Anomalies,,,,MIMDEV,1.X
-,Outil de gestion des configurations (serveur),Git,R,,Q186055,Conception & Développement,GPL-2.0,,Gestion du code source,,,,MIMDEV,dernière disponible
+,Outil de gestion des configurations (serveur),Git,R,,Q186055,Conception & Développement,GPL-2.0,,Gestion du code source,,,,MIMDEV,Dernière disponible
 ,Outil de gestion des dépendances entre les différents composants d'un projet et cycle de vie,Apache Maven,R,,Q139941,Conception & Développement,Apache-2.0,,"Installation, Packaging, Diffusion et Distribution",,,,MIMDEV,3.5.2
 ,Dépôt d'artefacts,Nexus,R,,,Conception & Développement,,,"Installation, Packaging, Diffusion et Distribution",,,,MIMDEV,3.1
 ,Gestionnaire de paquets pour Node.js,Npm,R,,Q7067518,Conception & Développement,Artistic-2.0,,"Installation, Packaging, Diffusion et Distribution",,,,MIMDEV,Dernière version compatible avec la version nodeJS préconisée
@@ -22,7 +22,7 @@ formats,fonction,nom,statut,parent,wikidata_entity,secteur,licence,referent,comp
 ,Gestion des campagnes de tests,Testlink,R,,,Conception & Développement,,,Test & Intégration,,,,MIMDEV,1.9.14
 ,Gestion des campagnes de tests,Squash TM,R,,,Conception & Développement,,,Test & Intégration,,,,MIMDEV,1.17.1
 ,Génération / Gestion des jeux de données,Jailer,R,,,Conception & Développement,,,Test & Intégration,,,,MIMDEV,8.2.x
-,Navigateurs,Chromium,R,,Q48524,Conception & Développement,BSD-3-Clause,,Test & Intégration,,poste développeur,,MIMDEV,dernière disponible
+,Navigateurs,Chromium,R,,Q48524,Conception & Développement,BSD-3-Clause,,Test & Intégration,,poste développeur,,MIMDEV,Dernière disponible
 ,Base de données,H2,R,,,Conception & Développement,,,Test & Intégration,,poste développeur,,MIMDEV,1.4.197
 ,Outil de monitoring,Javamelody,R,,,Conception & Développement,Apache-2.0,,Test & Intégration,,,,MIMDEV,1.74.0
 ,Reprise des données,Talend Open Studio for Data Integration (BASIC),R,,,Conception & Développement,,,Test & Intégration,,Outil d'automatisation de la reprise de données,,MIMDEV,7.0.1
@@ -31,7 +31,7 @@ formats,fonction,nom,statut,parent,wikidata_entity,secteur,licence,referent,comp
 ,Environnement de développement,Spring Boot,O,,,Conception & Développement,Apache-2.0,,Aide au développement,,,,MIMDEV,2.X
 ,Environnement de développement,IS Designer,O,,,Conception & Développement,,,Modeleur,,,,MIMDEV,1.9.0
 ,Outil de gestion des dépendances,Yarn,O,,Q28975591,Conception & Développement,BSD-2-Clause,,"Installation, Packaging, Diffusion et Distribution",,,,MIMDEV,1.12.3
-,Vérification de la conformité de l'application aux règles d'accessibilité,Asqatasun,O,,Q24026504,Conception & Développement,AGPL-3.0,,Qualité et sécurité du code source,,,,MIMDEV,docker
+,Vérification de la conformité de l'application aux règles d'accessibilité,Asqatasun,O,,Q24026504,Conception & Développement,AGPL-3.0,,Qualité et sécurité du code source,,,,MIMDEV,Docker
 ,Vérification de la conformité de l'application aux règles d'accessibilité,Tanaguru,O,,,Conception & Développement,,,Qualité et sécurité du code source,,,,MIMDEV,5.0.3
 ,Vérification de la conformité de l'application aux règles d'accessibilité,Assistant RGAA,O,,,Conception & Développement,,,Qualité et sécurité du code source,,poste de travail des agents impliqués dans le cycle de vie d’une application utilisée via un navigateur web,,MIMDEV,1.0.4
 ,Outil d'anonymisation des données,ARX Data Anonymization Tool,O,,,Conception & Développement,,,Test & Intégration,,,,MIMDEV,3.7.1
@@ -115,49 +115,49 @@ s.o.,Affichage graphique des délais de prise en compte des incidents + indicate
 PDF,"Outil de fusion, extraction et découpage de fichiers PDF. Il permet aussi de changer le sens des pages.",PDFSam Basic,,,,Espace utilisateur et canal,AGPL-3.0,,Consultation et édition de documents,,,,MIMO,4.0 (3.3.7 pour 32b)
 ,Bloqueur des publicités et des pisteurs,Ublock Origin,,Firefox,,Espace utilisateur et canal,GPL-3.0,,Navigateur web,,,,MIMO,1.18
 ,Base de données transactionnelle,PostgreSQL,R,,,Données et contenu,,,Bd Relationnelles,,Base de production,,MIMPROD,10
-,Base transactionnelle cluster,MariaDB,R,,Q787177,Données et contenu,,,Bd Relationnelles,,Base de production,,MIMPROD,"10,3"
-,Base de données Géomatique,PostGIS,R,,,Données et contenu,,,Bd Relationnelles,,Information géographique,,MIMPROD,"2,4"
-,Base de données NoSQL,MongoDB,R,,,Données et contenu,,,Gestionnaire de données non relationnelles,,Base de données Document,,MIMPROD,"3,4"
+,Base transactionnelle cluster,MariaDB,R,,Q787177,Données et contenu,,,Bd Relationnelles,,Base de production,,MIMPROD,10.3
+,Base de données Géomatique,PostGIS,R,,,Données et contenu,,,Bd Relationnelles,,Information géographique,,MIMPROD,2.4
+,Base de données NoSQL,MongoDB,R,,,Données et contenu,,,Gestionnaire de données non relationnelles,,Base de données Document,,MIMPROD,3.4
 ,Indexation et recherche plein texte,ElasticSearch,R,,,Données et contenu,,,Moteur de recherche,,En mode cluster,,MIMPROD,6.x
 ,Indexation et recherche plein texte,Apache Solr,R,,Q2858103,Données et contenu,,,Moteur de recherche,,Limité à 1 serveur,,MIMPROD,8.0.0
-,Distribution GNU/LINUX,CentOS,R,,,Logiciel Système et Virtualisation,,,Système d'Exploitation,,En centre de production,,MIMPROD,"7,6"
-,Distribution GNU/LINUX,Ubuntu – Eole,R,,,Logiciel Système et Virtualisation,,,Système d'Exploitation,,Services déconcentrés,,MIMPROD,"2,7"
+,Distribution GNU/LINUX,CentOS,R,,,Logiciel Système et Virtualisation,,,Système d'Exploitation,,En centre de production,,MIMPROD,7.6
+,Distribution GNU/LINUX,Ubuntu – Eole,R,,,Logiciel Système et Virtualisation,,,Système d'Exploitation,,Services déconcentrés,,MIMPROD,2.7
 ,Distribution GNU/LINUX,Debian,R,,,Logiciel Système et Virtualisation,,,Système d'Exploitation,,En centre de production,,MIMPROD,9
-,Hyperviseur,KVM,R,,,Logiciel Système et Virtualisation,,,Virtualisation serveur et jusqu'à plateforme,,Virtualisation serveurs,,MIMPROD,Version Distribution
+,Hyperviseur,KVM,R,,,Logiciel Système et Virtualisation,,,Virtualisation serveur et jusqu'à plateforme,,Virtualisation serveurs,,MIMPROD,Distribution
 ,IaaS – 2,OpenStack,R,,,Logiciel Système et Virtualisation,,,Virtualisation serveur et jusqu'à plateforme,,Infonuage,,MIMPROD,0
-,Virtualisation de serveurs,OpenNebula,R,,,Logiciel Système et Virtualisation,,,Virtualisation serveur et jusqu'à plateforme,,Infra virtuelle,,MIMPROD,"5,6"
-,Haute Disponibilté,Pacemaker,R,,,Logiciel Système et Virtualisation,GPL-2.0,,Haute disponibilité (OS),,Infra virtuelle,,MIMPROD,Version distribution
-,Haute Disponibilté,Corosync,R,,,Logiciel Système et Virtualisation,BSD-3-Clause,,Haute disponibilité (OS),,Infra virtuelle,,MIMPROD,Version distribution
+,Virtualisation de serveurs,OpenNebula,R,,,Logiciel Système et Virtualisation,,,Virtualisation serveur et jusqu'à plateforme,,Infra virtuelle,,MIMPROD,5.6
+,Haute Disponibilté,Pacemaker,R,,,Logiciel Système et Virtualisation,GPL-2.0,,Haute disponibilité (OS),,Infra virtuelle,,MIMPROD,Distribution
+,Haute Disponibilté,Corosync,R,,,Logiciel Système et Virtualisation,BSD-3-Clause,,Haute disponibilité (OS),,Infra virtuelle,,MIMPROD,Distribution
 ,Supervision Infrastructure et composants,Shinken,R,,,Opérations,,,Supervision / Hypervision,,Infra virtuelle,,MIMPROD,2.4.3
-,Supervision Infrastructure,Centreon,,,,Opérations,,,Supervision / Hypervision,,Infra virtuelle,,MIMPROD,"2,8"
-,Partage de fichiers,Samba 4,R,,,Stockage,,,Partage de fichiers,,Infra virtuelle,,MIMPROD,"4,9"
-,Antivirus : Orienté serveur,ClamAV,R,,,Sécurité,,,Antivirus,,Serveur Bureautique,,MIMPROD,Version Distribution
-,Annuaire,OpenLdap,R,,,Sécurité,,,Authentification,,Serveur Bureautique,,MIMPROD,"2,4"
-,SSO,LemonLDAP::NG,R,,,Sécurité,,,Authentification,,Serveur Bureautique,,MIMPROD,Version Distribution
+,Supervision Infrastructure,Centreon,,,,Opérations,,,Supervision / Hypervision,,Infra virtuelle,,MIMPROD,2.8
+,Partage de fichiers,Samba 4,R,,,Stockage,,,Partage de fichiers,,Infra virtuelle,,MIMPROD,4.9
+,Antivirus : Orienté serveur,ClamAV,R,,,Sécurité,,,Antivirus,,Serveur Bureautique,,MIMPROD,Distribution
+,Annuaire,OpenLdap,R,,,Sécurité,,,Authentification,,Serveur Bureautique,,MIMPROD,2.4
+,SSO,LemonLDAP::NG,R,,,Sécurité,,,Authentification,,Serveur Bureautique,,MIMPROD,Distribution
 ,Gestion des logs en mode centralisé,Logstash,R,,Q17620247,Sécurité,Apache-2.0,,Gestion des logs,,Serveur Bureautique,,MIMPROD,6.x
 ,Gestion des logs en mode centralisé,Kibana,R,,Q21156460,Sécurité,Apache-2.0,,Gestion des logs,,Serveur Bureautique,,MIMPROD,6.x
-,Gestion des logs en mode centralisé,Syslog-ng,R,,,Sécurité,,,Gestion des logs,,Serveur Bureautique,,MIMPROD,Version Distribution
-,Pare-feu réseau et web,Eole AMON,R,,,Réseau,,,Pare-feu – Réseau,,Services déconcentrés,,MIMPROD,"2,7"
-,Serveur Web & Reverse Proxy,Apache HTTP Server,R,,Q11354,Réseau,,,Serveur Web & 'Reverse Proxy,,Services déconcentrés,,MIMPROD,Version Distribution
-,Reverse Proxy,Nginx,R,,,Réseau,,,Serveur Web & 'Reverse Proxy,,Services déconcentrés,,MIMPROD,Version Distribution
-,Proxy,Squid,R,,,Réseau,,,Serveur Web & 'Reverse Proxy,,Services déconcentrés,,MIMPROD,Version Distribution
-,Cache web,Varnish,R,,,Réseau,,,Serveur Web & 'Reverse Proxy,,Services déconcentrés,,MIMPROD,Version Distribution
-,Load Balancer,HAProxy,R,,,Réseau,,,Load Balancer,,Services déconcentrés,,MIMPROD,Version Distribution
-,Serveur d'impression,Cups,R,,,Intégration & Échanges,,,Serveur d'impression,,Services déconcentrés,,MIMPROD,Version Distribution
-,Messagerie system,Postfix,R,,,Intégration & Échanges,,,Serveur SMTP,,Services déconcentrés,,MIMPROD,Version Distribution
-,Sauvegadre Serveurs,Bareos,R,,,Sauvegarde,,,Sauvegarde Serveur,,Services déconcentrés,,MIMPROD,Version Distribution
-,Stockage Objet,Swift (OpenStack),R,,,Stockage,,,Sauvegarde Serveur,,Services déconcentrés,,MIMPROD,Version Distribution
-,Stockage block,Ceph,R,,,Stockage,,,Sauvegarde Serveur,,Services déconcentrés,,MIMPROD,Version Distribution
-,Déploiement,SaltStack,R,,,Opérations,,,Outils système & virtualisation,,Services déconcentrés,,MIMPROD,Version Distribution
-,Déploiement,Ansible,R,,Q2852503,Opérations,,,Outils système & virtualisation,,Services déconcentrés,,MIMPROD,Version Distribution
-,Conteneurs logiciels,Docker,R,,,Opérations,,,Outils système & virtualisation,,Services déconcentrés,,MIMPROD,Version Distribution
-,Orchestration,Kubernetes,R,,,Opérations,,,Outils système & virtualisation,,conteneurs,,MIMPROD,Version Distribution
-,Outils VisoConférence,Jitsi,R,,,Espace utilisateur et canal,,,Visiophonie,,,,MIMPROD,Version Distribution
+,Gestion des logs en mode centralisé,Syslog-ng,R,,,Sécurité,,,Gestion des logs,,Serveur Bureautique,,MIMPROD,Distribution
+,Pare-feu réseau et web,Eole AMON,R,,,Réseau,,,Pare-feu – Réseau,,Services déconcentrés,,MIMPROD,2.7
+,Serveur Web & Reverse Proxy,Apache HTTP Server,R,,Q11354,Réseau,,,Serveur Web & 'Reverse Proxy,,Services déconcentrés,,MIMPROD,Distribution
+,Reverse Proxy,Nginx,R,,,Réseau,,,Serveur Web & 'Reverse Proxy,,Services déconcentrés,,MIMPROD,Distribution
+,Proxy,Squid,R,,,Réseau,,,Serveur Web & 'Reverse Proxy,,Services déconcentrés,,MIMPROD,Distribution
+,Cache web,Varnish,R,,,Réseau,,,Serveur Web & 'Reverse Proxy,,Services déconcentrés,,MIMPROD,Distribution
+,Load Balancer,HAProxy,R,,,Réseau,,,Load Balancer,,Services déconcentrés,,MIMPROD,Distribution
+,Serveur d'impression,Cups,R,,,Intégration & Échanges,,,Serveur d'impression,,Services déconcentrés,,MIMPROD,Distribution
+,Messagerie system,Postfix,R,,,Intégration & Échanges,,,Serveur SMTP,,Services déconcentrés,,MIMPROD,Distribution
+,Sauvegadre Serveurs,Bareos,R,,,Sauvegarde,,,Sauvegarde Serveur,,Services déconcentrés,,MIMPROD,Distribution
+,Stockage Objet,Swift (OpenStack),R,,,Stockage,,,Sauvegarde Serveur,,Services déconcentrés,,MIMPROD,Distribution
+,Stockage block,Ceph,R,,,Stockage,,,Sauvegarde Serveur,,Services déconcentrés,,MIMPROD,Distribution
+,Déploiement,SaltStack,R,,,Opérations,,,Outils système & virtualisation,,Services déconcentrés,,MIMPROD,Distribution
+,Déploiement,Ansible,R,,Q2852503,Opérations,,,Outils système & virtualisation,,Services déconcentrés,,MIMPROD,Distribution
+,Conteneurs logiciels,Docker,R,,,Opérations,,,Outils système & virtualisation,,Services déconcentrés,,MIMPROD,Distribution
+,Orchestration,Kubernetes,R,,,Opérations,,,Outils système & virtualisation,,conteneurs,,MIMPROD,Distribution
+,Outils VisoConférence,Jitsi,R,,,Espace utilisateur et canal,,,Visiophonie,,,,MIMPROD,Distribution
 ,Base transactionnelle cluster,CockroachDB,O,,,Données et contenu,,,BD Relationnelles,,Base de production,,MIMPROD,2
 ,Annuaire,OpenLdap,O,,,Sécurité,,,Authentification,,Serveur Bureautique,,MIMPROD,0
 ,IAM,Keycloak,O,,,Sécurité,,,Authentification,,Serveur Bureautique,,MIMPROD,4
 ,Stockage Securisé,Vault,O,,,Stockage,,,Sauvegarde Serveur,,Services déconcentrés,,MIMPROD,
-,Déploiement,Consul,O,,,Opérations,,,Outils système & virtualisation,,Services déconcentrés,,MIMPROD,Version Distribution
-,Déploiement,Packer,O,,,Opérations,,,Outils système & virtualisation,,Services déconcentrés,,MIMPROD,Version Distribution
-,Orchestration,Swarm,O,,,Opérations,,,Outils système & virtualisation,,conteneurs,,MIMPROD,Version Distribution
-,Orchestration,Rundeck,O,,,Opérations,,,Outils système & virtualisation,,conteneurs,,MIMPROD,Version Distribution
+,Déploiement,Consul,O,,,Opérations,,,Outils système & virtualisation,,Services déconcentrés,,MIMPROD,Distribution
+,Déploiement,Packer,O,,,Opérations,,,Outils système & virtualisation,,Services déconcentrés,,MIMPROD,Distribution
+,Orchestration,Swarm,O,,,Opérations,,,Outils système & virtualisation,,conteneurs,,MIMPROD,Distribution
+,Orchestration,Rundeck,O,,,Opérations,,,Outils système & virtualisation,,conteneurs,,MIMPROD,Distribution
