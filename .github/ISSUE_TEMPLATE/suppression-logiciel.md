@@ -2,7 +2,7 @@
 name: Suppression d'un logiciel
 about: Supprimer un logiciel du SILL
 title: 'Logiciel concerné : '
-labels: 'Soumission'
+labels: 'Suppression'
 assignees: 'bzg'
 ---
 
