@@ -33,6 +33,6 @@ dépôt](https://github.com/etalab/sillweb).
 
 # Licence
 
-Les Groupes Mutualisation Interministérielle et contributeurs du dépôt, 2019.
+Les Groupes Mutualisation Interministérielle et contributeurs du dépôt, 2019-2020.
 
 Le contenu du SILL et de ce dépôt est sous [licence Ouverte 2.0](LICENCE.md).
