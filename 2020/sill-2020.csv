@@ -43,6 +43,7 @@ Outil d'injection afin tester les couches basses,DbFit,FR,,,Conception & Dévelo
 Forum,PHPBB,FR,,Q14270,Orchestration & logique métier,,,Outil collaboratif,,Utilisé au sein d'une forge.,MIMDEV,3.0.9
 Gestion de mots de passe,KeePass,R,,Q762660,Sécurité,GPL-2.0-only,,Authentification,,,MIMO,2.3
 Suite bureautique,LibreOffice,R,,Q10135,Espace utilisateur et canal,MPL-2.0,,Consultation et édition de documents,,,MIMO,6.1.6.3_M14
+Outil de scan de PDF,NAPS2,R,,,Espace utilisateur et canal,GPL-2.0-only,,Outil de productivité,,,MIMO,5.8.2
 Diffusion multiformat,MultiDiff,R,LibreOffice,,Espace utilisateur et canal,LGPL-2.0-only,,Consultation et édition de documents,,,MIMO,1.3.0
 Correction grammaticale,Grammalecte,R,LibreOffice,,Espace utilisateur et canal,GPL-3.0,,Consultation et édition de documents,,,MIMO,0.6.5
 Galerie d’images,VRT network equipment,R,LibreOffice,,Espace utilisateur et canal,CC-BY-SA-4.0,,Consultation et édition de documents,,diagrammes informatiques,MIMO,1.2
