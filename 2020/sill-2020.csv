@@ -15,7 +15,7 @@ ID,fonction,nom,statut,parent,wikidata,comptoir-du-libre,secteur,licence,referen
 14,Enregistrement et édition de sons,Audacity,R,,Q191782,,Espace utilisateur et canal,GPL-2.0-only,,Consultation et édition de documents,,Enregistrement et édition de sons,MIMO,2.1
 15,Convertisseur de formats vidéo,Avidemux,O,,Q790931,,Espace utilisateur et canal,GPL-2.0-only,,Consultation et édition de documents,,,MIMO,2.7
 16,Sauvegadre Serveurs,Bareos,R,,Q25387280,,Sauvegarde,,,Sauvegarde Serveur,,Services déconcentrés,MIMPROD,Distribution
-17,Options de configuration supplémentaires,Behaviors (Comportements),R,GLPI,,,Opérations,AGPL-3.0-or-later,,Déploiement gestion d’actif et de configuration,,Gestion des tickets,MIMO,02/01/01
+17,Options de configuration supplémentaires,GLPI Behaviors (Comportements),R,GLPI,,,Opérations,AGPL-3.0-or-later,,Déploiement gestion d’actif et de configuration,,Gestion des tickets,MIMO,02/01/01
 18,Éditeur HTML,BlueGriffon,R,,Q885580,,Espace utilisateur et canal,"LGPL-3.0, GPL-3.0, MPL-2.0",,Consultation et édition de documents,,,MIMO,3.0
 19,Distribution GNU/LINUX,CentOS,R,,Q207542,,Logiciel Système et Virtualisation,,,Système d'Exploitation,,En centre de production,MIMPROD,7.6
 20,Supervision Infrastructure,Centreon,,,Q2946121,,Opérations,,,Supervision / Hypervision,,Infra virtuelle,MIMPROD,2.8
@@ -40,7 +40,7 @@ ID,fonction,nom,statut,parent,wikidata,comptoir-du-libre,secteur,licence,referen
 39,Indexation et recherche plein texte,Elasticsearch,R,,Q3050461,,Données et contenu,,,Moteur de recherche,,En mode cluster,MIMPROD,6.x
 40,Pare-feu réseau et web,EOLE AMON,R,,,,Réseau,,,Pare-feu – Réseau,,Services déconcentrés,MIMPROD,2.7
 41,Distribution GNU/LINUX,EOLE (Ubuntu),R,,Q3046024,,Logiciel Système et Virtualisation,,,Système d'Exploitation,,Services déconcentrés,MIMPROD,2.7
-42,Escalade de tickets,Escalation,O,GLPI,,,Opérations,GPL-2.0-only,,Déploiement gestion d’actif et de configuration,,Gestion des tickets,MIMO,0.85+1.0
+42,Escalade de tickets,GLPI Escalation,O,GLPI,,,Opérations,GPL-2.0-only,,Déploiement gestion d’actif et de configuration,,Gestion des tickets,MIMO,0.85+1.0
 43,Client FTP,Filezilla,R,,Q300662,,Données et contenu,GPL-2.0,,Gestion des accès aux données,,Client FTP,MIMO,3.40
 44,Outil d'injection afin tester les couches basses,Fitnesse,FR,,,,Conception & Développement,,,Test & Intégration,,,MIMDEV,20161106
 45,Rendez-vous,Framadate (logiciel),O,,,,Espace utilisateur et canal,,,Messagerie agenda contacts,,,MIMO,
