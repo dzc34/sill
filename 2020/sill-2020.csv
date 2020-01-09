@@ -54,8 +54,8 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 53,Plateforme de développement,GitLab Community Edition,R,,,Q16639197,,,,Orchestration & logique métier,Outil collaboratif,,,MIMDEV,11.X
 54,Gestion de parc et suivi d'incidents,GLPI,R,,,Q3104570,,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,,MIMO,9.3
 55,Plugin GLPI-Survey (questionnaire),GLPI,O,GLPI,,Q3104570,,AGPL-3.0-or-later,,Opérations,Service level management,,Gestion de parc,MIMO,9.3.1.0
-56,Correction grammaticale,Grammalecte,R,LibreOffice,,,,GPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,0.6.5
-57,Correction grammaticale,Grammalecte,R,Firefox,,Q17629243,,GPL-3.0,,Espace utilisateur et canal,Navigateur web,,,MIMO,0.6.5
+56,Correction grammaticale,Grammalecte,R,LibreOffice,,,,GPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,1.60
+57,Correction grammaticale,Grammalecte,R,Firefox,,Q17629243,,GPL-3.0,,Espace utilisateur et canal,Navigateur web,,,MIMO,1.60
 58,Capture d'écran,GreenShot,R,,,Q1544791,,GPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,1.2.10
 59,Base de données,H2,R,,,Q1562670,,,,Conception & Développement,Test & Intégration,,Poste développeur,MIMDEV,1.4.197
 60,Load Balancer,HAProxy,R,,,Q5628948,,,,Réseau,Load Balancer,,Services déconcentrés,MIMPROD,Distribution
