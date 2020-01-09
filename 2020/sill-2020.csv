@@ -100,7 +100,7 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 100,Captation vidéo et flux,OBS Studio,R,,,Q21707789,,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,22
 101,"Inventaire, télédéploiement et découverte du réseau",OCS Inventory,R,,,Q1135744,,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,,MIMO,2.3
 102,Automatisation de l'import OCS Inventory-NG,OCS Inventory ng,R,GLPI,,,,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,01/05/04
-103,,OpenDocument Reader,R,,,,,GPL,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,
+103,,OpenDocument Reader,R,,,,,GPL-3.0-or-later,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,1.3.2
 104,Environnement de développement,OpenJDK,R,,,Q1461054,,GPL-2.0,,Conception & Développement,Environnement d'exécution,,,MIMDEV,8
 105,Annuaire,OpenLdap,R,,,Q682918,,,,Sécurité,Authentification,,Serveur Bureautique,MIMPROD,2.4
 106,Annuaire,OpenLdap,O,,,Q682918,,,,Sécurité,Authentification,,Serveur Bureautique,MIMPROD,
