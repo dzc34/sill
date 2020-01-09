@@ -48,7 +48,7 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 47,Synchronisation Sauvegarde,FreeFileSync,R,,,Q18150468,,GPL-3.0,,Opérations,Synchronisation réplication déduplication,,,MIMO,10.6
 48,Grapheur d'idées,Freeplane,R,,,Q3028675,,GPL-2.0-only,,Espace utilisateur et canal,Outil de productivité,,,MIMO,1.7
 49,"Inventaire, télédéploiement et découverte du réseau",FusionInventory,O,GLPI,,,,AGPL-3.0-or-later,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,9.1+1.1
-50,Gestion des stocks et demandes par une entité différente de celles définies pour la délégation de gestion.,Geststock,R,GLPI,,,,,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion de parc,MIMO,1.0.0
+50,Gestion des stocks et demandes par une entité différente de celles définies pour la délégation de gestion.,Geststock,R,GLPI,,,,,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion de parc,MIMO,2.0.0
 51,Dessin (matriciel),Gimp,R,,,Q8038,,GPL-3.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,2.10.14
 52,Outil de gestion des configurations (serveur),Git,R,,,Q186055,,GPL-2.0,,Conception & Développement,Gestion du code source,,,MIMDEV,Dernière
 53,Plateforme de développement,GitLab Community Edition,R,,,Q16639197,,,,Orchestration & logique métier,Outil collaboratif,,,MIMDEV,11.X
@@ -59,7 +59,7 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 58,Capture d'écran,GreenShot,R,,,Q1544791,,GPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,1.2.10
 59,Base de données,H2,R,,,Q1562670,,,,Conception & Développement,Test & Intégration,,Poste développeur,MIMDEV,1.4.197
 60,Load Balancer,HAProxy,R,,,Q5628948,,,,Réseau,Load Balancer,,Services déconcentrés,MIMPROD,Distribution
-61,Dessin (vectoriel),Inkscape,O,,,Q8041,,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,0.92
+61,Dessin (vectoriel),Inkscape,O,,,Q8041,,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,0.92.4
 62,Environnement de développement,IS Designer,O,,,,,,,Conception & Développement,Modeleur,,,MIMDEV,1.9.0
 63,Couverture du code,Jacoco,R,,,Q6109486,,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,0.8.2
 64,Génération / Gestion des jeux de données,Jailer,R,,,,,,,Conception & Développement,Test & Intégration,,,MIMDEV,8.2.x
