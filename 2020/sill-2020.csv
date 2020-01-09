@@ -65,7 +65,7 @@ ID,fonction,nom,statut,parent,wikidata,comptoir-du-libre,alternative-a,referent,
 64,Génération / Gestion des jeux de données,Jailer,R,,,,,,,Test & Intégration,,MIMDEV,8.2.x
 65,Outil de monitoring,Javamelody,R,,,,,,Apache-2.0,Test & Intégration,,MIMDEV,1.74.0
 66,"Outil d'aide à la livraison (dépôt, intégration continue...)",Jenkins,R,,Q7491312,,,,MIT,Test & Intégration,,MIMDEV,2.x
-67,Webconférence,Jitsi,R,,Q58427,,,,Apache-2.0,Visiophonie,,MIMO,2.9
+67,Webconférence,Jitsi,R,,Q58427,65,,,Apache-2.0,Visiophonie,,MIMO,2.9
 69,Outil de gestion des tests unitaires,Junit,R,,Q847675,,,,,Test & Intégration,,MIMDEV,5.2
 70,,K-9 Mail,O,,Q14565723,,,,Apache-2.0,Messagerie agenda contacts,Client de Messagerie,MIMO,5.600
 71,Pour utiliser ses codes,KeeFox,O,Firefox,Q61694243,,,,GPL V2.0,Navigateur web,Pour utiliser ses codes,MIMO,2.5
