@@ -161,3 +161,4 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 161,Gestion de tâches,Wekan,O,,,Q50558592,,,,Espace utilisateur et canal,Outil de productivité,,,MIMO,
 162,Blogue,Wordpress,O,,,Q13166,,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,
 163,Outil de gestion des dépendances,Yarn,O,,,Q28975591,,BSD-2-Clause,,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,,MIMDEV,1.12.3
+164,Audit et configuration continus,Rudder,R,,,Q16673801,,GPL-3.0-or-later,,Opérations,Déploiement gestion d’actif et de configuration,,En 5.0 chez le référent,MIMPROD,Distribution
