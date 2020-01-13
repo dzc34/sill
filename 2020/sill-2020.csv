@@ -131,7 +131,9 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 131,Supervision Infrastructure et composants,Shinken,R,,,,302,,,Opérations,Supervision / Hypervision,,Infra virtuelle,MIMPROD,2.4.3
 132,Outil d'aide aux tests techniques,SoapUI,R,,,Q2296314,186,,,Conception & Développement,Test & Intégration,,Tests orientés Web Services,MIMDEV,5.4.0
 133,Tableau de bord d'indicateurs de qualité,SonarQube,R,,,Q541691,181,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7
-134,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : FindBugs CheckStyle Pmd,R,SonarQube,,,,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7
+134,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : FindBugs,R,SonarQube,,,,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
+165,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : CheckStyle,R,SonarQube,,,,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
+166,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : Pmd,R,SonarQube,,,,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
 135,Environnement de développement,Spring Boot,O,,,,172,Apache-2.0,,Conception & Développement,Aide au développement,,,MIMDEV,2.X
 136,Automatisation des tests,Squash TA,R,,,,189,,,Conception & Développement,Test & Intégration,,,MIMDEV,1.11
 137,Gestion des campagnes de tests,Squash TM,R,,,,190,,,Conception & Développement,Test & Intégration,,,MIMDEV,1.17.1
