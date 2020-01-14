@@ -99,7 +99,7 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 99,Lecteur d’écran,NVDA,R,,,Q1116614,63,GPL-2.0-only,,Espace utilisateur et canal,Accessibilité,,,MIMO,2018.4.1
 100,Régie video pour enregistrement et/ou streaming,OBS Studio,R,,,Q21707789,285,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,24.0.5
 101,"Inventaire, télédéploiement et découverte du réseau",OCS Inventory,R,,,Q1135744,83,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,,MIMO,2.3
-102,Automatisation de l'import OCS Inventory-NG,OCS Inventory ng,R,GLPI,,,83,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,01/05/04
+102,Automatisation de l'import OCS Inventory-NG,OCS Inventory ng,R,GLPI,,,91,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,01/05/04
 103,,OpenDocument Reader,R,,,,290,GPL-3.0-or-later,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,1.3.2
 104,Environnement de développement,OpenJDK,R,,,Q1461054,173,GPL-2.0,,Conception & Développement,Environnement d'exécution,,,MIMDEV,8
 105,Annuaire,OpenLdap,R,,,Q682918,98,,,Sécurité,Authentification,,Serveur Bureautique,MIMPROD,2.4
@@ -131,9 +131,9 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 131,Supervision Infrastructure et composants,Shinken,R,,,,302,,,Opérations,Supervision / Hypervision,,Infra virtuelle,MIMPROD,2.4.3
 132,Outil d'aide aux tests techniques,SoapUI,R,,,Q2296314,186,,,Conception & Développement,Test & Intégration,,Tests orientés Web Services,MIMDEV,5.4.0
 133,Tableau de bord d'indicateurs de qualité,SonarQube,R,,,Q541691,181,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7
-134,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : FindBugs,R,SonarQube,,,,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
-165,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : CheckStyle,R,SonarQube,,,,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
-166,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : Pmd,R,SonarQube,,,,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
+134,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : FindBugs,R,SonarQube,,,307,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
+165,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : CheckStyle,R,SonarQube,,,308,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
+166,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : Pmd,R,SonarQube,,,309,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
 135,Environnement de développement,Spring Boot,O,,,,172,Apache-2.0,,Conception & Développement,Aide au développement,,,MIMDEV,2.X
 136,Automatisation des tests,Squash TA,R,,,,189,,,Conception & Développement,Test & Intégration,,,MIMDEV,1.11
 137,Gestion des campagnes de tests,Squash TM,R,,,,190,,,Conception & Développement,Test & Intégration,,,MIMDEV,1.17.1
