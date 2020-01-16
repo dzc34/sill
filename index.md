@@ -1,14 +1,15 @@
 
 # Table des matières
 
--   [Le SILL 2019](#orgbe05b76)
--   [Les communautés qui construisent le SILL](#org5c8910d)
--   [Les critères d’entrée d’un logiciel dans le SILL](#orgeca3f87)
--   [Comment ajouter un logiciel libre dans le SILL ?](#org6ecfb1a)
--   [Que signifie être « référent » d’un logiciel ?](#org67705c5)
--   [Présentations partagées dans les groupes MIM](#orgfeeaec9)
--   [Le mouvement `#BlueHats`](#org10576e1)
--   [Licence du SILL et de ce dépôt](#org7580013)
+-   [Le SILL 2019](#org1f2046d)
+-   [Les communautés qui construisent le SILL](#org430ec75)
+-   [Les documents de construction du SILL 2020](#org246ef26)
+-   [Les critères d’entrée d’un logiciel dans le SILL](#orga8e6449)
+-   [Comment ajouter un logiciel libre dans le SILL ?](#org9365945)
+-   [Que signifie être « référent » d’un logiciel ?](#org46f80b7)
+-   [Présentations partagées dans les groupes MIM](#org74daec8)
+-   [Le mouvement `#BlueHats`](#org7b756e8)
+-   [Licence du SILL et de ce dépôt](#org0772cdc)
 
 Le socle interministériel de logiciels libres (SILL) est le catalogue
 de référence des logiciels libres recommandés par l’Etat.
@@ -24,7 +25,7 @@ territoriales.
 Pour toute question, écrire à [bastien.guerry@data.gouv.fr](mailto:bastien.guerry@data.gouv.fr)
 
 
-<a id="orgbe05b76"></a>
+<a id="org1f2046d"></a>
 
 # Le SILL 2019
 
@@ -39,7 +40,7 @@ Vous pouvez voir la liste des changements depuis 2018 ([ODT](2019/sill-diff-2018
 Vous pouvez [télécharger l'installateur de LibreOffice MIMO](ftp://eoleng.ac-dijon.fr/SILL2019/).
 
 
-<a id="org5c8910d"></a>
+<a id="org430ec75"></a>
 
 # Les communautés qui construisent le SILL
 
@@ -61,7 +62,27 @@ Pour demander à participer aux échanges des groupes :
 -   s’inscrire sur [la liste MIMPROD](https://listes.etalab.gouv.fr/listinfo/mimprod) ;
 
 
-<a id="orgeca3f87"></a>
+<a id="org246ef26"></a>
+
+# Les documents de construction du SILL 2020
+
+Les documents de construction du SILL 2020 sont disponibles via
+l'espace de partage <https://groupes.mim.ovh>.  Si vous êtes référent,
+vous pouvez obtenir un compte sur cet espace.
+
+Une fois connecté sur cet espace, les documents de préparations sont
+accessibles ici :
+
+-   [MIMO](https://cloud.mim.ovh/apps/files/?dir=/Partage%20MIM/MIMO/SILL&fileid=10858)
+-   [MIMDEV](https://calc.mim.ovh/MIMDEV/edit)
+-   [MIMPROD](https://calc.mim.ovh/MIMPROD/edit)
+
+Le [dépôt SILL](https://github.com/DISIC/sill/) contient aussi [un fichier csv pour le SILL 2020](https://github.com/DISIC/sill/blob/master/2020/sill-2020.csv) dans
+lequel sont régulièrement consolidées les contributions faites sur
+ces documents privés.
+
+
+<a id="orga8e6449"></a>
 
 # Les critères d’entrée d’un logiciel dans le SILL
 
@@ -109,7 +130,7 @@ Pour demander à participer aux échanges des groupes :
     logiciel a **publié des informations sur cet usage**.
 
 
-<a id="org6ecfb1a"></a>
+<a id="org9365945"></a>
 
 # Comment ajouter un logiciel libre dans le SILL ?
 
@@ -120,7 +141,7 @@ Pour proposer un nouveau logiciel en vue du SILL 2020, vous pouvez
 public se porte volontaire pour en être le *référent* (voir ci-dessous.)
 
 
-<a id="org67705c5"></a>
+<a id="org46f80b7"></a>
 
 # Que signifie être « référent » d’un logiciel ?
 
@@ -157,7 +178,7 @@ son ministère.
 -   obligé de publier son identité.
 
 
-<a id="orgfeeaec9"></a>
+<a id="org74daec8"></a>
 
 # Présentations partagées dans les groupes MIM
 
@@ -167,7 +188,7 @@ son ministère.
 -   27/11/2019 (MIMO) : [Nextcloud - Le cloud alternatif aux GAFAM](https://speakerdeck.com/bluehats/nextcloud-le-cloud-alternatif-aux-gafam)
 
 
-<a id="org10576e1"></a>
+<a id="org7b756e8"></a>
 
 # Le mouvement `#BlueHats`
 
@@ -179,7 +200,7 @@ Vous pouvez retrouver [la gazette #BlueHats](https://github.com/DISIC/gazette-bl
 y inscrire](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio) et voir la [documentation sur les événements #BlueHats](https://github.com/DISIC/evenements-bluehats).
 
 
-<a id="org7580013"></a>
+<a id="org0772cdc"></a>
 
 # Licence du SILL et de ce dépôt
 

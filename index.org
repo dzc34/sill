@@ -45,6 +45,23 @@ Pour demander à participer aux échanges des groupes :
 - s’inscrire sur [[https://listes.etalab.gouv.fr/listinfo/mimo][la liste MIMO]] ;
 - s’inscrire sur [[https://listes.etalab.gouv.fr/listinfo/mimprod][la liste MIMPROD]] ;
 
+* Les documents de construction du SILL 2020
+
+Les documents de construction du SILL 2020 sont disponibles via
+l'espace de partage https://groupes.mim.ovh.  Si vous êtes référent,
+vous pouvez obtenir un compte sur cet espace.
+
+Une fois connecté sur cet espace, les documents de préparations sont
+accessibles ici :
+
+- [[https://cloud.mim.ovh/apps/files/?dir=/Partage%20MIM/MIMO/SILL&fileid=10858][MIMO]]
+- [[https://calc.mim.ovh/MIMDEV/edit][MIMDEV]]
+- [[https://calc.mim.ovh/MIMPROD/edit][MIMPROD]]
+
+Le [[https://github.com/DISIC/sill/][dépôt SILL]] contient aussi [[https://github.com/DISIC/sill/blob/master/2020/sill-2020.csv][un fichier csv pour le SILL 2020]] dans
+lequel sont régulièrement consolidées les contributions faites sur
+ces documents privés.
+
 * Les critères d’entrée d’un logiciel dans le SILL
 
 ** Un prérequis pour tous les logiciels
