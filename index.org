@@ -5,14 +5,16 @@ Le socle interministériel de logiciels libres (SILL) est le catalogue
 de référence des logiciels libres recommandés par l’Etat.
 
 Il est construit de façon collaborative par des communautés d’agents
-informaticiens de l’État, d’opérateurs publics et de collectivités
-territoriales.
+informaticiens de la fonction publique d'État et de la fonction
+publique hospitalière.
 
 - La page d'accueil du SILL côté DINUM : [[https://disic.github.io/sill/index.html][disic.github.io/sill]]
 - La page d'accueil des groupes MIM : [[https://www.mim-libre.fr/][www.mim-libre.fr]]
-- L'ancienne page de présentation du SILL [[https://references.modernisation.gouv.fr/socle-logiciels-libres][côté DINSIC]]
+- L'ancienne page de présentation du SILL de la [[https://references.modernisation.gouv.fr/socle-logiciels-libres][DINUM]]
 
-Pour toute question, écrire à [[mailto:bastien.guerry@data.gouv.fr][bastien.guerry@data.gouv.fr]]
+Pour toute question, écrire à [[mailto:bastien.guerry@data.gouv.fr][bastien.guerry@data.gouv.fr]] ou à
+[[mailto:mim-noyau@listes.etalab.gouv.fr][mim-noyau@listes.etalab.gouv.fr]] pour contacter l'équipe d'animation
+des groupes MIM.
 
 * Le SILL 2019
 
@@ -66,18 +68,18 @@ ces documents privés.
 
 ** Un prérequis pour tous les logiciels
 
-- Le code source du logiciel est publié sous l'une des licences libres
-  reconnues par la [[https://www.gnu.org/licenses/license-list.fr.html][Free Software Foundation]] ou l'[[https://opensource.org/licenses][Open Source
-  Initiative]], sans délai de publication entre le code source et la
-  version exécutable.
+Le code source du logiciel est publié sous l'une des licences libres
+reconnues par la [[https://www.gnu.org/licenses/license-list.fr.html][Free Software Foundation]] ou l'[[https://opensource.org/licenses][Open Source Initiative]],
+sans délai de publication entre le code source et la version
+exécutable.
 
 ** Deux critères obligatoires pour les logiciels recommandés
 
-- Il existe un agent public d’une administration centrale référent
-  pour ce logiciel libre.
+- Il existe un agent public de la fonction publique d'État ou
+  hospitalière référent pour ce logiciel libre.
 
-- Le logiciel est actuellement utilisé dans au moins une
-  administration centrale.
+- Le logiciel est significativement utilisé dans un organisme public
+  de la fonction publique d'État ou hospitalière.
 
 ** D’autres informations optionnelles
 
@@ -97,12 +99,12 @@ ces documents privés.
   administration, configuration, sauvegarde, existence d'installeurs,
   d'outils de configuration et de déploiement.
 
-- Le logiciel est *adapté aux besoins des ministères* français :
-  intégration dans les SI ministériels et respect de la PSSIE,
-  traduction en français, besoins spécifiques aux grands comptes.
+- Le logiciel est *adapté aux besoins des organismes publics* français :
+  intégration dans les SI, traduction en français, besoins spécifiques
+  aux grands comptes.
 
-- L’un des ministères utilisateur ayant un usage significatif du
-  logiciel a *publié des informations sur cet usage*.
+- L’un des organismes publics utilisateur ayant un usage significatif
+  du logiciel a *publié des informations sur cet usage*.
 
 * Comment ajouter un logiciel libre dans le SILL ?
 
@@ -122,18 +124,18 @@ un mail à =bastien.guerry@data.gouv.fr=.
 
 ** Qui peut être « référent SILL » ?
 
-Tout agent public travaillant dans une administration centrale peut
-être référent d’un logiciel libre dont il connaît l’usage au sein de
-son ministère.
+Tout agent public travaillant dans un organisme public de la fonction
+publique d'État ou hospitalière peut être référent d’un logiciel libre
+dont il connaît l’usage au sein de son administration.
 
 ** Quels sont les tâches du référent ?
 
 *Le référent :*
 
-1. atteste de l’usage d’un logiciel libre dans son administration centrale ;
+1. atteste de l’usage d’un logiciel libre dans son administration ;
 2. collecte les informations pertinentes (de la version utilisée à des cas d’usage complets) sur le logiciel ;
 3. remonte ces informations aux mainteneurs du [[https://github.com/disic/sill][dépôt SILL]] hébergé par la DINUM - s’il peut, il met à jour ce dépôt directement ;
-4. participe au moins une fois par an à l’une des réunions du groupe MIM pertinent (MIMO, MIMPROD ou MIMDEV) ;
+4. participe une fois par an à l’une des réunions du groupe MIM pertinent (MIMO, MIMPROD ou MIMDEV) ;
 5. participe aux discussions entre mainteneurs sur la liste [[https://listes.etalab.gouv.fr/listinfo/sill-mainteneurs][sill-mainteneurs]] ;
 6. cherche un référent pour le remplacer s’il venait à ne plus pouvoir être référent.
 
