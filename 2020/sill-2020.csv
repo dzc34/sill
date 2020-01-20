@@ -161,6 +161,6 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 159,Outil de dev pour l’accessibilité,WebAccess,O,NVDA,,,,GPL-2.0-only,,Conception et développement,Qualité et sécurité de code source,,,MIMO,2019.04.11
 160,Serveur de services web permettant à une application externe d'interroger et de piloter GLPI.,WebService,O,GLPI,,,295,GPL-2.0-or-later,,Opérations,Déploiement gestion d’actif et de configuration,,,MIMO,1.8
 161,Gestion de tâches,Wekan,O,,,Q50558592,260,,,Espace utilisateur et canal,Outil de productivité,,,MIMO,
-162,Blogue,Wordpress,O,,,Q13166,38,,,Orchestration et logique métier,Outil collaboratif,,Version 5.3.2 utilisée sur etalab.gouv.fr,MIMO,
+162,Blogue,Wordpress,R,,,Q13166,38,,,Orchestration et logique métier,Outil collaboratif,,Version 5.3.2 utilisée sur etalab.gouv.fr,MIMO,
 163,Outil de gestion des dépendances,Yarn,O,,,Q28975591,177,BSD-2-Clause,,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,,MIMDEV,1.12.3
 164,Audit et configuration continus,Rudder,R,,,Q16673801,227,GPL-3.0-or-later,,Opérations,Déploiement gestion d’actif et de configuration,,En 5.0 chez le référent,MIMPROD,Distribution
