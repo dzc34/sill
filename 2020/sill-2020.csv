@@ -62,7 +62,7 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 61,Dessin (vectoriel),Inkscape,O,,,Q8041,68,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,0.92.4
 62,Environnement de développement,IS Designer,O,,,,319,,,Conception & Développement,Modeleur,,,MIMDEV,1.9.0
 63,Couverture du code,Jacoco,R,,,Q6109486,182,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,0.8.2
-64,Génération / Gestion des jeux de données,Jailer,R,,,,192,,,Conception & Développement,Test & Intégration,,,MIMDEV,8.2.x
+64,Génération / Gestion des jeux de données,Jailer,R,,,,192,,,Conception & Développement,Test & Intégration,,,MIMDEV,9.0
 65,Outil de monitoring,Javamelody,R,,,,195,Apache-2.0,,Conception & Développement,Test & Intégration,,,MIMDEV,1.74.0
 66,"Outil d'aide à la livraison (dépôt, intégration continue...)",Jenkins,R,,,Q7491312,187,MIT,,Conception & Développement,Test & Intégration,,,MIMDEV,2.x
 67,Webconférence,Jitsi,R,,,Q58427,65,Apache-2.0,,Espace utilisateur et canal,Visiophonie,,,MIMO,2.9
@@ -83,7 +83,7 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 83,Outil de remontée de bug,Mantis BT,R,,,,174,,,Conception & Développement,Gestion des Anomalies,,,MIMDEV,1.X
 84,Base transactionnelle cluster,MariaDB,R,,,Q787177,206,,,Données et contenu,Bd Relationnelles,,Base de production,MIMPROD,10.3
 85,Microblogue,Mastodon,R,,,Q27986619,283,,,Orchestration et logique métier,Outil collaboratif,,Version 3.0.1 utilisée pour mastodon.etalab.gouv.fr,MIMO,3.0.1
-86,Wiki,MediaWiki,O,,,Q83,122,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,
+86,Wiki,MediaWiki,R,,,Q83,122,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,
 87,Affichage de GLPI pour terminaux mobiles et tablettes,Mobile,O,GLPI,,,,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,1.1.6
 88,Base de données NoSQL,MongoDB,R,,,Q1165204,208,,,Données et contenu,Gestionnaire de données non relationnelles,,Base de données Document,MIMPROD,3.4
 89,Navigateur,Mozilla Firefox,R,,,Q698,82,MPL-2.0,,Espace utilisateur et canal,Navigateur web,,Navigateur,MIMO,ESR 60
