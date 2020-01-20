@@ -136,7 +136,7 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 166,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : Pmd,R,SonarQube,,,309,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
 135,Environnement de développement,Spring Boot,O,,,,172,Apache-2.0,,Conception & Développement,Aide au développement,,,MIMDEV,2.X
 136,Automatisation des tests,Squash TA,R,,,,189,,,Conception & Développement,Test & Intégration,,,MIMDEV,1.11
-137,Gestion des campagnes de tests,Squash TM,R,,,,190,,,Conception & Développement,Test & Intégration,,,MIMDEV,1.17.1
+137,Gestion des campagnes de tests,Squash TM,R,,,,190,,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.1
 138,Proxy,Squid,R,,,Q841783,159,,,Réseau,Serveur Web & 'Reverse Proxy,,Services déconcentrés,MIMPROD,Distribution
 139,Lecture simple de fichier PDF,SumatraPDF,R,,,Q479808,57,GPL-3.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,Sans remplissage de formulaire ni vérification de signature,MIMO,3.1.2
 140,Orchestration,Swarm,O,,,Q7653883,230,,,Opérations,Outils système & virtualisation,,Conteneurs,MIMPROD,Distribution
