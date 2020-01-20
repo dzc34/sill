@@ -31,7 +31,7 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 30,Effacement complet de tous les supports magnétiques d’une machine.,DBAN (Darik's Boot and Nuke),O,,,Q1165893,81,GPL-2.0-only / LGPL-2.0-only,,Données et contenu,Gestion des accès aux données,,,MIMO,2.3.0
 31,Outil d'injection afin tester les couches basses,DbFit,FR,,,,185,,,Conception & Développement,Test & Intégration,,,MIMDEV,3.2.0
 32,Distribution GNU/LINUX,Debian,R,,,Q7715973,241,,,Logiciel Système et Virtualisation,Système d'Exploitation,,En centre de production,MIMPROD,9
-33,Forum,Discourse,R,,,Q15054354,282,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,
+33,Forum,Discourse,R,,,Q15054354,282,,,Orchestration et logique métier,Outil collaboratif,,Version 2.4.0 utilisée pour forum.etalab.gouv.fr,MIMO,2.4.0
 34,Conteneurs logiciels,Docker,R,,,Q15206305,218,,,Opérations,Outils système & virtualisation,,Services déconcentrés,MIMPROD,Distribution
 35,Schémas,Draw.io Desktop,O,,,Q59339175,300,Apache-2.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,9.3
 36,Gestion de contenu web,Drupal,O,,,Q170855,264,,,Données et contenu,Gestion de contenu web,,,MIMO,
@@ -43,7 +43,7 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 42,Escalade de tickets,GLPI Escalation,O,GLPI,,,296,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion des tickets,MIMO,0.85+1.0
 43,Client FTP,Filezilla,R,,,Q300662,64,GPL-2.0,,Données et contenu,Gestion des accès aux données,,Client FTP,MIMO,3.40
 44,Outil d'injection afin tester les couches basses,Fitnesse,FR,,,,184,,,Conception & Développement,Test & Intégration,,,MIMDEV,20161106
-45,Rendez-vous,Framadate (logiciel),O,,,,284,,,Espace utilisateur et canal,Messagerie agenda contacts,,,MIMO,
+45,Rendez-vous,Framadate (logiciel),O,,,,284,,,Espace utilisateur et canal,Messagerie agenda contacts,,Utilisation expérimentale sur yunohost.etalab.studio/date/,MIMO,
 46,Correction anglicismes,FranceTerme,R,,,Q3080560,,CECILL-C,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,
 47,Synchronisation Sauvegarde,FreeFileSync,R,,,Q18150468,52,GPL-3.0,,Opérations,Synchronisation réplication déduplication,,,MIMO,10.6
 48,Grapheur d'idées,Freeplane,R,,,Q3028675,61,GPL-2.0-only,,Espace utilisateur et canal,Outil de productivité,,,MIMO,1.7
@@ -82,7 +82,7 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 82,Gestion des logs en mode centralisé,Logstash,R,,,Q17620247,203,Apache-2.0,,Sécurité,Gestion des logs,,Serveur Bureautique,MIMPROD,6.x
 83,Outil de remontée de bug,Mantis BT,R,,,,174,,,Conception & Développement,Gestion des Anomalies,,,MIMDEV,1.X
 84,Base transactionnelle cluster,MariaDB,R,,,Q787177,206,,,Données et contenu,Bd Relationnelles,,Base de production,MIMPROD,10.3
-85,Microblogue,Mastodon,O,,,Q27986619,283,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,
+85,Microblogue,Mastodon,R,,,Q27986619,283,,,Orchestration et logique métier,Outil collaboratif,,Version 3.0.1 utilisée pour mastodon.etalab.gouv.fr,MIMO,3.0.1
 86,Wiki,MediaWiki,O,,,Q83,122,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,
 87,Affichage de GLPI pour terminaux mobiles et tablettes,Mobile,O,GLPI,,,,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,1.1.6
 88,Base de données NoSQL,MongoDB,R,,,Q1165204,208,,,Données et contenu,Gestionnaire de données non relationnelles,,Base de données Document,MIMPROD,3.4
@@ -161,6 +161,6 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 159,Outil de dev pour l’accessibilité,WebAccess,O,NVDA,,,,GPL-2.0-only,,Conception et développement,Qualité et sécurité de code source,,,MIMO,2019.04.11
 160,Serveur de services web permettant à une application externe d'interroger et de piloter GLPI.,WebService,O,GLPI,,,295,GPL-2.0-or-later,,Opérations,Déploiement gestion d’actif et de configuration,,,MIMO,1.8
 161,Gestion de tâches,Wekan,O,,,Q50558592,260,,,Espace utilisateur et canal,Outil de productivité,,,MIMO,
-162,Blogue,Wordpress,O,,,Q13166,38,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,
+162,Blogue,Wordpress,O,,,Q13166,38,,,Orchestration et logique métier,Outil collaboratif,,Version 5.3.2 utilisée sur etalab.gouv.fr,MIMO,
 163,Outil de gestion des dépendances,Yarn,O,,,Q28975591,177,BSD-2-Clause,,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,,MIMDEV,1.12.3
 164,Audit et configuration continus,Rudder,R,,,Q16673801,227,GPL-3.0-or-later,,Opérations,Déploiement gestion d’actif et de configuration,,En 5.0 chez le référent,MIMPROD,Distribution
