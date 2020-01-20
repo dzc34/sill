@@ -132,10 +132,7 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 132,Outil d'aide aux tests techniques,SoapUI,R,,,Q2296314,186,,,Conception & Développement,Test & Intégration,,Tests orientés Web Services,MIMDEV,5.4.0
 133,Tableau de bord d'indicateurs de qualité,SonarQube,R,,,Q541691,181,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7
 134,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : FindBugs,R,SonarQube,,,307,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
-165,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : CheckStyle,R,SonarQube,,,308,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
-166,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : Pmd,R,SonarQube,,,309,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
 135,Environnement de développement,Spring Boot,O,,,,172,Apache-2.0,,Conception & Développement,Aide au développement,,,MIMDEV,2.X
-136,Automatisation des tests,Squash TA,R,,,,189,,,Conception & Développement,Test & Intégration,,,MIMDEV,1.11
 137,Gestion des campagnes de tests,Squash TM,R,,,,190,,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.1
 138,Proxy,Squid,R,,,Q841783,159,,,Réseau,Serveur Web & 'Reverse Proxy,,Services déconcentrés,MIMPROD,Distribution
 139,Lecture simple de fichier PDF,SumatraPDF,R,,,Q479808,57,GPL-3.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,Sans remplissage de formulaire ni vérification de signature,MIMO,3.1.2
@@ -164,3 +161,10 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 162,Blogue,Wordpress,R,,,Q13166,38,,,Orchestration et logique métier,Outil collaboratif,,Version 5.3.2 utilisée sur etalab.gouv.fr,MIMO,
 163,Outil de gestion des dépendances,Yarn,O,,,Q28975591,177,BSD-2-Clause,,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,,MIMDEV,1.12.3
 164,Audit et configuration continus,Rudder,R,,,Q16673801,227,GPL-3.0-or-later,,Opérations,Déploiement gestion d’actif et de configuration,,En 5.0 chez le référent,MIMPROD,Distribution
+165,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : CheckStyle,R,SonarQube,,,308,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
+166,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : Pmd,R,SonarQube,,,309,LGPL-3.0-only,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
+136,Automatisation des tests,Squash TF,R,,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0
+167,Automatisation des tests,Squash TF Java Junit Runner,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0
+168,Automatisation des tests,Squash TF Cucumber Java Runner,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0
+169,Automatisation des tests,Squash TF Execution Server,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0
+170,Automatisation des tests,Squash KeywordFramework,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0
