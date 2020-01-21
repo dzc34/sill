@@ -44,7 +44,6 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 43,Client FTP,Filezilla,R,,,Q300662,64,GPL-2.0,,Données et contenu,Gestion des accès aux données,,Client FTP,MIMO,3.40
 44,Outil d'injection afin tester les couches basses,Fitnesse,FR,,,,184,,,Conception & Développement,Test & Intégration,,,MIMDEV,20161106
 45,Rendez-vous,Framadate (logiciel),O,,,,284,,,Espace utilisateur et canal,Messagerie agenda contacts,,Utilisation expérimentale sur yunohost.etalab.studio/date/,MIMO,
-46,Correction anglicismes,FranceTerme,R,,,Q3080560,,CECILL-C,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,
 47,Synchronisation Sauvegarde,FreeFileSync,R,,,Q18150468,52,GPL-3.0,,Opérations,Synchronisation réplication déduplication,,,MIMO,10.6
 48,Grapheur d'idées,Freeplane,R,,,Q3028675,61,GPL-2.0-only,,Espace utilisateur et canal,Outil de productivité,,,MIMO,1.7
 49,"Inventaire, télédéploiement et découverte du réseau",FusionInventory,O,GLPI,,,84,AGPL-3.0-or-later,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,9.1+1.1
