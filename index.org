@@ -50,15 +50,15 @@ Pour demander à participer aux échanges des groupes :
 * Les documents de construction du SILL 2020
 
 Les documents de construction du SILL 2020 sont disponibles via
-l'espace de partage https://groupes.mim.ovh.  Si vous êtes référent,
+l'espace de partage https://groupes.mim-libre.fr.  Si vous êtes référent,
 vous pouvez obtenir un compte sur cet espace.
 
 Une fois connecté sur cet espace, les documents de préparations sont
 accessibles ici :
 
-- [[https://cloud.mim.ovh/apps/files/?dir=/Partage%20MIM/MIMO/SILL&fileid=10858][MIMO]]
-- [[https://calc.mim.ovh/MIMDEV/edit][MIMDEV]]
-- [[https://calc.mim.ovh/MIMPROD/edit][MIMPROD]]
+- [[https://cloud.mim-libre.fr/apps/files/?dir=/Partage%20MIM/MIMO/SILL&fileid=10858][MIMO]]
+- [[https://calc.mim-libre.fr/MIMDEV/edit][MIMDEV]]
+- [[https://calc.mim-libre.fr/MIMPROD/edit][MIMPROD]]
 
 Le [[https://github.com/DISIC/sill/][dépôt SILL]] contient aussi [[https://github.com/DISIC/sill/blob/master/2020/sill-2020.csv][un fichier csv pour le SILL 2020]] dans
 lequel sont régulièrement consolidées les contributions faites sur
