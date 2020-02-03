@@ -144,7 +144,7 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 146,Gestion des campagnes de tests,Testlink,R,,,Q248384,191,,,Conception & Développement,Test & Intégration,,,MIMDEV,1.9.14
 147,Courrielleur,Thunderbird,R,,,Q483604,80,MPL-2.0,,Espace utilisateur et canal,Messagerie agenda contacts,,Courrielleur,MIMO,60
 148,Affichage graphique des délais de prise en compte des incidents + indicateurs sous forme de rapports,TimeLineTicket,O,GLPI,,,96,GPL-2.0-only,,Opérations,Service level management,,Gestion des tickets,MIMO,0
-149,Bloqueur des publicités et des pisteurs,uBlock Origin,,Firefox,,Q19881587,288,GPL-3.0,,Espace utilisateur et canal,Navigateur web,,,MIMO,1.18
+149,Bloqueur des publicités et des pisteurs,uBlock Origin,,Firefox,,Q19881587,288,GPL-3.0,,Espace utilisateur et canal,Navigateur web,,,MIMO,1.24.2
 150,Informations géographiques,uMap,O,,,,292,,,Orchestration et logique métier,Moteur SIG,,,MIMO,
 151,Désinstallation d’objets inventoriés,Uninstall,R,GLPI,,,94,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,2.5.1
 152,Cache web,Varnish,R,,,Q1602447,214,,,Réseau,Serveur Web & 'Reverse Proxy,,Services déconcentrés,MIMPROD,Distribution
