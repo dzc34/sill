@@ -1,169 +1,169 @@
-ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,referent,secteur,composant,mots-clefs,contexte-usage,groupe,version
-1,Compression,7zip,R,,,Q215051,72,LGPL-2.0-only,,Données et contenu,Compression décompression,,,MIMO,18.05
-2,Outil et/ou plugin de génération de tout ou partie du code,Acceleo,R,,,Q2822666,304,EPL-2.0,,Conception & développement,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,3.7.4
-3,Notifications supplémentaires à celles incluses dans GLPI,Additional Alerts,O,GLPI,,,93,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion des tickets,MIMO,1.9.0
-4,"Inventaire, télédéploiement et découverte du réseau",Agent OCS,R,OCS Inventory,,,88,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,,MIMO,2.3.1.3
-5,Déploiement,Ansible,R,,,Q2852503,225,,,Opérations,Outils système & virtualisation,,Services déconcentrés,MIMPROD,Distribution
-6,Serveur Web & Reverse Proxy,Apache HTTP Server,R,,,Q11354,212,,,Réseau,Serveur Web & 'Reverse Proxy,,Services déconcentrés,MIMPROD,Distribution
-7,Robot de test / Injecteurs,Apache Jmeter,R,,,Q616885,109,,,Conception & Développement,Test & Intégration,,,MIMDEV,5.0
-8,Outil de gestion des dépendances entre les différents composants d'un projet et cycle de vie,Apache Maven,R,,,Q139941,176,Apache-2.0,,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,,MIMDEV,3.5.2
-9,Indexation et recherche plein texte,Apache Solr,R,,,Q2858103,204,,,Données et contenu,Moteur de recherche,,Limité à 1 serveur,MIMPROD,8.0.0
-10,Environnement de développement,Apache Tomcat,R,,,Q507430,205,,,Conception & Développement,Serveur d'application,,,MIMDEV,9.0
-11,Outil d'anonymisation des données,ARX Data Anonymization Tool,O,,,,310,,,Conception & Développement,Test & Intégration,,,MIMDEV,3.7.1
-12,Vérification de la conformité de l'application aux règles d'accessibilité,Asqatasun,O,,,Q24026504,9,AGPL-3.0,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,Docker
-13,Vérification de la conformité de l'application aux règles d'accessibilité,Assistant RGAA,O,,,,,,,Conception & Développement,Qualité et sécurité du code source,,Poste de travail des agents impliqués dans le cycle de vie d’une application utilisée via un navigateur web,MIMDEV,1.0.4
-14,Enregistrement et édition de sons,Audacity,R,,,Q191782,69,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,Enregistrement et édition de sons,MIMO,2.1
-15,Convertisseur de formats vidéo,Avidemux,O,,,Q790931,70,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,2.7
-16,Sauvegadre Serveurs,Bareos,R,,,Q25387280,243,,,Sauvegarde,Sauvegarde Serveur,,Services déconcentrés,MIMPROD,Distribution
-17,Options de configuration supplémentaires,GLPI Behaviors (Comportements),R,GLPI,,,95,AGPL-3.0-or-later,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion des tickets,MIMO,02/01/01
-18,Éditeur HTML,BlueGriffon,R,,,Q885580,58,"LGPL-3.0, GPL-3.0, MPL-2.0",,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,3.0
-19,Distribution GNU/LINUX,CentOS,R,,,Q207542,239,,,Logiciel Système et Virtualisation,Système d'Exploitation,,En centre de production,MIMPROD,7.6
-20,Supervision Infrastructure,Centreon,,,,Q2946121,210,,,Opérations,Supervision / Hypervision,,Infra virtuelle,MIMPROD,2.8
-21,Stockage block,Ceph,R,,,Q4035967,223,,,Stockage,Sauvegarde Serveur,,Services déconcentrés,MIMPROD,Distribution
-22,Navigateurs,Chromium,R,,,Q48524,193,BSD-3-Clause,,Conception & Développement,Test & Intégration,,Poste développeur,MIMDEV,Dernière
-23,Antivirus : Orienté serveur,ClamAV,R,,,Q852000,211,,,Sécurité,Antivirus,,Serveur Bureautique,MIMPROD,Distribution
-24,Base transactionnelle cluster,CockroachDB,O,,,,303,,,Données et contenu,BD Relationnelles,,Base de production,MIMPROD,2
-25,Framework de tests backend,CodeceptJS,O,,,,306,MIT,,Conception & Développement,Test & Intégration,,,MIMDEV,2.0.4
-26,Déploiement,Consul,O,,,,317,,,Opérations,Outils système & virtualisation,,Services déconcentrés,MIMPROD,Distribution
-27,Haute Disponibilté,Corosync,R,,,,235,BSD-3-Clause,,Logiciel Système et Virtualisation,Haute disponibilité (OS),,Infra virtuelle,MIMPROD,Distribution
-28,Serveur d'impression,CUPS,R,,,Q868171,217,,,Intégration & Échanges,Serveur d'impression,,Services déconcentrés,MIMPROD,Distribution
-29,Injection de données dans GLPI à l'aide de fichiers CSV,Data Injection,R,GLPI,,,92,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,GLPI,MIMO,2.6.4
-30,Effacement complet de tous les supports magnétiques d’une machine.,DBAN (Darik's Boot and Nuke),O,,,Q1165893,81,GPL-2.0-only / LGPL-2.0-only,,Données et contenu,Gestion des accès aux données,,,MIMO,2.3.0
-31,Outil d'injection afin tester les couches basses,DbFit,FR,,,,185,,,Conception & Développement,Test & Intégration,,,MIMDEV,3.2.0
-32,Distribution GNU/LINUX,Debian,R,,,Q7715973,241,,,Logiciel Système et Virtualisation,Système d'Exploitation,,En centre de production,MIMPROD,9
-33,Forum,Discourse,R,,,Q15054354,282,,,Orchestration et logique métier,Outil collaboratif,,Version 2.4.0 utilisée pour forum.etalab.gouv.fr,MIMO,2.4.0
-34,Conteneurs logiciels,Docker,R,,,Q15206305,218,,,Opérations,Outils système & virtualisation,,Services déconcentrés,MIMPROD,Distribution
-35,Schémas,Draw.io Desktop,O,,,Q59339175,300,Apache-2.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,9.3
-36,Gestion de contenu web,Drupal,O,,,Q170855,264,,,Données et contenu,Gestion de contenu web,,,MIMO,
-37,Création de DVD vidéo avec un menu de navigation.,DVD Styler,O,,,Q4117800,74,GPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,3.0.4
-38,Environnement de développement,Eclipse,R,,,Q82268,170,EPL-2.0,,Conception & Développement,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,4.9
-39,Indexation et recherche plein texte,Elasticsearch,R,,,Q3050461,201,,,Données et contenu,Moteur de recherche,,En mode cluster,MIMPROD,6.x
-40,Pare-feu réseau et web,EOLE AMON,R,,,,234,,,Réseau,Pare-feu – Réseau,,Services déconcentrés,MIMPROD,2.7
-41,Distribution GNU/LINUX,EOLE (Ubuntu),R,,,Q3046024,240,,,Logiciel Système et Virtualisation,Système d'Exploitation,,Services déconcentrés,MIMPROD,2.7
-42,Escalade de tickets,GLPI Escalation,O,GLPI,,,296,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion des tickets,MIMO,0.85+1.0
-43,Client FTP,Filezilla,R,,,Q300662,64,GPL-2.0,,Données et contenu,Gestion des accès aux données,,Client FTP,MIMO,3.28
-44,Outil d'injection afin tester les couches basses,Fitnesse,FR,,,,184,,,Conception & Développement,Test & Intégration,,,MIMDEV,20161106
-45,Rendez-vous,Framadate (logiciel),O,,,,284,,,Espace utilisateur et canal,Messagerie agenda contacts,,Utilisation expérimentale sur yunohost.etalab.studio/date/,MIMO,
-47,Synchronisation Sauvegarde,FreeFileSync,R,,,Q18150468,52,GPL-3.0,,Opérations,Synchronisation réplication déduplication,,,MIMO,10.6
-48,Grapheur d'idées,Freeplane,R,,,Q3028675,61,GPL-2.0-only,,Espace utilisateur et canal,Outil de productivité,,,MIMO,1.7
-49,"Inventaire, télédéploiement et découverte du réseau",FusionInventory,O,GLPI,,,84,AGPL-3.0-or-later,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,9.1+1.1
-50,Gestion des stocks et demandes par une entité différente de celles définies pour la délégation de gestion.,Geststock,R,GLPI,,,297,,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion de parc,MIMO,2.0.0
-51,Dessin (matriciel),Gimp,R,,,Q8038,67,GPL-3.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,2.10.14
-52,Outil de gestion des configurations (serveur),Git,R,,,Q186055,175,GPL-2.0,,Conception & Développement,Gestion du code source,,,MIMDEV,Dernière
-53,Plateforme de développement,GitLab Community Edition,R,,,Q16639197,198,,,Orchestration & logique métier,Outil collaboratif,,,MIMDEV,11.X
-54,Gestion de parc et suivi d'incidents,GLPI,R,,,Q3104570,35,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,,MIMO,9.3
-55,Plugin GLPI-Survey (questionnaire),GLPI,O,GLPI,,Q3104570,,AGPL-3.0-or-later,,Opérations,Service level management,,Gestion de parc,MIMO,9.3.1.0
-56,Correction grammaticale,Grammalecte,R,LibreOffice,,,79,GPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,1.60
-57,Correction grammaticale,Grammalecte,R,Firefox,,Q17629243,79,GPL-3.0,,Espace utilisateur et canal,Navigateur web,,,MIMO,1.60
-58,Capture d'écran,GreenShot,R,,,Q1544791,56,GPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,1.2.10
-59,Base de données,H2,R,,,Q1562670,194,,,Conception & Développement,Test & Intégration,,Poste développeur,MIMDEV,1.4.197
-60,Load Balancer,HAProxy,R,,,Q5628948,237,,,Réseau,Load Balancer,,Services déconcentrés,MIMPROD,Distribution
-61,Dessin (vectoriel),Inkscape,O,,,Q8041,68,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,0.92.4
-62,Environnement de développement,IS Designer,O,,,,319,,,Conception & Développement,Modeleur,,,MIMDEV,1.9.0
-63,Couverture du code,Jacoco,R,,,Q6109486,182,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,0.8.2
-64,Génération / Gestion des jeux de données,Jailer,R,,,,192,,,Conception & Développement,Test & Intégration,,,MIMDEV,9.0
-65,Outil de monitoring,Javamelody,R,,,,195,Apache-2.0,,Conception & Développement,Test & Intégration,,,MIMDEV,1.74.0
-66,"Outil d'aide à la livraison (dépôt, intégration continue...)",Jenkins,R,,,Q7491312,187,MIT,,Conception & Développement,Test & Intégration,,,MIMDEV,2.x
-67,Webconférence,Jitsi,R,,,Q58427,65,Apache-2.0,,Espace utilisateur et canal,Visiophonie,,,MIMO,2.9
-69,Outil de gestion des tests unitaires,Junit,R,,,Q847675,183,,,Conception & Développement,Test & Intégration,,,MIMDEV,5.2
-70,,K-9 Mail,O,,,Q14565723,,Apache-2.0,,Espace utilisateur et canal,Messagerie agenda contacts,,Client de Messagerie,MIMO,5.600
-71,Pour utiliser ses codes,KeeFox,O,Firefox,,Q61694243,293,GPL V2.0,,Espace utilisateur et canal,Navigateur web,,Pour utiliser ses codes,MIMO,2.5
-72,Gestion de mots de passe,KeePass,R,,,Q762660,50,GPL-2.0-only,,Sécurité,Authentification,,,MIMO,2.3
-73,IAM,Keycloak,O,,,Q42916195,301,,,Sécurité,Authentification,,Serveur Bureautique,MIMPROD,4
-74,Gestion des logs en mode centralisé,Kibana,R,,,Q21156460,202,Apache-2.0,,Sécurité,Gestion des logs,,Serveur Bureautique,MIMPROD,6.x
-75,Orchestration,Kubernetes,R,,,Q22661306,219,,,Opérations,Outils système & virtualisation,,Conteneurs,MIMPROD,Distribution
-76,Hyperviseur,KVM,R,,,Q377539,220,,,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,,Virtualisation serveurs,MIMPROD,Distribution
-77,SSO,LemonLDAP::NG,R,,,Q3229380,101,,,Sécurité,Authentification,,Serveur Bureautique,MIMPROD,Distribution
-78,Suite bureautique,LibreOffice,R,,,Q10135,33,MPL-2.0,,Espace utilisateur et canal,Consultation et édition de documents,,Version MIMO 6.1.6.3_M14 téléchargeable sur ftp://eoleng.ac-dijon.fr/SILL2019/,MIMO,
-79,Rédaction collaborative,LibreOffice online,O,,,Q30584920,294,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,
-80,Enquête,Limesurvey,O,,,Q1514978,42,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,
-81,Ensemble d’outils destiné à aider les lecteurs débutants ou en difficulté à décoder les mots en utilisant les principes de la lecture en couleur,LireCouleur,R,LibreOffice,,,287,LGPL-v2.1,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,4.7
-82,Gestion des logs en mode centralisé,Logstash,R,,,Q17620247,203,Apache-2.0,,Sécurité,Gestion des logs,,Serveur Bureautique,MIMPROD,6.x
-83,Outil de remontée de bug,Mantis BT,R,,,,174,,,Conception & Développement,Gestion des Anomalies,,,MIMDEV,1.X
-84,Base transactionnelle cluster,MariaDB,R,,,Q787177,206,,,Données et contenu,Bd Relationnelles,,Base de production,MIMPROD,10.3
-85,Microblogue,Mastodon,R,,,Q27986619,283,,,Orchestration et logique métier,Outil collaboratif,,Version 3.0.1 utilisée pour mastodon.etalab.gouv.fr,MIMO,3.0.1
-86,Wiki,MediaWiki,R,,,Q83,122,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,
-87,Affichage de GLPI pour terminaux mobiles et tablettes,Mobile,O,GLPI,,,,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,1.1.6
-88,Base de données NoSQL,MongoDB,R,,,Q1165204,208,,,Données et contenu,Gestionnaire de données non relationnelles,,Base de données Document,MIMPROD,3.4
-89,Navigateur,Mozilla Firefox,R,,,Q698,82,MPL-2.0,,Espace utilisateur et canal,Navigateur web,,Navigateur,MIMO,ESR 60
-90,Diffusion multiformat,MultiDiff,R,LibreOffice,,,77,LGPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,1.3.0
-91,,MuPDF,R,,,Q6930567,291,AGPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,
-92,Outil de scan de PDF,NAPS2,R,,,,351,GPL-2.0-only,,Espace utilisateur et canal,Outil de productivité,,,MIMO,5.8.2
-93,Partage de fichiers,NextCloud,O,,,Q25874683,117,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,
-94,Dépôt d'artefacts,Nexus,R,,,,178,,,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,,MIMDEV,3.1
-95,Reverse Proxy,NGINX,R,,,Q306144,213,,,Réseau,Serveur Web & 'Reverse Proxy,,Services déconcentrés,MIMPROD,Distribution
-96,Environnement de développement,NodeJS,R,,,Q756100,238,X11,,Conception & Développement,Serveur d'application,,,MIMDEV,8
-97,Éditeur de textes,Notepad++,R,,,Q2033,55,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,7.5.8
-98,Gestionnaire de paquets pour Node.js,Npm,R,,,Q7067518,179,Artistic-2.0,,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,,MIMDEV,Dernière
-99,Lecteur d’écran,NVDA,R,,,Q1116614,63,GPL-2.0-only,,Espace utilisateur et canal,Accessibilité,,,MIMO,2018.4.1
-100,Régie video pour enregistrement et/ou streaming,OBS Studio,R,,,Q21707789,285,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,24.0.5
-101,"Inventaire, télédéploiement et découverte du réseau",OCS Inventory,R,,,Q1135744,83,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,,MIMO,2.3
-102,Automatisation de l'import OCS Inventory-NG,OCS Inventory ng,R,GLPI,,,91,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,01/05/04
-103,,OpenDocument Reader,R,,,,290,GPL-3.0-or-later,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,1.3.2
-104,Environnement de développement,OpenJDK,R,,,Q1461054,173,GPL-2.0,,Conception & Développement,Environnement d'exécution,,,MIMDEV,8
-105,Annuaire,OpenLdap,R,,,Q682918,98,,,Sécurité,Authentification,,Serveur Bureautique,MIMPROD,2.4
-106,Annuaire,OpenLdap,O,,,Q682918,98,,,Sécurité,Authentification,,Serveur Bureautique,MIMPROD,
-107,Virtualisation de serveurs,OpenNebula,R,,,Q1164484,222,,,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,,Infra virtuelle,MIMPROD,5.6
-108,IaaS – 2,OpenStack,R,,,Q1470293,221,,,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,,Infonuage,MIMPROD,0
-109,Haute Disponibilté,Pacemaker,R,,,,236,GPL-2.0,,Logiciel Système et Virtualisation,Haute disponibilité (OS),,Infra virtuelle,MIMPROD,Distribution
-110,Déploiement,Packer,O,,,,228,,,Opérations,Outils système & virtualisation,,Services déconcentrés,MIMPROD,Distribution
-111,Export en pdf des fiches GLPI,PDF (impression de pdf),R,GLPI,,,299,AGPL-3.0,,Opérations,Déploiement gestion d’actif et de configuration,,,MIMO,1.4
-112,"Outil de fusion, extraction et découpage de fichiers PDF. Il permet aussi de changer le sens des pages.",PDFSam Basic,,,,Q3898451,169,AGPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,4.0 (3.3.7 pour 32b)
-113,Outil de maquettage IHM (statique et/ou dynamique),Pencil,FR,,,Q2398265,180,,,Conception & Développement,"Outils d’analyse, de Modélisation et de gestion de Patrimoine",,,MIMDEV,3
-114,Forum,PHPBB,FR,,,Q14270,199,,,Orchestration & logique métier,Outil collaboratif,,Utilisé au sein d'une forge.,MIMDEV,3.0.9
-115,Orientation de la page,PortraitOrLandscape,R,LibreOffice,,,,LGPL-3.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,2
-116,Messagerie system,Postfix,R,,,Q1121334,216,,,Intégration & Échanges,Serveur SMTP,,Services déconcentrés,MIMPROD,Distribution
-117,Base de données Géomatique,PostGIS,R,,,Q1569955,207,,,Données et contenu,Bd Relationnelles,,Information géographique,MIMPROD,2.4
-118,Base de données transactionnelle,PostgreSQL,R,,,Q192490,123,,,Données et contenu,Bd Relationnelles,,Base de production,MIMPROD,10
-119,Gestion de projet,ProjectLibre,R,,,Q580985,59,CPA,,Espace utilisateur et canal,Outil de productivité,,,MIMO,1.7
-120,Système d’information géographique,Qgis,R,,,Q1329181,60,GPL-2.0-only,,Orchestration et logique métier,Moteur SIG,,,MIMO,3.4
-121,Recherche,Qwant (extension de recherche),R,Firefox,,,,X11,,Espace utilisateur et canal,Navigateur web,,,MIMO,5
-122,Portail de gestion de projet,Redmine,R,,,Q1149365,197,,,Orchestration & logique métier,Outil collaboratif,,,MIMDEV,3.X
-123,Rapports supplémentaires à ceux inclus dans GLPI,Reports (rapports),R,GLPI,,,298,AGPL-3.0,,Opérations,Déploiement gestion d’actif et de configuration,,,MIMO,1.12
-124,Messagerie instantanée,Rocketchat,R,,,Q24050001,200,,,Espace utilisateur et canal,Messagerie agenda contacts,,,MIMO,
-125,Orchestration,Rundeck,O,,,,229,,,Opérations,Outils système & virtualisation,,Conteneurs,MIMPROD,Distribution
-126,Déploiement,SaltStack,R,,,Q7405800,224,,,Opérations,Outils système & virtualisation,,Services déconcentrés,MIMPROD,Distribution
-127,Partage de fichiers,Samba,R,,,Q1830735,142,,,Stockage,Partage de fichiers,,Infra virtuelle,MIMPROD,4.9
-128,PAO,Scribus,R,,,Q8295,76,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,1.5
-129,Automatisation des tests Web,Selenium IDE,R,,,Q752522,311,,,Conception & Développement,Test & Intégration,,,MIMDEV,3.4
-130,Automatisation des tests Web,Selenium Server,R,,,,188,,,Conception & Développement,Test & Intégration,,,MIMDEV,3.x
-131,Supervision Infrastructure et composants,Shinken,R,,,,302,,,Opérations,Supervision / Hypervision,,Infra virtuelle,MIMPROD,2.4.3
-132,Outil d'aide aux tests techniques,SoapUI,R,,,Q2296314,186,,,Conception & Développement,Test & Intégration,,Tests orientés Web Services,MIMDEV,5.4.0
-133,Tableau de bord d'indicateurs de qualité,SonarQube,R,,,Q541691,181,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7
-134,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : FindBugs,R,SonarQube,,,307,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
-135,Environnement de développement,Spring Boot,O,,,,172,Apache-2.0,,Conception & Développement,Aide au développement,,,MIMDEV,2.X
-137,Gestion des campagnes de tests,Squash TM,R,,,,190,,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.1
-138,Proxy,Squid,R,,,Q841783,159,,,Réseau,Serveur Web & 'Reverse Proxy,,Services déconcentrés,MIMPROD,Distribution
-139,Lecture simple de fichier PDF,SumatraPDF,R,,,Q479808,57,GPL-3.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,Sans remplissage de formulaire ni vérification de signature,MIMO,3.1.2
-140,Orchestration,Swarm,O,,,Q7653883,230,,,Opérations,Outils système & virtualisation,,Conteneurs,MIMPROD,Distribution
-141,Stockage Objet,Swift (OpenStack),R,,,,,,,Stockage,Sauvegarde Serveur,,Services déconcentrés,MIMPROD,Distribution
-142,Liste de diffusion/discussion,Sympa,R,,,Q1850168,281,,,Espace utilisateur et canal,Messagerie agenda contacts,,Version 6.2.48 utilisée sur le réseau RENATER,MIMO,
-143,Gestion des logs en mode centralisé,Syslog-ng,R,,,Q467865,242,,,Sécurité,Gestion des logs,,Serveur Bureautique,MIMPROD,Distribution
-144,Reprise des données,Talend Open Studio for Data Integration (BASIC),R,,,Q17097860,196,,,Conception & Développement,Test & Intégration,,Outil d'automatisation de la reprise de données,MIMDEV,7.0.1
-145,Vérification de la conformité de l'application aux règles d'accessibilité,Tanaguru,O,,,,305,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,5.0.3
-146,Gestion des campagnes de tests,Testlink,R,,,Q248384,191,,,Conception & Développement,Test & Intégration,,,MIMDEV,1.9.14
-147,Courrielleur,Thunderbird,R,,,Q483604,80,MPL-2.0,,Espace utilisateur et canal,Messagerie agenda contacts,,Courrielleur,MIMO,60
-148,Affichage graphique des délais de prise en compte des incidents + indicateurs sous forme de rapports,TimeLineTicket,O,GLPI,,,96,GPL-2.0-only,,Opérations,Service level management,,Gestion des tickets,MIMO,0
-149,Bloqueur des publicités et des pisteurs,uBlock Origin,,Firefox,,Q19881587,288,GPL-3.0,,Espace utilisateur et canal,Navigateur web,,,MIMO,1.24.2
-150,Informations géographiques,uMap,O,,,,292,,,Orchestration et logique métier,Moteur SIG,,,MIMO,
-151,Désinstallation d’objets inventoriés,Uninstall,R,GLPI,,,94,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,2.5.1
-152,Cache web,Varnish,R,,,Q1602447,214,,,Réseau,Serveur Web & 'Reverse Proxy,,Services déconcentrés,MIMPROD,Distribution
-153,Stockage Securisé,Vault,O,,,Q4052619,312,,,Stockage,Sauvegarde Serveur,,Services déconcentrés,MIMPROD,
-154,Chiffrement de disques,VeraCrypt,O,,,Q19911889,51,AGPL-3.0,,Sécurité,Chiffrement,,,MIMO,1.2
-155,Environnement de développement,Visual Studio Code,R,,,Q19841877,171,MIT,,Conception & Développement,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,Dernière
-156,Lecteur multimédia,VLC,R,,,Q171477,62,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,Lecteur Multimédia,MIMO,3.0.6
-157,Galerie d’images,VRT network equipment,R,LibreOffice,,,289,CC-BY-SA-4.0,,Espace utilisateur et canal,Consultation et édition de documents,,Diagrammes informatiques,MIMO,1.2
-158,"Déploiement, mise à jour et suppression des logiciels et des configurations sur un parc Windows",WAPT,O,,,Q50829216,261,GPL-3.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion de parc,MIMO,1.6 Community
-159,Outil de dev pour l’accessibilité,WebAccess,O,NVDA,,,,GPL-2.0-only,,Conception et développement,Qualité et sécurité de code source,,,MIMO,2019.04.11
-160,Serveur de services web permettant à une application externe d'interroger et de piloter GLPI.,WebService,O,GLPI,,,295,GPL-2.0-or-later,,Opérations,Déploiement gestion d’actif et de configuration,,,MIMO,1.8
-161,Gestion de tâches,Wekan,O,,,Q50558592,260,,,Espace utilisateur et canal,Outil de productivité,,,MIMO,
-162,Blogue,Wordpress,R,,,Q13166,38,,,Orchestration et logique métier,Outil collaboratif,,Version 5.3.2 utilisée sur etalab.gouv.fr,MIMO,
-163,Outil de gestion des dépendances,Yarn,O,,,Q28975591,177,BSD-2-Clause,,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,,MIMDEV,1.12.3
-164,Audit et configuration continus,Rudder,R,,,Q16673801,227,GPL-3.0-or-later,,Opérations,Déploiement gestion d’actif et de configuration,,En 5.0 chez le référent,MIMPROD,Distribution
-165,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : CheckStyle,R,SonarQube,,,308,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
-166,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : Pmd,R,SonarQube,,,309,LGPL-3.0-only,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer)
-136,Automatisation des tests,Squash TF,R,,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0
-167,Automatisation des tests,Squash TF Java Junit Runner,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0
-168,Automatisation des tests,Squash TF Cucumber Java Runner,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0
-169,Automatisation des tests,Squash TF Execution Server,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0
-170,Automatisation des tests,Squash KeywordFramework,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0
+ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,referent,secteur,composant,mots-clefs,contexte-usage,groupe,version,
+1,Compression,7zip,R,,,Q215051,72,LGPL-2.0-only,,Données et contenu,Compression décompression,,,MIMO,18.05,
+2,Outil et/ou plugin de génération de tout ou partie du code,Acceleo,R,,,Q2822666,304,EPL-2.0,,Conception & développement,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,3.7.4,
+3,Notifications supplémentaires à celles incluses dans GLPI,Additional Alerts,O,GLPI,,,93,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion des tickets,MIMO,1.9.0,
+4,"Inventaire, télédéploiement et découverte du réseau",Agent OCS,R,OCS Inventory,,,88,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,,MIMO,2.3.1.3,
+5,Déploiement,Ansible,R,,,Q2852503,225,,,Opérations,Outils système & virtualisation,,Services déconcentrés,MIMPROD,Distribution,
+6,Serveur Web & Reverse Proxy,Apache HTTP Server,R,,,Q11354,212,,,Réseau,Serveur Web & 'Reverse Proxy,,Services déconcentrés,MIMPROD,Distribution,
+7,Robot de test / Injecteurs,Apache Jmeter,R,,,Q616885,109,,,Conception & Développement,Test & Intégration,,,MIMDEV,5.0,
+8,Outil de gestion des dépendances entre les différents composants d'un projet et cycle de vie,Apache Maven,R,,,Q139941,176,Apache-2.0,,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,,MIMDEV,3.5.2,
+9,Indexation et recherche plein texte,Apache Solr,R,,,Q2858103,204,,,Données et contenu,Moteur de recherche,,Limité à 1 serveur,MIMPROD,8.0.0,
+10,Environnement de développement,Apache Tomcat,R,,,Q507430,205,,,Conception & Développement,Serveur d'application,,,MIMDEV,9.0,
+11,Outil d'anonymisation des données,ARX Data Anonymization Tool,O,,,,310,,,Conception & Développement,Test & Intégration,,,MIMDEV,3.7.1,
+12,Vérification de la conformité de l'application aux règles d'accessibilité,Asqatasun,O,,,Q24026504,9,AGPL-3.0,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,Docker,
+13,Vérification de la conformité de l'application aux règles d'accessibilité,Assistant RGAA,O,,,,,,,Conception & Développement,Qualité et sécurité du code source,,Poste de travail des agents impliqués dans le cycle de vie d’une application utilisée via un navigateur web,MIMDEV,1.0.4,
+14,Enregistrement et édition de sons,Audacity,R,,,Q191782,69,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,Enregistrement et édition de sons,MIMO,2.1,
+15,Convertisseur de formats vidéo,Avidemux,O,,,Q790931,70,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,2.7,
+16,Sauvegadre Serveurs,Bareos,R,,,Q25387280,243,,,Sauvegarde,Sauvegarde Serveur,,Services déconcentrés,MIMPROD,Distribution,
+17,Options de configuration supplémentaires,GLPI Behaviors (Comportements),R,GLPI,,,95,AGPL-3.0-or-later,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion des tickets,MIMO,02/01/01,
+18,Éditeur HTML,BlueGriffon,R,,,Q885580,58,"LGPL-3.0, GPL-3.0, MPL-2.0",,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,3.0,
+19,Distribution GNU/LINUX,CentOS,R,,,Q207542,239,,,Logiciel Système et Virtualisation,Système d'Exploitation,,En centre de production,MIMPROD,7.6,
+20,Supervision Infrastructure,Centreon,,,,Q2946121,210,,,Opérations,Supervision / Hypervision,,Infra virtuelle,MIMPROD,2.8,
+21,Stockage block,Ceph,R,,,Q4035967,223,,,Stockage,Sauvegarde Serveur,,Services déconcentrés,MIMPROD,Distribution,
+22,Navigateurs,Chromium,R,,,Q48524,193,BSD-3-Clause,,Conception & Développement,Test & Intégration,,Poste développeur,MIMDEV,Dernière,
+23,Antivirus : Orienté serveur,ClamAV,R,,,Q852000,211,,,Sécurité,Antivirus,,Serveur Bureautique,MIMPROD,Distribution,
+24,Base transactionnelle cluster,CockroachDB,O,,,,303,,,Données et contenu,BD Relationnelles,,Base de production,MIMPROD,2,
+25,Framework de tests backend,CodeceptJS,O,,,,306,MIT,,Conception & Développement,Test & Intégration,,,MIMDEV,2.0.4,
+26,Déploiement,Consul,O,,,,317,,,Opérations,Outils système & virtualisation,,Services déconcentrés,MIMPROD,Distribution,
+27,Haute Disponibilté,Corosync,R,,,,235,BSD-3-Clause,,Logiciel Système et Virtualisation,Haute disponibilité (OS),,Infra virtuelle,MIMPROD,Distribution,
+28,Serveur d'impression,CUPS,R,,,Q868171,217,,,Intégration & Échanges,Serveur d'impression,,Services déconcentrés,MIMPROD,Distribution,
+29,Injection de données dans GLPI à l'aide de fichiers CSV,Data Injection,R,GLPI,,,92,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,GLPI,MIMO,2.6.4,
+30,Effacement complet de tous les supports magnétiques d’une machine.,DBAN (Darik's Boot and Nuke),O,,,Q1165893,81,GPL-2.0-only / LGPL-2.0-only,,Données et contenu,Gestion des accès aux données,,,MIMO,2.3.0,
+31,Outil d'injection afin tester les couches basses,DbFit,FR,,,,185,,,Conception & Développement,Test & Intégration,,,MIMDEV,3.2.0,
+32,Distribution GNU/LINUX,Debian,R,,,Q7715973,241,,,Logiciel Système et Virtualisation,Système d'Exploitation,,En centre de production,MIMPROD,9,
+33,Forum,Discourse,R,,,Q15054354,282,,,Orchestration et logique métier,Outil collaboratif,,Version 2.4.0 utilisée pour forum.etalab.gouv.fr,MIMO,2.4.0,
+34,Conteneurs logiciels,Docker,R,,,Q15206305,218,,,Opérations,Outils système & virtualisation,,Services déconcentrés,MIMPROD,Distribution,
+35,Schémas,Draw.io Desktop,O,,,Q59339175,300,Apache-2.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,9.3,
+36,Gestion de contenu web,Drupal,O,,,Q170855,264,,,Données et contenu,Gestion de contenu web,,,MIMO,,
+37,Création de DVD vidéo avec un menu de navigation.,DVD Styler,O,,,Q4117800,74,GPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,3.0.4,
+38,Environnement de développement,Eclipse,R,,,Q82268,170,EPL-2.0,,Conception & Développement,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,4.9,
+39,Indexation et recherche plein texte,Elasticsearch,R,,,Q3050461,201,,,Données et contenu,Moteur de recherche,,En mode cluster,MIMPROD,6.x,
+40,Pare-feu réseau et web,EOLE AMON,R,,,,234,,,Réseau,Pare-feu – Réseau,,Services déconcentrés,MIMPROD,2.7,
+41,Distribution GNU/LINUX,EOLE (Ubuntu),R,,,Q3046024,240,,,Logiciel Système et Virtualisation,Système d'Exploitation,,Services déconcentrés,MIMPROD,2.7,
+42,Escalade de tickets,GLPI Escalation,O,GLPI,,,296,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion des tickets,MIMO,0.85+1.0,
+43,Client FTP,Filezilla,R,,,Q300662,64,GPL-2.0,,Données et contenu,Gestion des accès aux données,,Client FTP,MIMO,3.28,
+44,Outil d'injection afin tester les couches basses,Fitnesse,FR,,,,184,,,Conception & Développement,Test & Intégration,,,MIMDEV,20161106,
+45,Rendez-vous,Framadate (logiciel),O,,,,284,,,Espace utilisateur et canal,Messagerie agenda contacts,,Utilisation expérimentale sur yunohost.etalab.studio/date/,MIMO,,
+47,Synchronisation Sauvegarde,FreeFileSync,R,,,Q18150468,52,GPL-3.0,,Opérations,Synchronisation réplication déduplication,,,MIMO,10.6,
+48,Grapheur d'idées,Freeplane,R,,,Q3028675,61,GPL-2.0-only,,Espace utilisateur et canal,Outil de productivité,,,MIMO,1.7,
+49,"Inventaire, télédéploiement et découverte du réseau",FusionInventory,O,GLPI,,,84,AGPL-3.0-or-later,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,9.1+1.1,
+50,Gestion des stocks et demandes par une entité différente de celles définies pour la délégation de gestion.,Geststock,R,GLPI,,,297,,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion de parc,MIMO,2.0.0,
+51,Dessin (matriciel),Gimp,R,,,Q8038,67,GPL-3.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,2.10.14,
+52,Outil de gestion des configurations (serveur),Git,R,,,Q186055,175,GPL-2.0,,Conception & Développement,Gestion du code source,,,MIMDEV,Dernière,
+53,Plateforme de développement,GitLab Community Edition,R,,,Q16639197,198,,,Orchestration & logique métier,Outil collaboratif,,,MIMDEV,11.X,
+54,Gestion de parc et suivi d'incidents,GLPI,R,,,Q3104570,35,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,,MIMO,9.3,
+55,Plugin GLPI-Survey (questionnaire),GLPI,O,GLPI,,Q3104570,,AGPL-3.0-or-later,,Opérations,Service level management,,Gestion de parc,MIMO,9.3.1.0,
+56,Correction grammaticale,Grammalecte,R,LibreOffice,,,79,GPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,1.7,
+57,Correction grammaticale,Grammalecte,R,Firefox,,Q17629243,79,GPL-3.0,,Espace utilisateur et canal,Navigateur web,,,MIMO,1.7,
+58,Capture d'écran,GreenShot,R,,,Q1544791,56,GPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,1.2.10,
+59,Base de données,H2,R,,,Q1562670,194,,,Conception & Développement,Test & Intégration,,Poste développeur,MIMDEV,1.4.197,
+60,Load Balancer,HAProxy,R,,,Q5628948,237,,,Réseau,Load Balancer,,Services déconcentrés,MIMPROD,Distribution,
+61,Dessin (vectoriel),Inkscape,O,,,Q8041,68,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,0.92.4,
+62,Environnement de développement,IS Designer,O,,,,319,,,Conception & Développement,Modeleur,,,MIMDEV,1.9.0,
+63,Couverture du code,Jacoco,R,,,Q6109486,182,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,0.8.2,
+64,Génération / Gestion des jeux de données,Jailer,R,,,,192,,,Conception & Développement,Test & Intégration,,,MIMDEV,9.0,
+65,Outil de monitoring,Javamelody,R,,,,195,Apache-2.0,,Conception & Développement,Test & Intégration,,,MIMDEV,1.74.0,
+66,"Outil d'aide à la livraison (dépôt, intégration continue...)",Jenkins,R,,,Q7491312,187,MIT,,Conception & Développement,Test & Intégration,,,MIMDEV,2.x,
+67,Webconférence,Jitsi,R,,,Q58427,65,Apache-2.0,,Espace utilisateur et canal,Visiophonie,,,MIMO,2.9,
+69,Outil de gestion des tests unitaires,Junit,R,,,Q847675,183,,,Conception & Développement,Test & Intégration,,,MIMDEV,5.2,
+70,,K-9 Mail,O,,,Q14565723,,Apache-2.0,,Espace utilisateur et canal,Messagerie agenda contacts,,Client de Messagerie,MIMO,5.600,
+71,Pour utiliser ses codes,KeeFox,O,Firefox,,Q61694243,293,GPL V2.0,,Espace utilisateur et canal,Navigateur web,,Pour utiliser ses codes,MIMO,2.5,
+72,Gestion de mots de passe,KeePass,R,,,Q762660,50,GPL-2.0-only,,Sécurité,Authentification,,,MIMO,2.3,
+73,IAM,Keycloak,O,,,Q42916195,301,,,Sécurité,Authentification,,Serveur Bureautique,MIMPROD,4,
+74,Gestion des logs en mode centralisé,Kibana,R,,,Q21156460,202,Apache-2.0,,Sécurité,Gestion des logs,,Serveur Bureautique,MIMPROD,6.x,
+75,Orchestration,Kubernetes,R,,,Q22661306,219,,,Opérations,Outils système & virtualisation,,Conteneurs,MIMPROD,Distribution,
+76,Hyperviseur,KVM,R,,,Q377539,220,,,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,,Virtualisation serveurs,MIMPROD,Distribution,
+77,SSO,LemonLDAP::NG,R,,,Q3229380,101,,,Sécurité,Authentification,,Serveur Bureautique,MIMPROD,Distribution,
+78,Suite bureautique,LibreOffice,R,,,Q10135,33,MPL-2.0,,Espace utilisateur et canal,Consultation et édition de documents,,Version MIMO 6.1.6.3_M15 téléchargeable sur ftp://eoleng.ac-dijon.fr/SILL2019/,MIMO,,
+79,Rédaction collaborative,LibreOffice online,O,,,Q30584920,294,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,,
+80,Enquête,Limesurvey,O,,,Q1514978,42,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,,
+81,Ensemble d’outils destiné à aider les lecteurs débutants ou en difficulté à décoder les mots en utilisant les principes de la lecture en couleur,LireCouleur,R,LibreOffice,,,287,LGPL-v2.1,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,4.7,
+82,Gestion des logs en mode centralisé,Logstash,R,,,Q17620247,203,Apache-2.0,,Sécurité,Gestion des logs,,Serveur Bureautique,MIMPROD,6.x,
+83,Outil de remontée de bug,Mantis BT,R,,,,174,,,Conception & Développement,Gestion des Anomalies,,,MIMDEV,1.X,
+84,Base transactionnelle cluster,MariaDB,R,,,Q787177,206,,,Données et contenu,Bd Relationnelles,,Base de production,MIMPROD,10.3,
+85,Microblogue,Mastodon,R,,,Q27986619,283,,,Orchestration et logique métier,Outil collaboratif,,Version 3.0.1 utilisée pour mastodon.etalab.gouv.fr,MIMO,3.0.1,
+86,Wiki,MediaWiki,R,,,Q83,122,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,,
+87,Affichage de GLPI pour terminaux mobiles et tablettes,Mobile,O,GLPI,,,,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,1.1.6,
+88,Base de données NoSQL,MongoDB,R,,,Q1165204,208,,,Données et contenu,Gestionnaire de données non relationnelles,,Base de données Document,MIMPROD,3.4,
+89,Navigateur,Mozilla Firefox,R,,,Q698,82,MPL-2.0,,Espace utilisateur et canal,Navigateur web,,Navigateur,MIMO,ESR 60,
+90,Diffusion multiformat,MultiDiff,R,LibreOffice,,,77,LGPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,1.3.0,
+91,,MuPDF,R,,,Q6930567,291,AGPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,,
+92,Outil de scan de PDF,NAPS2,R,,,,351,GPL-2.0-only,,Espace utilisateur et canal,Outil de productivité,,,MIMO,5.8.2,
+93,Partage de fichiers,NextCloud,O,,,Q25874683,117,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,,
+94,Dépôt d'artefacts,Nexus,R,,,,178,,,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,,MIMDEV,3.1,
+95,Reverse Proxy,NGINX,R,,,Q306144,213,,,Réseau,Serveur Web & 'Reverse Proxy,,Services déconcentrés,MIMPROD,Distribution,
+96,Environnement de développement,NodeJS,R,,,Q756100,238,X11,,Conception & Développement,Serveur d'application,,,MIMDEV,8,
+97,Éditeur de textes,Notepad++,R,,,Q2033,55,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,7.5.8,
+98,Gestionnaire de paquets pour Node.js,Npm,R,,,Q7067518,179,Artistic-2.0,,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,,MIMDEV,Dernière,
+99,Lecteur d’écran,NVDA,R,,,Q1116614,63,GPL-2.0-only,,Espace utilisateur et canal,Accessibilité,,,MIMO,2018.4.1,
+100,Régie video pour enregistrement et/ou streaming,OBS Studio,R,,,Q21707789,285,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,24.0.5,
+101,"Inventaire, télédéploiement et découverte du réseau",OCS Inventory,R,,,Q1135744,83,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,,MIMO,2.3,
+102,Automatisation de l'import OCS Inventory-NG,OCS Inventory ng,R,GLPI,,,91,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,01/05/04,
+103,,OpenDocument Reader,R,,,,290,GPL-3.0-or-later,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,1.3.2,
+104,Environnement de développement,OpenJDK,R,,,Q1461054,173,GPL-2.0,,Conception & Développement,Environnement d'exécution,,,MIMDEV,8,
+105,Annuaire,OpenLdap,R,,,Q682918,98,,,Sécurité,Authentification,,Serveur Bureautique,MIMPROD,2.4,
+106,Annuaire,OpenLdap,O,,,Q682918,98,,,Sécurité,Authentification,,Serveur Bureautique,MIMPROD,,
+107,Virtualisation de serveurs,OpenNebula,R,,,Q1164484,222,,,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,,Infra virtuelle,MIMPROD,5.6,
+108,IaaS – 2,OpenStack,R,,,Q1470293,221,,,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,,Infonuage,MIMPROD,0,
+109,Haute Disponibilté,Pacemaker,R,,,,236,GPL-2.0,,Logiciel Système et Virtualisation,Haute disponibilité (OS),,Infra virtuelle,MIMPROD,Distribution,
+110,Déploiement,Packer,O,,,,228,,,Opérations,Outils système & virtualisation,,Services déconcentrés,MIMPROD,Distribution,
+111,Export en pdf des fiches GLPI,PDF (impression de pdf),R,GLPI,,,299,AGPL-3.0,,Opérations,Déploiement gestion d’actif et de configuration,,,MIMO,1.4,
+112,"Outil de fusion, extraction et découpage de fichiers PDF. Il permet aussi de changer le sens des pages.",PDFSam Basic,,,,Q3898451,169,AGPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,4.0 (3.3.7 pour 32b),
+113,Outil de maquettage IHM (statique et/ou dynamique),Pencil,FR,,,Q2398265,180,,,Conception & Développement,"Outils d’analyse, de Modélisation et de gestion de Patrimoine",,,MIMDEV,3,
+114,Forum,PHPBB,FR,,,Q14270,199,,,Orchestration & logique métier,Outil collaboratif,,Utilisé au sein d'une forge.,MIMDEV,3.0.9,
+115,Orientation de la page,PortraitOrLandscape,R,LibreOffice,,,,LGPL-3.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,2,
+116,Messagerie system,Postfix,R,,,Q1121334,216,,,Intégration & Échanges,Serveur SMTP,,Services déconcentrés,MIMPROD,Distribution,
+117,Base de données Géomatique,PostGIS,R,,,Q1569955,207,,,Données et contenu,Bd Relationnelles,,Information géographique,MIMPROD,2.4,
+118,Base de données transactionnelle,PostgreSQL,R,,,Q192490,123,,,Données et contenu,Bd Relationnelles,,Base de production,MIMPROD,10,
+119,Gestion de projet,ProjectLibre,R,,,Q580985,59,CPA,,Espace utilisateur et canal,Outil de productivité,,,MIMO,1.7,
+120,Système d’information géographique,Qgis,R,,,Q1329181,60,GPL-2.0-only,,Orchestration et logique métier,Moteur SIG,,,MIMO,3.4,
+121,Recherche,Qwant (extension de recherche),R,Firefox,,,,X11,,Espace utilisateur et canal,Navigateur web,,,MIMO,5,
+122,Portail de gestion de projet,Redmine,R,,,Q1149365,197,,,Orchestration & logique métier,Outil collaboratif,,,MIMDEV,3.X,
+123,Rapports supplémentaires à ceux inclus dans GLPI,Reports (rapports),R,GLPI,,,298,AGPL-3.0,,Opérations,Déploiement gestion d’actif et de configuration,,,MIMO,1.12,
+124,Messagerie instantanée,Rocketchat,R,,,Q24050001,200,,,Espace utilisateur et canal,Messagerie agenda contacts,,,MIMO,,
+125,Orchestration,Rundeck,O,,,,229,,,Opérations,Outils système & virtualisation,,Conteneurs,MIMPROD,Distribution,
+126,Déploiement,SaltStack,R,,,Q7405800,224,,,Opérations,Outils système & virtualisation,,Services déconcentrés,MIMPROD,Distribution,
+127,Partage de fichiers,Samba,R,,,Q1830735,142,,,Stockage,Partage de fichiers,,Infra virtuelle,MIMPROD,4.9,
+128,PAO,Scribus,R,,,Q8295,76,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,1.5,
+129,Automatisation des tests Web,Selenium IDE,R,,,Q752522,311,,,Conception & Développement,Test & Intégration,,,MIMDEV,3.4,
+130,Automatisation des tests Web,Selenium Server,R,,,,188,,,Conception & Développement,Test & Intégration,,,MIMDEV,3.x,
+131,Supervision Infrastructure et composants,Shinken,R,,,,302,,,Opérations,Supervision / Hypervision,,Infra virtuelle,MIMPROD,2.4.3,
+132,Outil d'aide aux tests techniques,SoapUI,R,,,Q2296314,186,,,Conception & Développement,Test & Intégration,,Tests orientés Web Services,MIMDEV,5.4.0,
+133,Tableau de bord d'indicateurs de qualité,SonarQube,R,,,Q541691,181,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7,
+134,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : FindBugs,R,SonarQube,,,307,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer),
+135,Environnement de développement,Spring Boot,O,,,,172,Apache-2.0,,Conception & Développement,Aide au développement,,,MIMDEV,2.X,
+137,Gestion des campagnes de tests,Squash TM,R,,,,190,,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.1,
+138,Proxy,Squid,R,,,Q841783,159,,,Réseau,Serveur Web & 'Reverse Proxy,,Services déconcentrés,MIMPROD,Distribution,
+139,Lecture simple de fichier PDF,SumatraPDF,R,,,Q479808,57,GPL-3.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,Sans remplissage de formulaire ni vérification de signature,MIMO,3.1.2,
+140,Orchestration,Swarm,O,,,Q7653883,230,,,Opérations,Outils système & virtualisation,,Conteneurs,MIMPROD,Distribution,
+141,Stockage Objet,Swift (OpenStack),R,,,,,,,Stockage,Sauvegarde Serveur,,Services déconcentrés,MIMPROD,Distribution,
+142,Liste de diffusion/discussion,Sympa,R,,,Q1850168,281,,,Espace utilisateur et canal,Messagerie agenda contacts,,Version 6.2.48 utilisée sur le réseau RENATER,MIMO,,
+143,Gestion des logs en mode centralisé,Syslog-ng,R,,,Q467865,242,,,Sécurité,Gestion des logs,,Serveur Bureautique,MIMPROD,Distribution,
+144,Reprise des données,Talend Open Studio for Data Integration (BASIC),R,,,Q17097860,196,,,Conception & Développement,Test & Intégration,,Outil d'automatisation de la reprise de données,MIMDEV,7.0.1,
+145,Vérification de la conformité de l'application aux règles d'accessibilité,Tanaguru,O,,,,305,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,5.0.3,
+146,Gestion des campagnes de tests,Testlink,R,,,Q248384,191,,,Conception & Développement,Test & Intégration,,,MIMDEV,1.9.14,
+147,Courrielleur,Thunderbird,R,,,Q483604,80,MPL-2.0,,Espace utilisateur et canal,Messagerie agenda contacts,,Courrielleur,MIMO,60,
+148,Affichage graphique des délais de prise en compte des incidents + indicateurs sous forme de rapports,TimeLineTicket,O,GLPI,,,96,GPL-2.0-only,,Opérations,Service level management,,Gestion des tickets,MIMO,0,
+149,Bloqueur des publicités et des pisteurs,uBlock Origin,,Firefox,,Q19881587,288,GPL-3.0,,Espace utilisateur et canal,Navigateur web,,,MIMO,1.24.2,
+150,Informations géographiques,uMap,O,,,,292,,,Orchestration et logique métier,Moteur SIG,,,MIMO,,
+151,Désinstallation d’objets inventoriés,Uninstall,R,GLPI,,,94,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,2.5.1,
+152,Cache web,Varnish,R,,,Q1602447,214,,,Réseau,Serveur Web & 'Reverse Proxy,,Services déconcentrés,MIMPROD,Distribution,
+153,Stockage Securisé,Vault,O,,,Q4052619,312,,,Stockage,Sauvegarde Serveur,,Services déconcentrés,MIMPROD,,
+154,Chiffrement de disques,VeraCrypt,O,,,Q19911889,51,AGPL-3.0,,Sécurité,Chiffrement,,,MIMO,1.2,
+155,Environnement de développement,Visual Studio Code,R,,,Q19841877,171,MIT,,Conception & Développement,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,Dernière,
+156,Lecteur multimédia,VLC,R,,,Q171477,62,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,Lecteur Multimédia,MIMO,3.0.6,
+157,Galerie d’images,VRT network equipment,R,LibreOffice,,,289,CC-BY-SA-4.0,,Espace utilisateur et canal,Consultation et édition de documents,,Diagrammes informatiques,MIMO,1.2,
+158,"Déploiement, mise à jour et suppression des logiciels et des configurations sur un parc Windows",WAPT,O,,,Q50829216,261,GPL-3.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion de parc,MIMO,1.6 Community,
+159,Outil de dev pour l’accessibilité,WebAccess,O,NVDA,,,,GPL-2.0-only,,Conception et développement,Qualité et sécurité de code source,,,MIMO,2019.04.11,
+160,Serveur de services web permettant à une application externe d'interroger et de piloter GLPI.,WebService,O,GLPI,,,295,GPL-2.0-or-later,,Opérations,Déploiement gestion d’actif et de configuration,,,MIMO,1.8,
+161,Gestion de tâches,Wekan,O,,,Q50558592,260,,,Espace utilisateur et canal,Outil de productivité,,,MIMO,,
+162,Blogue,Wordpress,R,,,Q13166,38,,,Orchestration et logique métier,Outil collaboratif,,Version 5.3.2 utilisée sur etalab.gouv.fr,MIMO,,
+163,Outil de gestion des dépendances,Yarn,O,,,Q28975591,177,BSD-2-Clause,,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,,MIMDEV,1.12.3,
+164,Audit et configuration continus,Rudder,R,,,Q16673801,227,GPL-3.0-or-later,,Opérations,Déploiement gestion d’actif et de configuration,,En 5.0 chez le référent,MIMPROD,Distribution,
+165,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : CheckStyle,R,SonarQube,,,308,,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer),
+166,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : Pmd,R,SonarQube,,,309,LGPL-3.0-only,,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,6.7 (à confirmer),
+136,Automatisation des tests,Squash TF,R,,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0,
+167,Automatisation des tests,Squash TF Java Junit Runner,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0,
+168,Automatisation des tests,Squash TF Cucumber Java Runner,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0,
+169,Automatisation des tests,Squash TF Execution Server,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0,
+170,Automatisation des tests,Squash KeywordFramework,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0,
