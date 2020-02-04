@@ -74,7 +74,7 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 75,Orchestration,Kubernetes,R,,,Q22661306,219,,,Opérations,Outils système & virtualisation,,Conteneurs,MIMPROD,Distribution,
 76,Hyperviseur,KVM,R,,,Q377539,220,,,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,,Virtualisation serveurs,MIMPROD,Distribution,
 77,SSO,LemonLDAP::NG,R,,,Q3229380,101,,,Sécurité,Authentification,,Serveur Bureautique,MIMPROD,Distribution,
-78,Suite bureautique,LibreOffice,R,,,Q10135,33,MPL-2.0,,Espace utilisateur et canal,Consultation et édition de documents,,Version MIMO 6.1.6.3_M15 téléchargeable sur ftp://eoleng.ac-dijon.fr/SILL2019/,MIMO,,
+78,Suite bureautique,LibreOffice,R,,,Q10135,33,MPL-2.0,,Espace utilisateur et canal,Consultation et édition de documents,,Version MIMO 6.1.6.3_M15 téléchargeable sur ftp://eoleng.ac-dijon.fr/Archive-Mimo/mimo-dev/Libo616_Mimo/,MIMO,,
 79,Rédaction collaborative,LibreOffice online,O,,,Q30584920,294,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,,
 80,Enquête,Limesurvey,O,,,Q1514978,42,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,,
 81,Ensemble d’outils destiné à aider les lecteurs débutants ou en difficulté à décoder les mots en utilisant les principes de la lecture en couleur,LireCouleur,R,LibreOffice,,,287,LGPL-v2.1,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,4.7,
