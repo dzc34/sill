@@ -174,4 +174,5 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 175,Outil de monitoring de service,Cachet,O,,,,,BSD-3-Clause,,Conception & Développement,Test & Intégration,,En 2.3.18 à la DINUM (Etalab),MIMO,
 176,Outil de statistiques de fréquentation de sites web,Matomo,R,,,Q34162,,GPL-3.0-or-later,,Opérations,Supervision / Hypervision,,En 3.12 à la DINUM (Etalab),MIMPROD,
 177,Outil de gestion de configuration postfix,postfix.admin,R,,,,,GPL-2.0-or-later,,Opérations,Supervision / Hypervision,,En 3.2 à la DINUM (Etalab),MIMPROD,
-178,Outil de gestion de machines virtuelles,Proxmox VE,R,,,Q344376,,AGPL-3.0,,Opérations,Outils système & virtualisation,,5.4-13 à la DINUM (Etalab),MIMPROD,
+178,Outil de gestion de machines virtuelles,Proxmox VE,R,,,Q344376,,AGPL-3.0,,Opérations,Outils système & virtualisation,,En 5.4-13 à la DINUM (Etalab),MIMPROD,
+179,Outil de déploiement d'applications,Yunohost,O,,,Q15971793,,AGPL-3.0,,Opérations,Outils système & virtualisation,,En 3.6.5.3 à la DINUM (Etalab),MIMPROD,
