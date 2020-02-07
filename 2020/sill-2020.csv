@@ -177,3 +177,4 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 178,Outil de gestion de machines virtuelles,Proxmox VE,R,,,Q344376,,AGPL-3.0,,Opérations,Outils système & virtualisation,,En version 5.4-13 à la DINUM (Etalab),MIMPROD,
 179,Outil de déploiement d'applications,Yunohost,O,,,Q15971793,,AGPL-3.0,,Opérations,Outils système & virtualisation,,En version 3.6.5.3 à la DINUM (Etalab),MIMPROD,
 180,Outil de partage de notes,CodiMD,O,,,,,AGPL-3.0,,Orchestration et logique métier,Outil collaboratif,,En version 1.4.1 à la DINUM,MIMO,
+181,Outil de chiffrement dans les dépôts Git,git-crypt,R,,,,,GPL-3.0,,Conception & développement,Qualité et sécurité du code source,,,MIMDEV,Version distribution
