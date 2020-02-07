@@ -152,7 +152,7 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 153,Stockage Securisé,Vault,O,,,Q4052619,312,,,Stockage,Sauvegarde Serveur,,Services déconcentrés,MIMPROD,
 154,Chiffrement de disques,VeraCrypt,O,,,Q19911889,51,AGPL-3.0,,Sécurité,Chiffrement,,,MIMO,1.2
 155,Environnement de développement,Visual Studio Code,R,,,Q19841877,171,MIT,,Conception & Développement,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,Dernière
-156,Lecteur multimédia,VLC,R,,,Q171477,62,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,Lecteur Multimédia,MIMO,3.0.6
+156,Lecteur multimédia,VLC,R,,,Q171477,62,GPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,La version 3.0.7.1 est utilisée à la Gendarmerie nationale,MIMO,3.0.7.1
 157,Galerie d’images,VRT network equipment,R,LibreOffice,,,289,CC-BY-SA-4.0,,Espace utilisateur et canal,Consultation et édition de documents,,Diagrammes informatiques,MIMO,1.2
 158,"Déploiement, mise à jour et suppression des logiciels et des configurations sur un parc Windows",WAPT,O,,,Q50829216,261,GPL-3.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion de parc,MIMO,1.6 Community
 159,Outil de dev pour l’accessibilité,WebAccess,O,NVDA,,,,GPL-2.0-only,,Conception et développement,Qualité et sécurité de code source,,,MIMO,2019.04.11
