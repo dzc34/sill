@@ -34,7 +34,7 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 33,Forum,Discourse,R,,,Q15054354,282,,,Orchestration et logique métier,Outil collaboratif,,Version 2.4.0 utilisée pour forum.etalab.gouv.fr,MIMO,2.4.0
 34,Conteneurs logiciels,Docker,R,,,Q15206305,218,,,Opérations,Outils système & virtualisation,,Services déconcentrés,MIMPROD,Distribution
 35,Schémas,Draw.io Desktop,O,,,Q59339175,300,Apache-2.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,9.3
-36,Gestion de contenu web,Drupal,O,,,Q170855,264,,,Données et contenu,Gestion de contenu web,,,MIMO,
+36,Gestion de contenu web,Drupal,O,,,Q170855,264,,,Données et contenu,Gestion de contenu web,,,MIMO,8.8
 37,Création de DVD vidéo avec un menu de navigation.,DVD Styler,O,,,Q4117800,74,GPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,3.0.4
 38,Environnement de développement,Eclipse,R,,,Q82268,170,EPL-2.0,,Conception & Développement,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,4.9
 39,Indexation et recherche plein texte,Elasticsearch,R,,,Q3050461,201,,,Données et contenu,Moteur de recherche,,En mode cluster,MIMPROD,6.x
