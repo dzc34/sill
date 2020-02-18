@@ -83,7 +83,6 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 85,Microblogue,Mastodon,R,,,Q27986619,283,,,Orchestration et logique métier,Outil collaboratif,,Version 3.0.1 utilisée pour mastodon.etalab.gouv.fr,MIMO,3.0.1
 86,Wiki,MediaWiki,R,,,Q83,122,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,
 87,Affichage de GLPI pour terminaux mobiles et tablettes,Mobile,O,GLPI,,,,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,1.1.6
-88,Base de données NoSQL,MongoDB,R,,,Q1165204,208,,,Données et contenu,Gestionnaire de données non relationnelles,,Base de données Document,MIMPROD,3.4
 89,Navigateur,Mozilla Firefox,R,,,Q698,82,MPL-2.0,,Espace utilisateur et canal,Navigateur web,,Navigateur,MIMO,ESR 60
 90,Diffusion multiformat,MultiDiff,R,LibreOffice,,,77,LGPL-2.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,1.3.0
 91,,MuPDF,R,,,Q6930567,291,AGPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,
