@@ -66,7 +66,7 @@ ID,fonction,nom,Années,statut,parent,alternative-a,wikidata,comptoir-du-libre,l
 65,Outil de monitoring,Javamelody,2018 ; 2019 ; 2020,R,,,,195,Apache-2.0,,Conception & Développement,Test & Intégration,,,MIMDEV,1.74.0
 66,"Outil d'aide à la livraison (dépôt, intégration continue...)",Jenkins,2018 ; 2019 ; 2020,R,,,Q7491312,187,MIT,,Conception & Développement,Test & Intégration,,,MIMDEV,2.x
 67,Webconférence,Jitsi,2018 ; 2019 ; 2020,R,,,Q58427,65,Apache-2.0,,Espace utilisateur et canal,Visiophonie,,,MIMO,2.9
-68,Webmail,Roundcube,2018,FR,,,Q1769269,,GPL-3.0,,Espace utilisateur et canal,Messagerie agenda contacts,,,MIMPD,
+68,Webmail,Roundcube,2018,FR,,171,Q1769269,,GPL-3.0,,Espace utilisateur et canal,Messagerie agenda contacts,,,MIMPD,
 69,Outil de gestion des tests unitaires,Junit,2018 ; 2019 ; 2020,R,,,Q847675,183,,,Conception & Développement,Test & Intégration,,,MIMDEV,5.2
 70,Client de messagerie,K-9 Mail,2019 ; 2020,O,,,Q14565723,,Apache-2.0,,Espace utilisateur et canal,Messagerie agenda contacts,,Client de Messagerie,MIMO,5.600
 71,Pour utiliser ses codes,KeeFox,2018 ; 2019 ; 2020,O,Firefox,,Q61694243,293,GPL V2.0,,Espace utilisateur et canal,Navigateur web,,Pour utiliser ses codes,MIMO,2.5
@@ -169,7 +169,7 @@ ID,fonction,nom,Années,statut,parent,alternative-a,wikidata,comptoir-du-libre,l
 168,Automatisation des tests,Squash TF Cucumber Java Runner,2020,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0
 169,Automatisation des tests,Squash TF Execution Server,2020,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0
 170,Automatisation des tests,Squash KeywordFramework,2020,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0
-171,Outil de webmail,SOGo,2020,R,,,Q1523357,139,GPL-3.0-only,,Espace utilisateur et canal,Messagerie agenda contacts,,,MIMO,
+171,Outil de webmail,SOGo,2020,R,,68,Q1523357,139,GPL-3.0-only,,Espace utilisateur et canal,Messagerie agenda contacts,,,MIMO,
 172,Application web pour la gestion du support,Zammad,2020,R,,,Q71389626,355,AGPL-3.0,,Espace utilisateur et canal,Outil de productivité,,En version 3.1 à la DINUM (Etalab),MIMO,
 173,Outil de génération de sites statiques,Jekyll,2020,R,,,Q17067385,356,MIT,,Données et contenu,Gestion de contenu web,,En version 3.1.2 à la DINUM (Etalab),MIMO,
 174,Éditeur de textes,GNU Emacs,2020,R,,,Q189722,,GPL-3.0-or-later,,Espace utilisateur et canal,Consultation et édition de documents,,En version 26.3 à la DINUM (Etalab),MIMO,
