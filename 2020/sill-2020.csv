@@ -1,4 +1,4 @@
-ID,fonction,nom,Années,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,referent,secteur,composant,mots-clefs,contexte-usage,groupe,version
+ID,fonction,nom,annees,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,referent,secteur,composant,mots-clefs,contexte-usage,groupe,version
 1,Compression,7zip,2018 ; 2019 ; 2020,R,,,Q215051,72,LGPL-2.0-only,,Données et contenu,Compression décompression,,,MIMO,18.05
 2,Outil et/ou plugin de génération de tout ou partie du code,Acceleo,2018 ; 2019 ; 2020,R,,,Q2822666,304,EPL-2.0,,Conception & développement,Environnement de développement intégré (IDE),,Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,3.7.4
 3,Notifications supplémentaires à celles incluses dans GLPI,Additional Alerts,2018 ; 2020,O,GLPI,,,93,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion des tickets,MIMO,1.9.0
