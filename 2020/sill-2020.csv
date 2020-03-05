@@ -1,15 +1,15 @@
 ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,licence,secteur,composant,contexte-usage,groupe,version
 1,Compression,7zip,2018 ; 2019 ; 2020,R,,,Q215051,72,LGPL-2.0-only,Données et contenu,Compression décompression,,MIMO,18.05
-2,Outil et/ou plugin de génération de tout ou partie du code,Acceleo,2018 ; 2019 ; 2020,R,,,Q2822666,304,EPL-2.0,Conception & développement,Environnement de développement intégré (IDE),Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,3.7.4
+2,Outil et/ou plugin de génération de tout ou partie du code,Acceleo,2018 ; 2019 ; 2020,R,,,Q2822666,304,EPL-2.0,Conception & développement,Environnement de développement intégré (IDE),Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,3.7.7
 3,Notifications supplémentaires à celles incluses dans GLPI,Additional Alerts,2018 ; 2020,O,GLPI,,,93,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion des tickets,MIMO,1.9.0
 4,"Inventaire, télédéploiement et découverte du réseau",Agent OCS,2018 ; 2019 ; 2020,R,OCS Inventory,,,88,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,2.3.1.3
 5,Déploiement,Ansible,2018 ; 2019 ; 2020,R,,,Q2852503,225,,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
 6,Serveur Web & Reverse Proxy,Apache HTTP Server,2018 ; 2019 ; 2020,R,,,Q11354,212,,Réseau,Serveur Web & Reverse Proxy,Services déconcentrés,MIMPROD,Distribution
-7,Robot de test / Injecteurs,Apache Jmeter,2018 ; 2019 ; 2020,R,,,Q616885,109,,Conception & Développement,Test & Intégration,,MIMDEV,5.0
+7,Robot de test / Injecteurs,Apache Jmeter,2018 ; 2019 ; 2020,R,,,Q616885,109,,Conception & Développement,Test & Intégration,,MIMDEV,5.2
 8,Outil de gestion des dépendances entre les différents composants d'un projet et cycle de vie,Apache Maven,2018 ; 2019 ; 2020,R,,,Q139941,176,Apache-2.0,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,3.5.2
 9,Indexation et recherche plein texte,Apache Solr,2018 ; 2019 ; 2020,R,,,Q2858103,204,,Données et contenu,Moteur de recherche,Limité à 1 serveur,MIMPROD,8.0.0
-10,Environnement de développement,Apache Tomcat,2018 ; 2019 ; 2020,R,,,Q507430,205,,Conception & Développement,Serveur d'application,,MIMDEV,9.0
-11,Outil d'anonymisation des données,ARX Data Anonymization Tool,2019 ; 2020,O,,,,310,,Conception & Développement,Test & Intégration,,MIMDEV,3.7.1
+10,Environnement de développement,Apache Tomcat,2018 ; 2019 ; 2020,R,,,Q507430,205,,Conception & Développement,Serveur d'application,,MIMDEV,9
+11,Outil d'anonymisation des données,ARX Data Anonymization Tool,2019 ; 2020,O,,,,310,,Conception & Développement,Test & Intégration,,MIMDEV,3.7.6
 12,Vérification de la conformité de l'application aux règles d'accessibilité,Asqatasun,2018 ; 2019 ; 2020,O,,,Q24026504,9,AGPL-3.0,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,Docker
 13,Vérification de la conformité de l'application aux règles d'accessibilité,Assistant RGAA,2020,O,,,,,,Conception & Développement,Qualité et sécurité du code source,Poste de travail des agents impliqués dans le cycle de vie d’une application utilisée via un navigateur web,MIMDEV,1.0.4
 14,Enregistrement et édition de sons,Audacity,2018 ; 2019 ; 2020,R,,,Q191782,69,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,Enregistrement et édition de sons,MIMO,2.1
@@ -23,7 +23,7 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 22,Navigateurs,Chromium,2018 ; 2019 ; 2020,R,,,Q48524,193,BSD-3-Clause,Conception & Développement,Test & Intégration,Poste développeur,MIMDEV,Dernière
 23,Antivirus : Orienté serveur,ClamAV,2018 ; 2019 ; 2020,R,,,Q852000,211,,Sécurité,Antivirus,Serveur Bureautique,MIMPROD,Distribution
 24,Base transactionnelle cluster,CockroachDB,2019 ; 2020,O,,,,303,,Données et contenu,BD Relationnelles,Base de production,MIMPROD,2
-25,Framework de tests backend,CodeceptJS,2019 ; 2020,O,,,,306,MIT,Conception & Développement,Test & Intégration,,MIMDEV,2.0.4
+25,Framework de tests backend,CodeceptJS,2019 ; 2020,O,,,,306,MIT,Conception & Développement,Test & Intégration,,MIMDEV,2.4.1
 26,Déploiement,Consul,2018 ; 2019 ; 2020,O,,,,317,,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
 27,Haute Disponibilté,Corosync,2018 ; 2019 ; 2020,R,,,,235,BSD-3-Clause,Logiciel Système et Virtualisation,Haute disponibilité (OS),Infra virtuelle,MIMPROD,Distribution
 28,Serveur d'impression,CUPS,2018 ; 2019 ; 2020,R,,,Q868171,217,,Intégration & Échanges,Serveur d'impression,Services déconcentrés,MIMPROD,Distribution
@@ -36,7 +36,7 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 35,Schémas,Draw.io Desktop,2019 ; 2020,O,,,Q59339175,300,Apache-2.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,9.3
 36,Gestion de contenu web,Drupal,2019 ; 2020,R,,,Q170855,264,,Données et contenu,Gestion de contenu web,,MIMO,8.8
 37,Création de DVD vidéo avec un menu de navigation.,DVD Styler,2018 ; 2019 ; 2020,O,,,Q4117800,74,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,3.0.4
-38,Environnement de développement,Eclipse,2018 ; 2019 ; 2020,R,,,Q82268,170,EPL-2.0,Conception & Développement,Environnement de développement intégré (IDE),Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,4.9
+38,Environnement de développement,Eclipse,2018 ; 2019 ; 2020,R,,,Q82268,170,EPL-2.0,Conception & Développement,Environnement de développement intégré (IDE),Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,4.14
 39,Indexation et recherche plein texte,Elasticsearch,2018 ; 2019 ; 2020,R,,,Q3050461,201,,Données et contenu,Moteur de recherche,En mode cluster,MIMPROD,6.x
 40,Pare-feu réseau et web,EOLE AMON,2018 ; 2019 ; 2020,R,,,,234,,Réseau,Pare-feu – Réseau,Services déconcentrés,MIMPROD,2.7
 41,Distribution GNU/LINUX,EOLE (Ubuntu),2018 ; 2019 ; 2020,R,,,Q3046024,240,,Logiciel Système et Virtualisation,Système d'Exploitation,Services déconcentrés,MIMPROD,2.7
@@ -57,17 +57,17 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 56,Correction grammaticale,Grammalecte,2018 ; 2019 ; 2020,R,LibreOffice,,,79,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.7
 57,Correction grammaticale,Grammalecte,2018 ; 2019 ; 2020,R,Firefox,,Q17629243,79,GPL-3.0,Espace utilisateur et canal,Navigateur web,,MIMO,1.7
 58,Capture d'écran,GreenShot,2018 ; 2019 ; 2020,R,,,Q1544791,56,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.2.10
-59,Base de données,H2,2018 ; 2019 ; 2020,R,,,Q1562670,194,,Conception & Développement,Test & Intégration,Poste développeur,MIMDEV,1.4.197
+59,Base de données,H2,2018 ; 2019 ; 2020,R,,,Q1562670,194,,Conception & Développement,Test & Intégration,Poste développeur,MIMDEV,1.4.200
 60,Load Balancer,HAProxy,2018 ; 2019 ; 2020,R,,,Q5628948,237,,Réseau,Load Balancer,Services déconcentrés,MIMPROD,Distribution
 61,Dessin (vectoriel),Inkscape,2018 ; 2019 ; 2020,O,,,Q8041,68,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,0.92.4
-62,Environnement de développement,IS Designer,2019 ; 2020,O,,,,319,,Conception & Développement,Modeleur,,MIMDEV,1.9.0
-63,Couverture du code,Jacoco,2018 ; 2019 ; 2020,R,,,Q6109486,182,,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,0.8.2
+62,Environnement de développement,IS Designer,2019 ; 2020,O,,,,319,,Conception & Développement,Modeleur,,MIMDEV,1.9.1
+63,Couverture du code,Jacoco,2018 ; 2019 ; 2020,R,,,Q6109486,182,,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,0.8.5
 64,Génération / Gestion des jeux de données,Jailer,2018 ; 2019 ; 2020,R,,,,192,,Conception & Développement,Test & Intégration,,MIMDEV,9.0
-65,Outil de monitoring,Javamelody,2018 ; 2019 ; 2020,R,,,,195,Apache-2.0,Conception & Développement,Test & Intégration,,MIMDEV,1.74.0
+65,Outil de monitoring,Javamelody,2018 ; 2019 ; 2020,R,,,,195,Apache-2.0,Conception & Développement,Test & Intégration,,MIMDEV,1.81.0
 66,"Outil d'aide à la livraison (dépôt, intégration continue...)",Jenkins,2018 ; 2019 ; 2020,R,,,Q7491312,187,MIT,Conception & Développement,Test & Intégration,,MIMDEV,2.x
 67,Webconférence,Jitsi,2018 ; 2019 ; 2020,R,,,Q58427,65,Apache-2.0,Espace utilisateur et canal,Visiophonie,,MIMO,2.9
 68,Webmail,Roundcube,2018,FR,,171,Q1769269,,GPL-3.0,Espace utilisateur et canal,Messagerie agenda contacts,,MIMPD,
-69,Outil de gestion des tests unitaires,Junit,2018 ; 2019 ; 2020,R,,,Q847675,183,,Conception & Développement,Test & Intégration,,MIMDEV,5.2
+69,Outil de gestion des tests unitaires,Junit,2018 ; 2019 ; 2020,R,,,Q847675,183,,Conception & Développement,Test & Intégration,,MIMDEV,5.3
 70,Client de messagerie,K-9 Mail,2019 ; 2020,O,,,Q14565723,,Apache-2.0,Espace utilisateur et canal,Messagerie agenda contacts,Client de Messagerie,MIMO,5.600
 71,Pour utiliser ses codes,KeeFox,2018 ; 2019 ; 2020,O,Firefox,,Q61694243,293,GPL V2.0,Espace utilisateur et canal,Navigateur web,Pour utiliser ses codes,MIMO,2.5
 72,Gestion de mots de passe,KeePass,2018 ; 2019 ; 2020,R,,,Q762660,50,GPL-2.0-only,Sécurité,Authentification,,MIMO,2.3
@@ -92,7 +92,7 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 91,Outil de visualisation de PDF,MuPDF,2018 ; 2019 ; 2020,R,,,Q6930567,291,AGPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,
 92,Outil de scan de PDF,NAPS2,2020,R,,,,351,GPL-2.0-only,Espace utilisateur et canal,Outil de productivité,,MIMO,5.8.2
 93,Partage de fichiers,NextCloud,2019 ; 2020,R,,,Q25874683,117,,Orchestration et logique métier,Outil collaboratif,,MIMO,17.0.3
-94,Dépôt d'artefacts,Nexus,2018 ; 2019 ; 2020,R,,,,178,,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,3.1
+94,Dépôt d'artefacts,Nexus,2018 ; 2019 ; 2020,R,,,,178,,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,3.18.1-01
 95,Serveur web et reverse proxy,NGINX,2018 ; 2019 ; 2020,R,,,Q306144,213,,Réseau,Serveur Web & Reverse Proxy,Services déconcentrés,MIMPROD,Distribution
 96,Environnement de développement,NodeJS,2018 ; 2019 ; 2020,R,,,Q756100,238,X11,Conception & Développement,Serveur d'application,,MIMDEV,8
 97,Éditeur de textes,Notepad++,2018 ; 2019 ; 2020,R,,,Q2033,55,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,7.5.8
@@ -102,7 +102,7 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 101,"Inventaire, télédéploiement et découverte du réseau",OCS Inventory,2018 ; 2019 ; 2020,R,,,Q1135744,83,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,2.3
 102,Automatisation de l'import OCS Inventory-NG,OCS Inventory ng,2018 ; 2019 ; 2020,R,GLPI,,,91,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion parc,MIMO,01/05/04
 103,Lecteur de fichiers OpenDocument,OpenDocument Reader,2018 ; 2019 ; 2020,R,,,,290,GPL-3.0-or-later,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.3.2
-104,Environnement de développement,OpenJDK,2018 ; 2019 ; 2020,R,,,Q1461054,173,GPL-2.0,Conception & Développement,Environnement d'exécution,,MIMDEV,8
+104,Environnement de développement,OpenJDK,2018 ; 2019 ; 2020,R,,,Q1461054,173,GPL-2.0,Conception & Développement,Environnement d'exécution,,MIMDEV,11
 105,Annuaire,OpenLdap,2018 ; 2019 ; 2020,R,,,Q682918,98,,Sécurité,Authentification,Serveur Bureautique,MIMPROD,2.4
 106,Annuaire,OpenLdap,2019 ; 2020,O,,,Q682918,98,,Sécurité,Authentification,Serveur Bureautique,MIMPROD,
 107,Virtualisation de serveurs,OpenNebula,2018 ; 2019 ; 2020,R,,,Q1164484,222,,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,Infra virtuelle,MIMPROD,5.6
@@ -111,7 +111,6 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 110,Déploiement,Packer,2018 ; 2019 ; 2020,O,,,,228,,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
 111,Export en pdf des fiches GLPI,PDF (impression de pdf),2018 ; 2019 ; 2020,R,GLPI,,,299,AGPL-3.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,1.4
 112,"Outil de fusion, extraction et découpage de fichiers PDF. Il permet aussi de changer le sens des pages.",PDFSam Basic,2018 ; 2019 ; 2020,,,,Q3898451,169,AGPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,4.0 (3.3.7 pour 32b)
-113,Outil de maquettage IHM (statique et/ou dynamique),Pencil,2018 ; 2019 ; 2020,FR,,,Q2398265,180,,Conception & Développement,"Outils d’analyse, de Modélisation et de gestion de Patrimoine",,MIMDEV,3
 114,Forum,PHPBB,2018 ; 2019 ; 2020,FR,,,Q14270,199,,Orchestration & logique métier,Outil collaboratif,Utilisé au sein d'une forge.,MIMDEV,3.0.9
 115,Orientation de la page,PortraitOrLandscape,2018 ; 2019 ; 2020,R,LibreOffice,,,,LGPL-3.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2
 116,Messagerie system,Postfix,2018 ; 2019 ; 2020,R,,,Q1121334,216,,Intégration & Échanges,Serveur SMTP,Services déconcentrés,MIMPROD,Distribution
@@ -127,11 +126,11 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 126,Déploiement,SaltStack,2018 ; 2019 ; 2020,R,,,Q7405800,224,,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
 127,Partage de fichiers,Samba,2018 ; 2019 ; 2020,R,,,Q1830735,142,,Stockage,Partage de fichiers,Infra virtuelle,MIMPROD,4.9
 128,PAO,Scribus,2018 ; 2019 ; 2020,R,,,Q8295,76,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.5
-129,Automatisation des tests Web,Selenium IDE,2018 ; 2019,R,,,Q752522,311,,Conception & Développement,Test & Intégration,,MIMDEV,3.4
-130,Automatisation des tests Web,Selenium Server,2018 ; 2019 ; 2020,R,,,,188,,Conception & Développement,Test & Intégration,,MIMDEV,3.x
+129,Automatisation des tests Web,Selenium IDE,2018 ; 2019,R,,,Q752522,311,,Conception & Développement,Test & Intégration,,MIMDEV,3.14
+130,Automatisation des tests Web,Selenium Server,2018 ; 2019 ; 2020,R,,,,188,,Conception & Développement,Test & Intégration,,MIMDEV,3.14
 131,Supervision Infrastructure et composants,Shinken,2019 ; 2020,R,,,,302,,Opérations,Supervision / Hypervision,Infra virtuelle,MIMPROD,2.4.3
 132,Outil d'aide aux tests techniques,SoapUI,2018 ; 2019 ; 2020,R,,,Q2296314,186,,Conception & Développement,Test & Intégration,Tests orientés Web Services,MIMDEV,5.4.0
-133,Tableau de bord d'indicateurs de qualité,SonarQube,2018 ; 2019 ; 2020,R,,,Q541691,181,,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,6.7
+133,Tableau de bord d'indicateurs de qualité,SonarQube,2018 ; 2019 ; 2020,R,,,Q541691,181,,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,7.9
 134,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : FindBugs,2018 ; 2019 ; 2020,R,SonarQube,,,307,,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,6.7 (à confirmer)
 135,Environnement de développement,Spring Boot,2018 ; 2019 ; 2020,O,,,,172,Apache-2.0,Conception & Développement,Aide au développement,,MIMDEV,2.X
 136,Automatisation des tests,Squash TF,2018 ; 2019 ; 2020,R,,,,189,LGPL-3.0-only,Conception & Développement,Test & Intégration,,MIMDEV,1.21.0
@@ -140,10 +139,10 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 139,Lecture simple de fichier PDF,SumatraPDF,2018 ; 2019 ; 2020,R,,,Q479808,57,GPL-3.0-only,Espace utilisateur et canal,Consultation et édition de documents,Sans remplissage de formulaire ni vérification de signature,MIMO,3.1.2
 140,Orchestration,Swarm,2018 ; 2019 ; 2020,O,,,Q7653883,230,,Opérations,Outils système & virtualisation,Conteneurs,MIMPROD,Distribution
 141,Stockage Objet,Swift (OpenStack),2018 ; 2019 ; 2020,R,,,,,,Stockage,Sauvegarde Serveur,Services déconcentrés,MIMPROD,Distribution
-142,Liste de diffusion/discussion,Sympa,2019 ; 2020,R,,,Q1850168,281,,Espace utilisateur et canal,Messagerie agenda contacts,Version 6.2.54 utilisée sur le réseau RENATER,MIMO,
+142,Liste de diffusion/discussion,Sympa,2019 ; 2020,R,,,Q1850168,281,,Espace utilisateur et canal,Messagerie agenda contacts,Version 6.2.48 utilisée sur le réseau RENATER,MIMO,
 143,Gestion des logs en mode centralisé,Syslog-ng,2018 ; 2019 ; 2020,R,,,Q467865,242,,Sécurité,Gestion des logs,Serveur Bureautique,MIMPROD,Distribution
-144,Reprise des données,Talend Open Studio for Data Integration (BASIC),2018 ; 2019 ; 2020,R,,,Q17097860,196,,Conception & Développement,Test & Intégration,Outil d'automatisation de la reprise de données,MIMDEV,7.0.1
-145,Vérification de la conformité de l'application aux règles d'accessibilité,Tanaguru,2018 ; 2019 ; 2020,O,,,,305,,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,5.0.3
+144,Reprise des données,Talend Open Studio for Data Integration (BASIC),2018 ; 2019 ; 2020,R,,,Q17097860,196,,Conception & Développement,Test & Intégration,Outil d'automatisation de la reprise de données,MIMDEV,7.2.1
+145,Vérification de la conformité de l'application aux règles d'accessibilité,Tanaguru,2018 ; 2019 ; 2020,O,,,,305,,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,6.0.0
 146,Gestion des campagnes de tests,Testlink,2018 ; 2019 ; 2020,R,,,Q248384,191,,Conception & Développement,Test & Intégration,,MIMDEV,1.9.14
 147,Courrielleur,Thunderbird,2018 ; 2019 ; 2020,R,,,Q483604,80,MPL-2.0,Espace utilisateur et canal,Messagerie agenda contacts,Courrielleur,MIMO,60
 148,Affichage graphique des délais de prise en compte des incidents + indicateurs sous forme de rapports,TimeLineTicket,2018 ; 2019 ; 2020,O,GLPI,,,96,GPL-2.0-only,Opérations,Service level management,Gestion des tickets,MIMO,0
@@ -161,7 +160,7 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 160,Serveur de services web permettant à une application externe d'interroger et de piloter GLPI.,WebService,2018 ; 2019 ; 2020,O,GLPI,,,295,GPL-2.0-or-later,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,1.8
 161,Gestion de tâches,Wekan,2019 ; 2020,O,,,Q50558592,260,,Espace utilisateur et canal,Outil de productivité,,MIMO,
 162,Blogue,Wordpress,2019 ; 2020,R,,,Q13166,38,GPL-2.0-only,Données et contenu,Gestion de contenu web,Version 5.3.2 utilisée sur etalab.gouv.fr,MIMO,
-163,Outil de gestion des dépendances,Yarn,2018 ; 2019 ; 2020,O,,,Q28975591,177,BSD-2-Clause,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,1.12.3
+163,Outil de gestion des dépendances,Yarn,2018 ; 2019 ; 2020,O,,,Q28975591,177,BSD-2-Clause,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,1.21.0
 164,Audit et configuration continus,Rudder,2018 ; 2020,R,,,Q16673801,227,GPL-3.0-or-later,Opérations,Déploiement gestion d’actif et de configuration,En 5.0 chez le référent,MIMPROD,Distribution
 165,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : CheckStyle,2018 ; 2019 ; 2020,R,SonarQube,,,308,,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,6.7 (à confirmer)
 166,Tableau de bord d'indicateurs de qualité,SonarQube Plugins : Pmd,2018 ; 2019 ; 2020,R,SonarQube,,,309,LGPL-3.0-only,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,6.7 (à confirmer)
