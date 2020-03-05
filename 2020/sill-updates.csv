@@ -1,9 +1,9 @@
 type,logiciel,id,version,commentaire,date
 Suppression,Geststock,0,-,"Suppression de Geststock, qui n'a plus de référent.",<2020-02-10 lun.>
+Ajout,Redis,184,5.0.7,Ajout de Redis en version 5.0.7.,<2020-02-14 ven.>
 Ajout,RStudio,182,1.2,Ajout de RStudio en version 1.2.,<2020-02-13 jeu.>
 Ajout,RTF,183,,Ajout de Remediate The Flag,<2020-02-13 jeu.>
 MàJ,Drupal,36,8.8,Mise à jour de Drupal en version 8.8.,<2020-02-13 jeu.>
 MàJ,Nextcloud,93,17.0.3,Mise à jour de Nextcloud en version 17.0.3.,<2020-02-13 jeu.>
-Ajout,Redis,184,5.0.7,Ajout de Redis en version 5.0.7.,<2020-02-14 ven.>
 Ajout,Archifiltre,185,2.0.x,Ajout d'Archifiltre en version 2.0.x.,<2020-02-18 mar.>
 Suppression,MongoDB,88,,"Suppression de MongoDB,  licence non approuvée par OSI/FSF",<2020-02-18 mar.>
