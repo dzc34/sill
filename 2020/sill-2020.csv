@@ -1,8 +1,8 @@
 ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,licence,secteur,composant,contexte-usage,groupe,version
-1,Compression,7zip,2018 ; 2019 ; 2020,R,,,Q215051,72,LGPL-2.0-only,Données et contenu,Compression décompression,,MIMO,18.05
+1,Compression,7zip,2018 ; 2019 ; 2020,R,,,Q215051,72,LGPL-2.0-only,Données et contenu,Compression décompression,,MIMO,19
 2,Outil et/ou plugin de génération de tout ou partie du code,Acceleo,2018 ; 2019 ; 2020,R,,,Q2822666,304,EPL-2.0,Conception & développement,Environnement de développement intégré (IDE),Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,3.7.7
-3,Notifications supplémentaires à celles incluses dans GLPI,Additional Alerts,2018 ; 2020,O,GLPI,,,93,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion des tickets,MIMO,1.9.0
-4,"Inventaire, télédéploiement et découverte du réseau",Agent OCS,2018 ; 2019 ; 2020,R,OCS Inventory,,,88,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,2.3.1.3
+3,Notifications supplémentaires à celles incluses dans GLPI,Additional Alerts,2018 ; 2020,O,GLPI,,,93,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion des tickets,MIMO,2.1.2
+4,"Inventaire, télédéploiement et découverte du réseau",Agent OCS,2018 ; 2019 ; 2020,R,OCS Inventory,,,88,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,2.4
 5,Déploiement,Ansible,2018 ; 2019 ; 2020,R,,,Q2852503,225,,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
 6,Serveur Web & Reverse Proxy,Apache HTTP Server,2018 ; 2019 ; 2020,R,,,Q11354,212,,Réseau,Serveur Web & Reverse Proxy,Services déconcentrés,MIMPROD,Distribution
 7,Robot de test / Injecteurs,Apache Jmeter,2018 ; 2019 ; 2020,R,,,Q616885,109,,Conception & Développement,Test & Intégration,,MIMDEV,5.2
@@ -13,10 +13,10 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 12,Vérification de la conformité de l'application aux règles d'accessibilité,Asqatasun,2018 ; 2019 ; 2020,O,,,Q24026504,9,AGPL-3.0,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,Docker
 13,Vérification de la conformité de l'application aux règles d'accessibilité,Assistant RGAA,2020,O,,,,,,Conception & Développement,Qualité et sécurité du code source,Poste de travail des agents impliqués dans le cycle de vie d’une application utilisée via un navigateur web,MIMDEV,1.0.4
 14,Enregistrement et édition de sons,Audacity,2018 ; 2019 ; 2020,R,,,Q191782,69,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,Enregistrement et édition de sons,MIMO,2.1
-15,Convertisseur de formats vidéo,Avidemux,2018 ; 2019 ; 2020,O,,,Q790931,70,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2.7
+15,Convertisseur de formats vidéo,Avidemux,2018 ; 2019 ; 2020,O,,,Q790931,70,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2.7.4
 16,Sauvegadre Serveurs,Bareos,2018 ; 2019 ; 2020,R,,,Q25387280,243,,Sauvegarde,Sauvegarde Serveur,Services déconcentrés,MIMPROD,Distribution
-17,Options de configuration supplémentaires,GLPI Behaviors (Comportements),2018 ; 2019 ; 2020,R,GLPI,,,95,AGPL-3.0-or-later,Opérations,Déploiement gestion d’actif et de configuration,Gestion des tickets,MIMO,02/01/01
-18,Éditeur HTML,BlueGriffon,2018 ; 2019 ; 2020,R,,,Q885580,58,"LGPL-3.0, GPL-3.0, MPL-2.0",Espace utilisateur et canal,Consultation et édition de documents,,MIMO,3.0
+17,Options de configuration supplémentaires,GLPI Behaviors (Comportements),2018 ; 2019 ; 2020,R,GLPI,,,95,AGPL-3.0-or-later,Opérations,Déploiement gestion d’actif et de configuration,Gestion des tickets,MIMO,2.1.4
+18,Éditeur HTML,BlueGriffon,2018 ; 2019 ; 2020,R,,,Q885580,58,"LGPL-3.0, GPL-3.0, MPL-2.0",Espace utilisateur et canal,Consultation et édition de documents,,MIMO,3.1
 19,Distribution GNU/LINUX,CentOS,2018 ; 2019 ; 2020,R,,,Q207542,239,,Logiciel Système et Virtualisation,Système d'Exploitation,En centre de production,MIMPROD,7.6
 20,Supervision Infrastructure,Centreon,2018 ; 2019 ; 2020,,,,Q2946121,210,,Opérations,Supervision / Hypervision,Infra virtuelle,MIMPROD,2.8
 21,Stockage block,Ceph,2018 ; 2019 ; 2020,R,,,Q4035967,223,,Stockage,Sauvegarde Serveur,Services déconcentrés,MIMPROD,Distribution
@@ -33,26 +33,26 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 32,Distribution GNU/LINUX,Debian,2018 ; 2019 ; 2020,R,,,Q7715973,241,,Logiciel Système et Virtualisation,Système d'Exploitation,En centre de production,MIMPROD,9
 33,Forum,Discourse,2019 ; 2020,R,,,Q15054354,282,,Orchestration et logique métier,Outil collaboratif,Version 2.4.0 utilisée pour forum.etalab.gouv.fr,MIMO,2.4.0
 34,Conteneurs logiciels,Docker,2018 ; 2019 ; 2020,R,,,Q15206305,218,,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
-35,Schémas,Draw.io Desktop,2019 ; 2020,O,,,Q59339175,300,Apache-2.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,9.3
+35,Schémas,Draw.io Desktop,2019 ; 2020,O,,,Q59339175,300,Apache-2.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,12.5
 36,Gestion de contenu web,Drupal,2019 ; 2020,R,,,Q170855,264,,Données et contenu,Gestion de contenu web,,MIMO,8.8
-37,Création de DVD vidéo avec un menu de navigation.,DVD Styler,2018 ; 2019 ; 2020,O,,,Q4117800,74,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,3.0.4
+37,Création de DVD vidéo avec un menu de navigation.,DVD Styler,2018 ; 2019 ; 2020,O,,,Q4117800,74,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,3.1
 38,Environnement de développement,Eclipse,2018 ; 2019 ; 2020,R,,,Q82268,170,EPL-2.0,Conception & Développement,Environnement de développement intégré (IDE),Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,4.14
 39,Indexation et recherche plein texte,Elasticsearch,2018 ; 2019 ; 2020,R,,,Q3050461,201,,Données et contenu,Moteur de recherche,En mode cluster,MIMPROD,6.x
 40,Pare-feu réseau et web,EOLE AMON,2018 ; 2019 ; 2020,R,,,,234,,Réseau,Pare-feu – Réseau,Services déconcentrés,MIMPROD,2.7
 41,Distribution GNU/LINUX,EOLE (Ubuntu),2018 ; 2019 ; 2020,R,,,Q3046024,240,,Logiciel Système et Virtualisation,Système d'Exploitation,Services déconcentrés,MIMPROD,2.7
-42,Escalade de tickets,GLPI Escalation,2018 ; 2019 ; 2020,O,GLPI,,,296,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion des tickets,MIMO,0.85+1.0
+42,Escalade de tickets,GLPI Escalation,2018 ; 2019 ; 2020,O,GLPI,,,296,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion des tickets,MIMO,0.90+1.2
 43,Client FTP,Filezilla,2018 ; 2019 ; 2020,R,,,Q300662,64,GPL-2.0,Données et contenu,Gestion des accès aux données,Client FTP,MIMO,3.28
 44,Outil d'injection afin tester les couches basses,Fitnesse,2018 ; 2019 ; 2020,FR,,,,184,,Conception & Développement,Test & Intégration,,MIMDEV,20161106
 45,Sondage pour trouver des dates communes,Framadate (logiciel),2019 ; 2020,O,,,,284,,Espace utilisateur et canal,Messagerie agenda contacts,Utilisation expérimentale sur yunohost.etalab.studio/date/,MIMO,
 46,Application permettant la surveillance système et réseau,Nagios,2018,FR,,,Q1134360,209,GPL-3.0,Opérations,Outils système & virtualisation,,MIMDEV,
-47,Synchronisation Sauvegarde,FreeFileSync,2018 ; 2019 ; 2020,R,,,Q18150468,52,GPL-3.0,Opérations,Synchronisation réplication déduplication,,MIMO,10.6
+47,Synchronisation Sauvegarde,FreeFileSync,2018 ; 2019 ; 2020,R,,,Q18150468,52,GPL-3.0,Opérations,Synchronisation réplication déduplication,,MIMO,10.19
 48,Grapheur d'idées,Freeplane,2018 ; 2019 ; 2020,R,,,Q3028675,61,GPL-2.0-only,Espace utilisateur et canal,Outil de productivité,,MIMO,1.7
-49,"Inventaire, télédéploiement et découverte du réseau",FusionInventory,2018 ; 2019 ; 2020,O,GLPI,,,84,AGPL-3.0-or-later,Opérations,Déploiement gestion d’actif et de configuration,Gestion parc,MIMO,9.1+1.1
+49,"Inventaire, télédéploiement et découverte du réseau",FusionInventory,2018 ; 2019 ; 2020,O,GLPI,,,84,AGPL-3.0-or-later,Opérations,Déploiement gestion d’actif et de configuration,Gestion parc,MIMO,9.1+1.4
 50,Gestion des transferts de fichiers dans un contexte de production et sécurisé,Waarp,2018,FR,,,,231,GPL-3.0,Conception & Développement,Partage de fichiers,,MIMPROD,
 51,Dessin (matriciel),Gimp,2018 ; 2019 ; 2020,R,,,Q8038,67,GPL-3.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2.10.14
 52,Outil de gestion des configurations (serveur),Git,2018 ; 2019 ; 2020,R,,,Q186055,175,GPL-2.0,Conception & Développement,Gestion du code source,,MIMDEV,Dernière
 53,Plateforme de développement,GitLab Community Edition,2018 ; 2019 ; 2020,R,,,Q16639197,198,,Orchestration & logique métier,Outil collaboratif,,MIMDEV,11.X
-54,Gestion de parc et suivi d'incidents,GLPI,2018 ; 2019 ; 2020,R,,,Q3104570,35,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,9.3
+54,Gestion de parc et suivi d'incidents,GLPI,2018 ; 2019 ; 2020,R,,,Q3104570,35,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,9.3.4
 55,Plugin GLPI-Survey (questionnaire),GLPI,2019 ; 2020,O,GLPI,,Q3104570,,AGPL-3.0-or-later,Opérations,Service level management,Gestion de parc,MIMO,9.3.1.0
 56,Correction grammaticale,Grammalecte,2018 ; 2019 ; 2020,R,LibreOffice,,,79,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.7
 57,Correction grammaticale,Grammalecte,2018 ; 2019 ; 2020,R,Firefox,,Q17629243,79,GPL-3.0,Espace utilisateur et canal,Navigateur web,,MIMO,1.7
@@ -70,16 +70,16 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 69,Outil de gestion des tests unitaires,Junit,2018 ; 2019 ; 2020,R,,,Q847675,183,,Conception & Développement,Test & Intégration,,MIMDEV,5.3
 70,Client de messagerie,K-9 Mail,2019 ; 2020,O,,,Q14565723,,Apache-2.0,Espace utilisateur et canal,Messagerie agenda contacts,Client de Messagerie,MIMO,5.600
 71,Pour utiliser ses codes,KeeFox,2018 ; 2019 ; 2020,O,Firefox,,Q61694243,293,GPL V2.0,Espace utilisateur et canal,Navigateur web,Pour utiliser ses codes,MIMO,2.5
-72,Gestion de mots de passe,KeePass,2018 ; 2019 ; 2020,R,,,Q762660,50,GPL-2.0-only,Sécurité,Authentification,,MIMO,2.3
+72,Gestion de mots de passe,KeePass,2018 ; 2019 ; 2020,R,,,Q762660,50,GPL-2.0-only,Sécurité,Authentification,,MIMO,2.4
 73,IAM,Keycloak,2019 ; 2020,O,,,Q42916195,301,,Sécurité,Authentification,Serveur Bureautique,MIMPROD,4
 74,Gestion des logs en mode centralisé,Kibana,2018 ; 2019 ; 2020,R,,,Q21156460,202,Apache-2.0,Sécurité,Gestion des logs,Serveur Bureautique,MIMPROD,6.x
 75,Orchestration,Kubernetes,2018 ; 2019 ; 2020,R,,,Q22661306,219,,Opérations,Outils système & virtualisation,Conteneurs,MIMPROD,Distribution
 76,Hyperviseur,KVM,2018 ; 2019 ; 2020,R,,,Q377539,220,,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,Virtualisation serveurs,MIMPROD,Distribution
 77,SSO,LemonLDAP::NG,2018 ; 2019 ; 2020,R,,,Q3229380,101,,Sécurité,Authentification,Version 2.0.7 utilisée à la Gendarmerie nationale,MIMPROD,2.0.x
 78,Suite bureautique,LibreOffice,2018 ; 2019 ; 2020,R,,,Q10135,33,MPL-2.0,Espace utilisateur et canal,Consultation et édition de documents,Version MIMO 6.1.6.3_M15 téléchargeable sur ftp://eoleng.ac-dijon.fr/Archive-Mimo/mimo-dev/Libo616_Mimo/,MIMO,
-79,Rédaction collaborative,LibreOffice (Collabora) online,2019 ; 2020,O,,,Q30584920,294,,Orchestration et logique métier,Outil collaboratif,,MIMO,4.0.10
+79,Rédaction collaborative,LibreOffice (Collabora) online,2019 ; 2020,R,,,Q30584920,294,MPL-2.0,Orchestration et logique métier,Outil collaboratif,,MIMO,4.0.10
 80,Enquête,Limesurvey,2019 ; 2020,O,,,Q1514978,42,,Orchestration et logique métier,Outil collaboratif,,MIMO,
-81,Ensemble d’outils destiné à aider les lecteurs débutants ou en difficulté à décoder les mots en utilisant les principes de la lecture en couleur,LireCouleur,2019 ; 2020,R,LibreOffice,,,287,LGPL-v2.1,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,4.7
+81,Ensemble d’outils destiné à aider les lecteurs débutants ou en difficulté à décoder les mots en utilisant les principes de la lecture en couleur,LireCouleur,2019 ; 2020,R,LibreOffice,,,287,LGPL-v2.1,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,5
 82,Gestion des logs en mode centralisé,Logstash,2018 ; 2019 ; 2020,R,,,Q17620247,203,Apache-2.0,Sécurité,Gestion des logs,Serveur Bureautique,MIMPROD,6.x
 83,Outil de remontée de bug,Mantis BT,2018 ; 2019 ; 2020,R,,,,174,,Conception & Développement,Gestion des Anomalies,,MIMDEV,1.X
 84,Base transactionnelle cluster,MariaDB,2018 ; 2019 ; 2020,R,,,Q787177,206,,Données et contenu,Bd Relationnelles,Base de production,MIMPROD,10.3
@@ -87,7 +87,7 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 86,Wiki,MediaWiki,2018 ; 2019 ; 2020,R,,,Q83,122,,Orchestration et logique métier,Outil collaboratif,,MIMO,
 87,Affichage de GLPI pour terminaux mobiles et tablettes,Mobile,2018 ; 2019 ; 2020,O,GLPI,,,,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion parc,MIMO,1.1.6
 88,Base de données NoSQL,MongoDB,2018 ; 2019,R,,,Q1165204,208,,Données et contenu,Gestionnaire de données non relationnelles,,MIMPROD,
-89,Navigateur,Mozilla Firefox,2018 ; 2019 ; 2020,R,,,Q698,82,MPL-2.0,Espace utilisateur et canal,Navigateur web,Navigateur,MIMO,ESR 60
+89,Navigateur,Mozilla Firefox (Extended Support Release),2018 ; 2019 ; 2020,R,,,Q698,82,MPL-2.0,Espace utilisateur et canal,Navigateur web,Navigateur,MIMO,68
 90,Diffusion multiformat,MultiDiff,2018 ; 2019 ; 2020,R,LibreOffice,,,77,LGPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.3.0
 91,Outil de visualisation de PDF,MuPDF,2018 ; 2019 ; 2020,R,,,Q6930567,291,AGPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,
 92,Outil de scan de PDF,NAPS2,2020,R,,,,351,GPL-2.0-only,Espace utilisateur et canal,Outil de productivité,,MIMO,5.8.2
@@ -95,12 +95,12 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 94,Dépôt d'artefacts,Nexus,2018 ; 2019 ; 2020,R,,,,178,,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,3.18.1-01
 95,Serveur web et reverse proxy,NGINX,2018 ; 2019 ; 2020,R,,,Q306144,213,,Réseau,Serveur Web & Reverse Proxy,Services déconcentrés,MIMPROD,Distribution
 96,Environnement de développement,NodeJS,2018 ; 2019 ; 2020,R,,,Q756100,238,X11,Conception & Développement,Serveur d'application,,MIMDEV,8
-97,Éditeur de textes,Notepad++,2018 ; 2019 ; 2020,R,,,Q2033,55,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,7.5.8
+97,Éditeur de textes,Notepad++,2018 ; 2019 ; 2020,R,,,Q2033,55,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,7.8.2
 98,Gestionnaire de paquets pour Node.js,Npm,2018 ; 2019 ; 2020,R,,,Q7067518,179,Artistic-2.0,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,Dernière
-99,Lecteur d’écran,NVDA,2018 ; 2019 ; 2020,R,,,Q1116614,63,GPL-2.0-only,Espace utilisateur et canal,Accessibilité,,MIMO,2018.4.1
+99,Lecteur d’écran,NVDA,2018 ; 2019 ; 2020,R,,,Q1116614,63,GPL-2.0-only,Espace utilisateur et canal,Accessibilité,,MIMO,2019.2.1
 100,Régie video pour enregistrement et/ou streaming,OBS Studio,2019 ; 2020,R,,,Q21707789,285,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,24.0.5
-101,"Inventaire, télédéploiement et découverte du réseau",OCS Inventory,2018 ; 2019 ; 2020,R,,,Q1135744,83,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,2.3
-102,Automatisation de l'import OCS Inventory-NG,OCS Inventory ng,2018 ; 2019 ; 2020,R,GLPI,,,91,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion parc,MIMO,01/05/04
+101,"Inventaire, télédéploiement et découverte du réseau",OCS Inventory,2018 ; 2019 ; 2020,R,,,Q1135744,83,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,2.4
+102,Automatisation de l'import OCS Inventory-NG,OCS Inventory ng,2018 ; 2019 ; 2020,R,GLPI,,,91,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion parc,MIMO,1.5.6
 103,Lecteur de fichiers OpenDocument,OpenDocument Reader,2018 ; 2019 ; 2020,R,,,,290,GPL-3.0-or-later,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.3.2
 104,Environnement de développement,OpenJDK,2018 ; 2019 ; 2020,R,,,Q1461054,173,GPL-2.0,Conception & Développement,Environnement d'exécution,,MIMDEV,11
 105,Annuaire,OpenLdap,2018 ; 2019 ; 2020,R,,,Q682918,98,,Sécurité,Authentification,Serveur Bureautique,MIMPROD,2.4
@@ -108,18 +108,18 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 108,IaaS – 2,OpenStack,2018 ; 2019 ; 2020,R,,,Q1470293,221,,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,Infonuage,MIMPROD,0
 109,Haute Disponibilté,Pacemaker,2018 ; 2019 ; 2020,R,,,,236,GPL-2.0,Logiciel Système et Virtualisation,Haute disponibilité (OS),Infra virtuelle,MIMPROD,Distribution
 110,Déploiement,Packer,2018 ; 2019 ; 2020,O,,,,228,,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
-111,Export en pdf des fiches GLPI,PDF (impression de pdf),2018 ; 2019 ; 2020,R,GLPI,,,299,AGPL-3.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,1.4
-112,"Outil de fusion, extraction et découpage de fichiers PDF. Il permet aussi de changer le sens des pages.",PDFSam Basic,2018 ; 2019 ; 2020,,,,Q3898451,169,AGPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,4.0 (3.3.7 pour 32b)
+111,Export en pdf des fiches GLPI,PDF (impression de pdf),2018 ; 2019 ; 2020,R,GLPI,,,299,AGPL-3.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,1.5
+112,"Outil de fusion, extraction et découpage de fichiers PDF. Il permet aussi de changer le sens des pages.",PDFSam Basic,2018 ; 2019 ; 2020,,,,Q3898451,169,AGPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,4.0
 114,Forum,PHPBB,2018 ; 2019 ; 2020,FR,,,Q14270,199,,Orchestration & logique métier,Outil collaboratif,Utilisé au sein d'une forge.,MIMDEV,3.0.9
 115,Orientation de la page,PortraitOrLandscape,2018 ; 2019 ; 2020,R,LibreOffice,,,,LGPL-3.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2
 116,Messagerie system,Postfix,2018 ; 2019 ; 2020,R,,,Q1121334,216,,Intégration & Échanges,Serveur SMTP,Services déconcentrés,MIMPROD,Distribution
 117,Base de données Géomatique,PostGIS,2018 ; 2019 ; 2020,R,,,Q1569955,207,,Données et contenu,Bd Relationnelles,Information géographique,MIMPROD,2.4
 118,Base de données transactionnelle,PostgreSQL,2018 ; 2019 ; 2020,R,,,Q192490,123,,Données et contenu,Bd Relationnelles,Base de production,MIMPROD,10
-119,Gestion de projet,ProjectLibre,2018 ; 2019 ; 2020,R,,,Q580985,59,CPA,Espace utilisateur et canal,Outil de productivité,,MIMO,1.7
-120,Système d’information géographique,Qgis,2018 ; 2019 ; 2020,R,,,Q1329181,60,GPL-2.0-only,Orchestration et logique métier,Moteur SIG,,MIMO,3.4
-121,Recherche,Qwant (extension de recherche),2018 ; 2019 ; 2020,R,Firefox,,,,X11,Espace utilisateur et canal,Navigateur web,,MIMO,5
+119,Gestion de projet,ProjectLibre,2018 ; 2019 ; 2020,R,,,Q580985,59,CPA,Espace utilisateur et canal,Outil de productivité,,MIMO,1.9.1
+120,Système d’information géographique,Qgis,2018 ; 2019 ; 2020,R,,,Q1329181,60,GPL-2.0-only,Orchestration et logique métier,Moteur SIG,,MIMO,3.10
+121,Plugin pour l'ajout du moteur de recherche Qwant,Qwant (extension de recherche),2018 ; 2019 ; 2020,R,Firefox,,,,X11,Espace utilisateur et canal,Navigateur web,,MIMO,5
 122,Portail de gestion de projet,Redmine,2018 ; 2019 ; 2020,R,,,Q1149365,197,,Orchestration & logique métier,Outil collaboratif,,MIMDEV,3.X
-123,Rapports supplémentaires à ceux inclus dans GLPI,Reports (rapports),2018 ; 2019 ; 2020,R,GLPI,,,298,AGPL-3.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,1.12
+123,Rapports supplémentaires à ceux inclus dans GLPI,Reports (rapports),2018 ; 2019 ; 2020,R,GLPI,,,298,AGPL-3.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,1.12.1
 124,Messagerie instantanée,Rocketchat,2018 ; 2019 ; 2020,R,,,Q24050001,200,,Espace utilisateur et canal,Messagerie agenda contacts,,MIMO,
 125,Orchestration,Rundeck,2018 ; 2019 ; 2020,O,,,,229,,Opérations,Outils système & virtualisation,Conteneurs,MIMPROD,Distribution
 126,Déploiement,SaltStack,2018 ; 2019 ; 2020,R,,,Q7405800,224,,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
@@ -143,20 +143,20 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 144,Reprise des données,Talend Open Studio for Data Integration (BASIC),2018 ; 2019 ; 2020,R,,,Q17097860,196,,Conception & Développement,Test & Intégration,Outil d'automatisation de la reprise de données,MIMDEV,7.2.1
 145,Vérification de la conformité de l'application aux règles d'accessibilité,Tanaguru,2018 ; 2019 ; 2020,O,,,,305,,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,6.0.0
 146,Gestion des campagnes de tests,Testlink,2018 ; 2019 ; 2020,R,,,Q248384,191,,Conception & Développement,Test & Intégration,,MIMDEV,1.9.14
-147,Courrielleur,Thunderbird,2018 ; 2019 ; 2020,R,,,Q483604,80,MPL-2.0,Espace utilisateur et canal,Messagerie agenda contacts,Courrielleur,MIMO,60
-148,Affichage graphique des délais de prise en compte des incidents + indicateurs sous forme de rapports,TimeLineTicket,2018 ; 2019 ; 2020,O,GLPI,,,96,GPL-2.0-only,Opérations,Service level management,Gestion des tickets,MIMO,0
+147,Courrielleur,Thunderbird,2018 ; 2019 ; 2020,R,,,Q483604,80,MPL-2.0,Espace utilisateur et canal,Messagerie agenda contacts,Courrielleur,MIMO,68
+148,Affichage graphique des délais de prise en compte des incidents + indicateurs sous forme de rapports,TimeLineTicket,2018 ; 2019 ; 2020,O,GLPI,,,96,GPL-2.0-only,Opérations,Service level management,Gestion des tickets,MIMO,9.3+1.1
 149,Bloqueur des publicités et des pisteurs,uBlock Origin,2018 ; 2019 ; 2020,,Firefox,,Q19881587,288,GPL-3.0,Espace utilisateur et canal,Navigateur web,,MIMO,1.24.2
 150,Informations géographiques,uMap,2019 ; 2020,O,,,,292,,Orchestration et logique métier,Moteur SIG,,MIMO,
-151,Désinstallation d’objets inventoriés,Uninstall,2018 ; 2019 ; 2020,R,GLPI,,,94,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion parc,MIMO,2.5.1
+151,Désinstallation d’objets inventoriés,Uninstall,2018 ; 2019 ; 2020,R,GLPI,,,94,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion parc,MIMO,2.6.2
 152,Cache web,Varnish,2018 ; 2019 ; 2020,R,,,Q1602447,214,,Réseau,Serveur Web & Reverse Proxy,Services déconcentrés,MIMPROD,Distribution
 153,Stockage Securisé,Vault,2019 ; 2020,O,,,Q4052619,312,,Stockage,Sauvegarde Serveur,Services déconcentrés,MIMPROD,
-154,Chiffrement de disques,VeraCrypt,2018 ; 2019 ; 2020,O,,,Q19911889,51,AGPL-3.0,Sécurité,Chiffrement,,MIMO,1.2
+154,Chiffrement de disques,VeraCrypt,2018 ; 2019 ; 2020,O,,,Q19911889,51,AGPL-3.0,Sécurité,Chiffrement,,MIMO,1.24
 155,Environnement de développement,Visual Studio Code,2018 ; 2019 ; 2020,R,,,Q19841877,171,MIT,Conception & Développement,Environnement de développement intégré (IDE),Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,Dernière
-156,Lecteur multimédia,VLC,2018 ; 2019 ; 2020,R,,,Q171477,62,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,La version 3.0.7.1 est utilisée à la Gendarmerie nationale,MIMO,3.0.7.1
+156,Lecteur multimédia,VLC,2018 ; 2019 ; 2020,R,,,Q171477,62,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,La version 3.0.7.1 est utilisée à la Gendarmerie nationale,MIMO,3.0.8
 157,Galerie d’images,VRT network equipment,2019 ; 2020,R,LibreOffice,,,289,CC-BY-SA-4.0,Espace utilisateur et canal,Consultation et édition de documents,Diagrammes informatiques,MIMO,1.2
 158,"Déploiement, mise à jour et suppression des logiciels et des configurations sur un parc Windows",WAPT,2019 ; 2020,O,,,Q50829216,261,GPL-3.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion de parc,MIMO,1.6 Community
-159,Outil de dev pour l’accessibilité,WebAccess,2019 ; 2020,O,NVDA,,,,GPL-2.0-only,Conception et développement,Qualité et sécurité de code source,,MIMO,2019.04.11
-160,Serveur de services web permettant à une application externe d'interroger et de piloter GLPI.,WebService,2018 ; 2019 ; 2020,O,GLPI,,,295,GPL-2.0-or-later,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,1.8
+159,Outil de dev pour l’accessibilité,WebAccess,2019 ; 2020,O,NVDA,,,,GPL-2.0-only,Conception et développement,Qualité et sécurité de code source,,MIMO,2019.12.13
+160,Serveur de services web permettant à une application externe d'interroger et de piloter GLPI.,WebService,2018 ; 2019 ; 2020,O,GLPI,,,295,GPL-2.0-or-later,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,1.9.1
 161,Gestion de tâches,Wekan,2019 ; 2020,O,,,Q50558592,260,,Espace utilisateur et canal,Outil de productivité,,MIMO,
 162,Blogue,Wordpress,2019 ; 2020,R,,,Q13166,38,GPL-2.0-only,Données et contenu,Gestion de contenu web,Version 5.3.2 utilisée sur etalab.gouv.fr,MIMO,
 163,Outil de gestion des dépendances,Yarn,2018 ; 2019 ; 2020,O,,,Q28975591,177,BSD-2-Clause,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,1.21.0
@@ -181,8 +181,11 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 182,Environnement de développement intégré (IDE) pour le langage de programmation R.,RStudio,2020,R,,,Q4798119,366,AGPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,En version 1.2 à l'ANCT,MIMDEV,
 183,Outil d'entraînement à la sécurité d'applications,Remediate The Flag,2020,R,,,,367,Apache-2.0,Conception & développement,Qualité et sécurité du code source,,MIMDEV,
 184,Système de gestion de base de données,Redis,2020,R,,,Q2136322,365,BSD-3-Clause,Données et contenu,Gestionnaire de données non relationnelles,En version 5.0.7 à Sorbonne université,MIMPROD,
-185,Système d'aide à l'archivage de fichiers,Archifiltre,2020,R,,,Q77064547,368,MIT,Espace utilisateur et canal,Outil de productivité,En version 2.0.x aux ministères sociaux,MIMO,
+185,Système d'aide à l'archivage de fichiers,Archifiltre,2020,R,,,Q77064547,368,MIT,Espace utilisateur et canal,Outil de productivité,En version 2.0.x aux ministères sociaux,MIMO,2.0.x
 186,Outil de création de diagrammes,Dia,2018,FR,,,Q958908,66,GPL-2.0,Espace utilisateur et canal,Outil de productivité,,MIMO,
 187,Supervision Infrastructure et composants,Prometheus,2020,O,,,,,Apache-2.0,Opérations,Supervision / Hypervision,,MIMPROD,2.5
 188,Supervision Infrastructure et composants,Grafana,2020,O,,,Q43399271,,Apache-2.0,Opérations,Supervision / Hypervision,,MIMPROD,6.x
 189,Stockage objet,OpenIO,2019 ; 2020,,,,Q30348631,,AGPL-3,Stockage,Sauvegarde Serveur,,MIMPROD,19.10
+190,Correction terminologique à partir de la base FranceTerme,Correcteur terminologique fr (FranceTerme),2018 ; 2019 ; 2020,R,LibreOffice,,,,LGPL-2.1,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.7
+191,Télédéploiement et télédiffusion des composants techniques et métiers sur les postes de travail Windows/Linux/Mac,Pulse,2020,O,GLPI,,,,GPL-2.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,4
+192,Module Kanban,ProjeQtOr,2020,O,,,Q17501773,,AGPL-3,Espace utilisateur et canal,Outil de productivité,,MIMO,8.3
