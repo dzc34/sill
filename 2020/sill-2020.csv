@@ -104,8 +104,7 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 103,Lecteur de fichiers OpenDocument,OpenDocument Reader,2018 ; 2019 ; 2020,R,,,,290,GPL-3.0-or-later,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.3.2
 104,Environnement de développement,OpenJDK,2018 ; 2019 ; 2020,R,,,Q1461054,173,GPL-2.0,Conception & Développement,Environnement d'exécution,,MIMDEV,11
 105,Annuaire,OpenLdap,2018 ; 2019 ; 2020,R,,,Q682918,98,,Sécurité,Authentification,Serveur Bureautique,MIMPROD,2.4
-106,Annuaire,OpenLdap,2019 ; 2020,O,,,Q682918,98,,Sécurité,Authentification,Serveur Bureautique,MIMPROD,
-107,Virtualisation de serveurs,OpenNebula,2018 ; 2019 ; 2020,R,,,Q1164484,222,,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,Infra virtuelle,MIMPROD,5.6
+107,Virtualisation de serveurs,OpenNebula,2018 ; 2019 ; 2020,R,,,Q1164484,222,,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,Infra virtuelle,MIMPROD,5.10
 108,IaaS – 2,OpenStack,2018 ; 2019 ; 2020,R,,,Q1470293,221,,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,Infonuage,MIMPROD,0
 109,Haute Disponibilté,Pacemaker,2018 ; 2019 ; 2020,R,,,,236,GPL-2.0,Logiciel Système et Virtualisation,Haute disponibilité (OS),Infra virtuelle,MIMPROD,Distribution
 110,Déploiement,Packer,2018 ; 2019 ; 2020,O,,,,228,,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
@@ -184,3 +183,6 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 184,Système de gestion de base de données,Redis,2020,R,,,Q2136322,365,BSD-3-Clause,Données et contenu,Gestionnaire de données non relationnelles,En version 5.0.7 à Sorbonne université,MIMPROD,
 185,Système d'aide à l'archivage de fichiers,Archifiltre,2020,R,,,Q77064547,368,MIT,Espace utilisateur et canal,Outil de productivité,En version 2.0.x aux ministères sociaux,MIMO,
 186,Outil de création de diagrammes,Dia,2018,FR,,,Q958908,66,GPL-2.0,Espace utilisateur et canal,Outil de productivité,,MIMO,
+187,Supervision Infrastructure et composants,Prometheus,2020,O,,,,,Apache-2.0,Opérations,Supervision / Hypervision,,MIMPROD,2.5
+188,Supervision Infrastructure et composants,Grafana,2020,O,,,Q43399271,,Apache-2.0,Opérations,Supervision / Hypervision,,MIMPROD,6.x
+189,Stockage objet,OpenIO,2019 ; 2020,,,,Q30348631,,AGPL-3,Stockage,Sauvegarde Serveur,,MIMPROD,19.10
