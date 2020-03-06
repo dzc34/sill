@@ -168,7 +168,7 @@ ID,nom,fonction,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 169,Squash TF Execution Server,Automatisation des tests,2020,R,Squash TF,,,189,LGPL-3.0-only,Conception & Développement,Test & Intégration,,MIMDEV,1.21.0
 170,Squash KeywordFramework,Automatisation des tests,2020,R,Squash TF,,,189,LGPL-3.0-only,Conception & Développement,Test & Intégration,,MIMDEV,1.21.0
 171,SOGo,Outil de webmail,2020,R,,68,Q1523357,139,GPL-3.0-only,Espace utilisateur et canal,Messagerie agenda contacts,,MIMO,
-172,Zammad,Application web pour la gestion du support,2020,R,,54,Q71389626,355,AGPL-3.0,Espace utilisateur et canal,Outil de productivité,En version 3.1 à la DINUM (Etalab),MIMO,
+172,Zammad,Application web pour la gestion du support,2020,O,,54,Q71389626,355,AGPL-3.0,Espace utilisateur et canal,Outil de productivité,En version 3.1 à la DINUM (Etalab),MIMO,
 173,Jekyll,Outil de génération de sites statiques,2020,R,,36,Q17067385,356,MIT,Données et contenu,Gestion de contenu web,En version 3.1.2 à la DINUM (Etalab),MIMO,
 174,GNU Emacs,Éditeur de textes,2020,R,,97,Q189722,,GPL-3.0-or-later,Espace utilisateur et canal,Consultation et édition de documents,En version 26.3 à la DINUM (Etalab),MIMO,
 175,Cachet,Outil de monitoring de service,2020,O,,,,357,BSD-3-Clause,Conception & Développement,Test & Intégration,En version 2.3.18 à la DINUM (Etalab),MIMO,
