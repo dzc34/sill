@@ -25,7 +25,6 @@ dépôt](https://github.com/etalab/sillweb).
 | secteur        | Description du secteur            | Conception & Développement  | Valeur obligatoire |
 | composant      | Description du composant          | Test & Intégration          | Valeur obligatoire |
 | annees         | Année(s) de présence dans le SILL | 2018 ; 2019                 | Valeur obligatoire |
-|----------------|-----------------------------------|-----------------------------|--------------------|
 | fonction       | Fonctionnalité du logiciel        | Outil de traitement d'image | Valeur optionnelle |
 | contexte-usage | Cas d'usage du logiciel           | https://                    | Valeur optionnelle |
 | parent         | Logiciel parent                   | LibreOffice                 | Valeur optionnelle |
