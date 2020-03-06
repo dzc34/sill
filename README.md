@@ -5,7 +5,9 @@ Logiciels Libres en HTML et le suivi des logiciels référencés : mise à
 jour des informations, entrées et sorties du Socle Interministériel de
 Logiciels Libres.
 
-Voir [le site](https://disic.github.io/sill/).
+Voir [ce site qui expose les données du
+SILL](https://sill.etalab.gouv.fr) et [ce site qui explique le
+fonctionnement des groupes](https://disic.github.io/sill/).
 
 L'interface d'affichage du SILL est développée [sur ce
 dépôt](https://github.com/etalab/sillweb).
