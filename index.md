@@ -1,15 +1,15 @@
 
 # Table des matières
 
--   [Le SILL 2019](#orgeabb80e)
--   [Les communautés qui construisent le SILL](#orgbb44e1e)
--   [Les documents de construction du SILL 2020](#org0e5223e)
--   [Les critères d’entrée d’un logiciel dans le SILL](#org64ebdc0)
--   [Comment ajouter un logiciel libre dans le SILL ?](#orgd563cec)
--   [Que signifie être « référent » d’un logiciel ?](#org7815634)
--   [Présentations partagées dans les groupes MIM](#org96d9850)
--   [Le mouvement `#BlueHats`](#org651a7ec)
--   [Licence du SILL et de ce dépôt](#orgee4b9fc)
+-   [Le SILL 2020](#org6781621)
+-   [Le SILL 2019](#org088f917)
+-   [Les communautés qui construisent le SILL : groupes MIM](#org5fe0c20)
+-   [Les critères d’entrée d’un logiciel dans le SILL](#orgb2d72ab)
+-   [Comment ajouter un logiciel libre dans le SILL ?](#orgd450e9f)
+-   [Que signifie être « référent » d’un logiciel ?](#org9f709d7)
+-   [Présentations partagées dans les groupes MIM](#org0017ddc)
+-   [Le mouvement `#BlueHats`](#orgd01e60b)
+-   [Licence du SILL et de ce dépôt](#org510ae68)
 
 Le socle interministériel de logiciels libres (SILL) est le catalogue
 de référence des logiciels libres recommandés par l’Etat.
@@ -27,50 +27,18 @@ Pour toute question, écrire à [bastien.guerry@data.gouv.fr](mailto:bastien.gue
 des groupes MIM.
 
 
-<a id="orgeabb80e"></a>
+<a id="org6781621"></a>
 
-# Le SILL 2019
+# Le SILL 2020
 
-Voici toutes les versions du SILL 2019 :
-
--   Version [HTML](2019/)
--   Version [PDF](2019/sill-2019.pdf) et [ODT](2019/sill-2019.odt)
--   Version [ODS](2019/sill-2019.ods) et [CSV](2019/sill-2019.csv)
-
-Vous pouvez voir la liste des changements depuis 2018 ([ODT](2019/sill-diff-2018-2019.odt) et [PDF](2019/sill-diff-2018-2019.pdf)).
-
-Vous pouvez [télécharger l'installateur de LibreOffice MIMO](ftp://eoleng.ac-dijon.fr/SILL2019/).
+Le SILL 2020 est en préparation sur le site [sill.etalab.gouv.fr](https://sill.etalab.gouv.fr).
 
 
-<a id="orgbb44e1e"></a>
-
-# Les communautés qui construisent le SILL
-
-Le SILL est rédigé par trois groupes :
-
--   [le groupe MIMO](https://www.mim-libre.fr/mimo/) se consacre aux outils de bureautique ;
--   [le groupe MIMDEV](https://www.mim-libre.fr/mimdev-outils-de-developpements/) se consacre aux outils de développement ;
--   [le groupe MIMPROD](https://www.mim-libre.fr/mimprod-outils-de-production/) se consacre aux outils de mise en production.
-
-Le préfixe "MIM" signifie "Mutualisation interministérielle".
-
-Chaque groupe se réunit en présentiel et échange régulièrement par
-email ; un groupe « noyau » assure la coordination de l'ensemble.
-
-Pour demander à participer aux échanges des groupes :
-
--   s’inscrire sur [la liste MIMDEV](https://listes.etalab.gouv.fr/listinfo/mimdev) ;
--   s’inscrire sur [la liste MIMO](https://listes.etalab.gouv.fr/listinfo/mimo) ;
--   s’inscrire sur [la liste MIMPROD](https://listes.etalab.gouv.fr/listinfo/mimprod) ;
-
-
-<a id="org0e5223e"></a>
-
-# Les documents de construction du SILL 2020
+## Les documents de construction du SILL 2020
 
 Les documents de construction du SILL 2020 sont disponibles via
-l'espace de partage <https://groupes.mim-libre.fr>.  Si vous êtes référent,
-vous pouvez obtenir un compte sur cet espace.
+l'espace de partage <https://groupes.mim-libre.fr>.  Si vous êtes
+référent, vous pouvez obtenir un compte sur cet espace.
 
 Une fois connecté sur cet espace, les documents de préparations sont
 accessibles ici :
@@ -80,11 +48,41 @@ accessibles ici :
 -   [MIMPROD](https://calc.mim-libre.fr/MIMPROD/edit)
 
 Le [dépôt SILL](https://github.com/DISIC/sill/) contient aussi [un fichier csv pour le SILL 2020](https://github.com/DISIC/sill/blob/master/2020/sill-2020.csv) dans
-lequel sont régulièrement consolidées les contributions faites sur
-ces documents privés.
+lequel sont régulièrement consolidées les contributions faites sur ces
+documents privés.
 
 
-<a id="org64ebdc0"></a>
+<a id="org088f917"></a>
+
+# Le SILL 2019
+
+Le SILL 2019 est disponible en [HTML](2019/), [PDF](2019/sill-2019.pdf), [ODT](2019/sill-2019.odt), [ODS](2019/sill-2019.ods) et [CSV](2019/sill-2019.csv).
+
+Vous pouvez voir la liste des changements depuis 2018 ([ODT](2019/sill-diff-2018-2019.odt) et [PDF](2019/sill-diff-2018-2019.pdf)).
+
+Vous pouvez [télécharger l'installateur de LibreOffice MIMO](ftp://eoleng.ac-dijon.fr/SILL2019/).
+
+
+<a id="org5fe0c20"></a>
+
+# Les communautés qui construisent le SILL : groupes MIM
+
+Le préfixe "MIM" signifie "Mutualisation interministérielle".
+
+Le SILL est rédigé par deux groupes : le groupe **MIMO** qui se consacre
+aux outils de bureautique et le groupe MIMDEVOPS dédié aux outils de
+développement et de production.
+
+Chaque groupe se réunit en présentiel et échange régulièrement par
+email ; un groupe « noyau » assure la coordination de l'ensemble.
+
+Pour demander à participer aux échanges des groupes :
+
+-   s’inscrire sur [la liste MIMO](https://listes.etalab.gouv.fr/listinfo/mimo) ;
+-   s’inscrire sur [la liste MIMDEVOPS](https://listes.etalab.gouv.fr/listinfo/mim-devops).
+
+
+<a id="orgb2d72ab"></a>
 
 # Les critères d’entrée d’un logiciel dans le SILL
 
@@ -132,7 +130,7 @@ exécutable.
     du logiciel a **publié des informations sur cet usage**.
 
 
-<a id="orgd563cec"></a>
+<a id="orgd450e9f"></a>
 
 # Comment ajouter un logiciel libre dans le SILL ?
 
@@ -143,7 +141,7 @@ Pour proposer un nouveau logiciel en vue du SILL 2020, vous pouvez
 public se porte volontaire pour en être le *référent* (voir ci-dessous.)
 
 
-<a id="org7815634"></a>
+<a id="org9f709d7"></a>
 
 # Que signifie être « référent » d’un logiciel ?
 
@@ -180,7 +178,7 @@ dont il connaît l’usage au sein de son administration.
 -   obligé de publier son identité.
 
 
-<a id="org96d9850"></a>
+<a id="org0017ddc"></a>
 
 # Présentations partagées dans les groupes MIM
 
@@ -190,7 +188,7 @@ dont il connaît l’usage au sein de son administration.
 -   27/11/2019 (MIMO) : [Nextcloud - Le cloud alternatif aux GAFAM](https://speakerdeck.com/bluehats/nextcloud-le-cloud-alternatif-aux-gafam)
 
 
-<a id="org651a7ec"></a>
+<a id="orgd01e60b"></a>
 
 # Le mouvement `#BlueHats`
 
@@ -202,7 +200,7 @@ Vous pouvez retrouver [la gazette #BlueHats](https://github.com/DISIC/gazette-bl
 y inscrire](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio) et voir la [documentation sur les événements #BlueHats](https://github.com/DISIC/evenements-bluehats).
 
 
-<a id="orgee4b9fc"></a>
+<a id="org510ae68"></a>
 
 # Licence du SILL et de ce dépôt
 

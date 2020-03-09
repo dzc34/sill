@@ -16,42 +16,15 @@ Pour toute question, écrire à [[mailto:bastien.guerry@data.gouv.fr][bastien.gu
 [[mailto:mim-noyau@listes.etalab.gouv.fr][mim-noyau@listes.etalab.gouv.fr]] pour contacter l'équipe d'animation
 des groupes MIM.
 
-* Le SILL 2019
+* Le SILL 2020
 
-Voici toutes les versions du SILL 2019 :
+Le SILL 2020 est en préparation sur le site [[https://sill.etalab.gouv.fr][sill.etalab.gouv.fr]].
 
-- Version [[file:2019/][HTML]]
-- Version [[file:2019/sill-2019.pdf][PDF]] et [[file:2019/sill-2019.odt][ODT]]
-- Version [[file:2019/sill-2019.ods][ODS]] et [[file:2019/sill-2019.csv][CSV]]
-
-Vous pouvez voir la liste des changements depuis 2018 ([[file:2019/sill-diff-2018-2019.odt][ODT]] et [[file:2019/sill-diff-2018-2019.pdf][PDF]]).
-
-Vous pouvez [[ftp://eoleng.ac-dijon.fr/SILL2019/][télécharger l'installateur de LibreOffice MIMO]].
-
-* Les communautés qui construisent le SILL
-
-Le SILL est rédigé par trois groupes :
-
-- [[https://www.mim-libre.fr/mimo/][le groupe MIMO]] se consacre aux outils de bureautique ;
-- [[https://www.mim-libre.fr/mimdev-outils-de-developpements/][le groupe MIMDEV]] se consacre aux outils de développement ;
-- [[https://www.mim-libre.fr/mimprod-outils-de-production/][le groupe MIMPROD]] se consacre aux outils de mise en production.
-
-Le préfixe "MIM" signifie "Mutualisation interministérielle".
-
-Chaque groupe se réunit en présentiel et échange régulièrement par
-email ; un groupe « noyau » assure la coordination de l'ensemble.
-
-Pour demander à participer aux échanges des groupes :
-
-- s’inscrire sur [[https://listes.etalab.gouv.fr/listinfo/mimdev][la liste MIMDEV]] ;
-- s’inscrire sur [[https://listes.etalab.gouv.fr/listinfo/mimo][la liste MIMO]] ;
-- s’inscrire sur [[https://listes.etalab.gouv.fr/listinfo/mimprod][la liste MIMPROD]] ;
-
-* Les documents de construction du SILL 2020
+** Les documents de construction du SILL 2020
 
 Les documents de construction du SILL 2020 sont disponibles via
-l'espace de partage https://groupes.mim-libre.fr.  Si vous êtes référent,
-vous pouvez obtenir un compte sur cet espace.
+l'espace de partage https://groupes.mim-libre.fr.  Si vous êtes
+référent, vous pouvez obtenir un compte sur cet espace.
 
 Une fois connecté sur cet espace, les documents de préparations sont
 accessibles ici :
@@ -61,8 +34,32 @@ accessibles ici :
 - [[https://calc.mim-libre.fr/MIMPROD/edit][MIMPROD]]
 
 Le [[https://github.com/DISIC/sill/][dépôt SILL]] contient aussi [[https://github.com/DISIC/sill/blob/master/2020/sill-2020.csv][un fichier csv pour le SILL 2020]] dans
-lequel sont régulièrement consolidées les contributions faites sur
-ces documents privés.
+lequel sont régulièrement consolidées les contributions faites sur ces
+documents privés.
+
+* Le SILL 2019
+
+Le SILL 2019 est disponible en [[file:2019/][HTML]], [[file:2019/sill-2019.pdf][PDF]], [[file:2019/sill-2019.odt][ODT]], [[file:2019/sill-2019.ods][ODS]] et [[file:2019/sill-2019.csv][CSV]].
+
+Vous pouvez voir la liste des changements depuis 2018 ([[file:2019/sill-diff-2018-2019.odt][ODT]] et [[file:2019/sill-diff-2018-2019.pdf][PDF]]).
+
+Vous pouvez [[ftp://eoleng.ac-dijon.fr/SILL2019/][télécharger l'installateur de LibreOffice MIMO]].
+
+* Les communautés qui construisent le SILL : groupes MIM
+
+Le préfixe "MIM" signifie "Mutualisation interministérielle".
+
+Le SILL est rédigé par deux groupes : le groupe *MIMO* qui se consacre
+aux outils de bureautique et le groupe MIMDEVOPS dédié aux outils de
+développement et de production.
+
+Chaque groupe se réunit en présentiel et échange régulièrement par
+email ; un groupe « noyau » assure la coordination de l'ensemble.
+
+Pour demander à participer aux échanges des groupes :
+
+- s’inscrire sur [[https://listes.etalab.gouv.fr/listinfo/mimo][la liste MIMO]] ;
+- s’inscrire sur [[https://listes.etalab.gouv.fr/listinfo/mim-devops][la liste MIMDEVOPS]].
 
 * Les critères d’entrée d’un logiciel dans le SILL
 
