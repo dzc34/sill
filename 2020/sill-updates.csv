@@ -8,3 +8,4 @@ Ajout,Redis,184,5.0.7,Ajout de Redis en version 5.0.7.,<2020-02-14 ven.>
 Ajout,Archifiltre,185,2.0.x,Ajout d'Archifiltre en version 2.0.x.,<2020-02-18 mar.>
 Suppression,MongoDB,88,,"Suppression de MongoDB, licence non approuvée par OSI/FSF",<2020-02-18 mar.>
 Ajout,OpenShot,193,2.4.3,"Ajout d'OpenShot, logiciel d'édition de vidéos",<2020-03-11 mer.>
+Mise à jour,Keycloak,73,,Passage en recommandé,<2020-03-11 mer.>
