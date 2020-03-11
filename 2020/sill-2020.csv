@@ -45,7 +45,7 @@ ID,nom,fonction,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 44,Fitnesse,Outil d'injection afin tester les couches basses,2018 ; 2019 ; 2020,FR,,,,184,,Conception & Développement,Test & Intégration,,MIMDEV,20161106
 45,Framadate (logiciel),Sondage pour trouver des dates communes,2019 ; 2020,O,,,,284,,Espace utilisateur et canal,Messagerie agenda contacts,Utilisation expérimentale sur yunohost.etalab.studio/date/,MIMO,
 46,Nagios,Application permettant la surveillance système et réseau,2018,FR,,,Q1134360,209,GPL-3.0,Opérations,Outils système & virtualisation,,MIMDEV,
-47,FreeFileSync,Synchronisation Sauvegarde,2018 ; 2019 ; 2020,R,,,Q18150468,52,GPL-3.0,Opérations,Synchronisation réplication déduplication,,MIMO,10.19
+47,FreeFileSync,Synchronisation Sauvegarde,2018 ; 2019 ; 2020,R,,,Q18150468,52,GPL-3.0,Opérations,Synchronisation réplication déduplication,,MIMO,10.20
 48,Freeplane,Grapheur d'idées,2018 ; 2019 ; 2020,R,,,Q3028675,61,GPL-2.0-only,Espace utilisateur et canal,Outil de productivité,,MIMO,1.7
 49,FusionInventory,"Inventaire, télédéploiement et découverte du réseau",2018 ; 2019 ; 2020,O,GLPI,,,84,AGPL-3.0-or-later,Opérations,Déploiement gestion d’actif et de configuration,Gestion parc,MIMO,9.1+1.4
 50,Waarp,Gestion des transferts de fichiers dans un contexte de production et sécurisé,2018,FR,,,,231,GPL-3.0,Conception & Développement,Partage de fichiers,,MIMPROD,
