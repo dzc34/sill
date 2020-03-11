@@ -13,7 +13,7 @@ ID,nom,fonction,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 12,Asqatasun,Vérification de la conformité de l'application aux règles d'accessibilité,2018 ; 2019 ; 2020,O,,,Q24026504,9,AGPL-3.0,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,Docker
 13,Assistant RGAA,Vérification de la conformité de l'application aux règles d'accessibilité,2020,O,,,,,,Conception & Développement,Qualité et sécurité du code source,Poste de travail des agents impliqués dans le cycle de vie d’une application utilisée via un navigateur web,MIMDEV,1.0.4
 14,Audacity,Enregistrement et édition de sons,2018 ; 2019 ; 2020,R,,,Q191782,69,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,Enregistrement et édition de sons,MIMO,2.1
-15,Avidemux,Convertisseur de formats vidéo,2018 ; 2019 ; 2020,O,,,Q790931,70,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2.7.4
+15,Avidemux,Logiciel d'édition de vidéo,2018 ; 2019 ; 2020,O,,193,Q790931,70,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2.7.4
 16,Bareos,Sauvegadre Serveurs,2018 ; 2019 ; 2020,R,,,Q25387280,243,,Sauvegarde,Sauvegarde Serveur,Services déconcentrés,MIMPROD,Distribution
 17,GLPI Behaviors (Comportements),Options de configuration supplémentaires,2018 ; 2019 ; 2020,R,GLPI,,,95,AGPL-3.0-or-later,Opérations,Déploiement gestion d’actif et de configuration,Gestion des tickets,MIMO,2.1.4
 18,BlueGriffon,Éditeur HTML,2018 ; 2019 ; 2020,R,,,Q885580,58,"LGPL-3.0, GPL-3.0, MPL-2.0",Espace utilisateur et canal,Consultation et édition de documents,,MIMO,3.1
@@ -189,3 +189,4 @@ ID,nom,fonction,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 190,Correcteur terminologique fr (FranceTerme),Correction terminologique à partir de la base FranceTerme,2018 ; 2019 ; 2020,R,LibreOffice,,,,LGPL-2.1,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.7
 191,Pulse,Télédéploiement et télédiffusion des composants techniques et métiers sur les postes de travail Windows/Linux/Mac,2020,O,GLPI,,,377,GPL-2.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,4
 192,ProjeQtOr,Module Kanban,2020,O,,,Q17501773,375,AGPL-3,Espace utilisateur et canal,Outil de productivité,,MIMO,8.3
+193,OpenShot,Logiciel d'édition de vidéos,2020,R,,15,Q769346,,GPL-3,Espace utilisateur et canal,Outil de productivité,http://numeriques.spip.ac-rouen.fr/?Openshot,MIMO,2.4.3
