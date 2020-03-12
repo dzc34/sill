@@ -83,7 +83,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 82,Logstash,Gestion des logs en mode centralisé,2018 ; 2019 ; 2020,R,,,,Q17620247,203,Apache-2.0,Sécurité,Gestion des logs,Serveur Bureautique,MIMPROD,6.x
 83,Mantis BT,Outil de remontée de bug,2018 ; 2019 ; 2020,R,,,,,174,,Conception & Développement,Gestion des Anomalies,,MIMDEV,1.X
 84,MariaDB,Base transactionnelle cluster,2018 ; 2019 ; 2020,R,,,,Q787177,206,,Données et contenu,Bd Relationnelles,Base de production,MIMPROD,10.3
-85,Mastodon,Microblogue,2019 ; 2020,R,,,,Q27986619,283,,Orchestration et logique métier,Outil collaboratif,Version 3.0.1 utilisée pour mastodon.etalab.gouv.fr,MIMO,3.0.1
+85,Mastodon,Microblogue,2019 ; 2020,R,,,,Q27986619,283,,Orchestration et logique métier,Outil collaboratif,[mastodon.etalab.gouv.fr](https://mastodon.etalab.gouv.fr),MIMO,3.0.1
 86,MediaWiki,Wiki,2018 ; 2019 ; 2020,R,,,,Q83,122,,Orchestration et logique métier,Outil collaboratif,,MIMO,
 87,Mobile,Affichage de GLPI pour terminaux mobiles et tablettes,2018 ; 2019 ; 2020,O,GLPI,,,,,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion parc,MIMO,1.1.6
 88,MongoDB,Base de données NoSQL,2018 ; 2019,R,,,,Q1165204,208,,Données et contenu,Gestionnaire de données non relationnelles,,MIMPROD,
