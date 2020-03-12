@@ -15,7 +15,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 14,Audacity,Enregistrement et édition de sons,2018 ; 2019 ; 2020,R,,,,Q191782,69,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,Enregistrement et édition de sons,MIMO,2.1
 15,Avidemux,Logiciel d'édition de vidéo,2018 ; 2019 ; 2020,O,,,193,Q790931,70,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2.7.4
 16,Bareos,Sauvegadre Serveurs,2018 ; 2019 ; 2020,R,,,,Q25387280,243,,Sauvegarde,Sauvegarde Serveur,Services déconcentrés,MIMPROD,Distribution
-17,GLPI Behaviors (Comportements),Options de configuration supplémentaires,2018 ; 2019 ; 2020,R,GLPI,,,,95,AGPL-3.0-or-later,Opérations,Déploiement gestion d’actif et de configuration,Gestion des tickets,MIMO,2.1.4
+17,Behaviors (Comportements),Options de configuration supplémentaires,2018 ; 2019 ; 2020,R,GLPI,,,,95,AGPL-3.0-or-later,Opérations,Déploiement gestion d’actif et de configuration,Gestion des tickets,MIMO,2.1.4
 18,BlueGriffon,Éditeur HTML,2018 ; 2019 ; 2020,R,,,,Q885580,58,"LGPL-3.0, GPL-3.0, MPL-2.0",Espace utilisateur et canal,Consultation et édition de documents,,MIMO,3.1
 19,CentOS,Distribution GNU/LINUX,2018 ; 2019 ; 2020,R,,,,Q207542,239,,Logiciel Système et Virtualisation,Système d'Exploitation,En centre de production,MIMPROD,7.6
 20,Centreon,Supervision Infrastructure,2018 ; 2019 ; 2020,R,,,,Q2946121,210,,Opérations,Supervision / Hypervision,Infra virtuelle,MIMPROD,2.8
@@ -27,7 +27,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 26,Consul,Déploiement,2018 ; 2019 ; 2020,O,,,,,317,,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
 27,Corosync,Haute Disponibilté,2018 ; 2019 ; 2020,R,,,,,235,BSD-3-Clause,Logiciel Système et Virtualisation,Haute disponibilité (OS),Infra virtuelle,MIMPROD,Distribution
 28,CUPS,Serveur d'impression,2018 ; 2019 ; 2020,R,,,,Q868171,217,,Intégration & Échanges,Serveur d'impression,Services déconcentrés,MIMPROD,Distribution
-29,Data Injection,Injection de données dans GLPI à l'aide de fichiers CSV,2018 ; 2019 ; 2020,R,GLPI,,,,92,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,GLPI,MIMO,2.6.4
+29,Data Injection,Injection de données dans GLPI à l'aide de fichiers CSV,2018 ; 2019 ; 2020,R,GLPI,,,,92,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,2.6.4
 30,DBAN (Darik's Boot and Nuke),Effacement complet de tous les supports magnétiques d’une machine.,2018 ; 2019 ; 2020,O,,,,Q1165893,81,GPL-2.0-only / LGPL-2.0-only,Données et contenu,Gestion des accès aux données,,MIMO,2.3.0
 31,DbFit,Outil d'injection afin tester les couches basses,2018 ; 2019 ; 2020,FR,,,,,185,,Conception & Développement,Test & Intégration,,MIMDEV,3.2.0
 32,Debian,Distribution GNU/LINUX,2018 ; 2019 ; 2020,R,,,,Q7715973,241,,Logiciel Système et Virtualisation,Système d'Exploitation,En centre de production,MIMPROD,9
@@ -40,7 +40,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 39,Elasticsearch,Indexation et recherche plein texte,2018 ; 2019 ; 2020,R,,,,Q3050461,201,,Données et contenu,Moteur de recherche,En mode cluster,MIMPROD,6.x
 40,EOLE AMON,Pare-feu réseau et web,2018 ; 2019 ; 2020,R,,,,,234,,Réseau,Pare-feu – Réseau,Services déconcentrés,MIMPROD,2.7
 41,EOLE (Ubuntu),Distribution GNU/LINUX,2018 ; 2019 ; 2020,R,,,,Q3046024,240,,Logiciel Système et Virtualisation,Système d'Exploitation,Services déconcentrés,MIMPROD,2.7
-42,GLPI Escalation,Escalade de tickets,2018 ; 2019 ; 2020,O,GLPI,,,,296,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion des tickets,MIMO,0.90+1.2
+42,Escalation,Escalade de tickets,2018 ; 2019 ; 2020,O,GLPI,,,,296,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion des tickets,MIMO,0.90+1.2
 43,Filezilla,Client FTP,2018 ; 2019 ; 2020,R,,,,Q300662,64,GPL-2.0,Données et contenu,Gestion des accès aux données,Client FTP,MIMO,3.28
 44,Fitnesse,Outil d'injection afin tester les couches basses,2018 ; 2019 ; 2020,FR,,,,,184,,Conception & Développement,Test & Intégration,,MIMDEV,20161106
 45,Framadate (logiciel),Sondage pour trouver des dates communes,2019 ; 2020,O,,,,,284,,Espace utilisateur et canal,Messagerie agenda contacts,Utilisation expérimentale sur yunohost.etalab.studio/date/,MIMO,
@@ -53,7 +53,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 52,Git,Outil de gestion des configurations (serveur),2018 ; 2019 ; 2020,R,,,,Q186055,175,GPL-2.0,Conception & Développement,Gestion du code source,,MIMDEV,Dernière
 53,GitLab Community Edition,Plateforme de développement,2018 ; 2019 ; 2020,R,,,,Q16639197,198,,Orchestration & logique métier,Outil collaboratif,,MIMDEV,11.X
 54,GLPI,Gestion de parc et suivi d'incidents,2018 ; 2019 ; 2020,R,,,172,Q3104570,35,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,9.3.4
-55,GLPI,Plugin GLPI-Survey (questionnaire),2019 ; 2020,O,GLPI,,,Q3104570,,AGPL-3.0-or-later,Opérations,Service level management,Gestion de parc,MIMO,9.3.1.0
+55,Survey (questionnaire),Gestion de questionnaires pour GLPI,2019 ; 2020,O,GLPI,,,Q3104570,,AGPL-3.0-or-later,Opérations,Service level management,Gestion de parc,MIMO,9.3.1.0
 56,Grammalecte,Correction grammaticale,2018 ; 2019 ; 2020,R,LibreOffice,,,,79,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.7
 57,Grammalecte,Correction grammaticale,2018 ; 2019 ; 2020,R,Firefox,,,Q17629243,79,GPL-3.0,Espace utilisateur et canal,Navigateur web,,MIMO,1.7
 58,GreenShot,Capture d'écran,2018 ; 2019 ; 2020,R,,,,Q1544791,56,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.2.10
@@ -119,7 +119,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 120,Qgis,Système d’information géographique,2018 ; 2019 ; 2020,R,,,,Q1329181,60,GPL-2.0-only,Orchestration et logique métier,Moteur SIG,,MIMO,3.10
 121,Qwant (extension de recherche),Plugin pour l'ajout du moteur de recherche Qwant,2018 ; 2019 ; 2020,R,Firefox,,,,,X11,Espace utilisateur et canal,Navigateur web,,MIMO,5
 122,Redmine,Portail de gestion de projet,2018 ; 2019 ; 2020,R,,,,Q1149365,197,,Orchestration & logique métier,Outil collaboratif,,MIMDEV,3.X
-123,Reports (rapports),Rapports supplémentaires à ceux inclus dans GLPI,2018 ; 2019 ; 2020,R,GLPI,,,,298,AGPL-3.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,1.12.1
+123,Reports (rapports),Rapports supplémentaires à ceux inclus par défaut dans GLPI,2018 ; 2019 ; 2020,R,GLPI,,,,298,AGPL-3.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,1.12.1
 124,Rocketchat,Messagerie instantanée,2018 ; 2019 ; 2020,R,,,,Q24050001,200,,Espace utilisateur et canal,Messagerie agenda contacts,,MIMO,
 125,Rundeck,Orchestration,2018 ; 2019 ; 2020,O,,,,,229,,Opérations,Outils système & virtualisation,Conteneurs,MIMPROD,Distribution
 126,SaltStack,Déploiement,2018 ; 2019 ; 2020,R,,,,Q7405800,224,,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
