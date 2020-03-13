@@ -42,7 +42,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 41,EOLE (Ubuntu),Distribution GNU/LINUX,2018 ; 2019 ; 2020,R,,,,Q3046024,240,,Logiciel Système et Virtualisation,Système d'Exploitation,Services déconcentrés,MIMPROD,2.7
 42,Escalation,Escalade de tickets,2018 ; 2019 ; 2020,O,GLPI,,,,296,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion des tickets,MIMO,0.90+1.2
 43,Filezilla,Client FTP,2018 ; 2019 ; 2020,R,,,,Q300662,64,GPL-2.0,Données et contenu,Gestion des accès aux données,Client FTP,MIMO,3.28
-44,Fitnesse,Outil d'injection afin tester les couches basses,2018 ; 2019 ; 2020,FR,,,,,184,,Conception & Développement,Test & Intégration,,MIMDEV,20161106
+44,Fitnesse,Outil d'injection afin tester les couches basses,2018 ; 2019 ; 2020,FR,,,,,184,CPL-1.0,Conception & Développement,Test & Intégration,,MIMDEV,20161106
 45,Framadate (logiciel),Sondage pour trouver des dates communes,2019 ; 2020,O,,,,,284,CECILL-B,Espace utilisateur et canal,Messagerie agenda contacts,Utilisation expérimentale sur yunohost.etalab.studio/date/,MIMO,
 46,Nagios,Application permettant la surveillance système et réseau,2018,FR,,,,Q1134360,209,GPL-3.0,Opérations,Outils système & virtualisation,,MIMDEV,
 47,FreeFileSync,Synchronisation Sauvegarde,2018 ; 2019 ; 2020,R,,,,Q18150468,52,GPL-3.0,Opérations,Synchronisation réplication déduplication,,MIMO,10.20
@@ -92,7 +92,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 91,MuPDF,Outil de visualisation de PDF,2018 ; 2019 ; 2020,R,,,,Q6930567,291,AGPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,
 92,NAPS2,Outil de scan de PDF,2020,R,,,,,351,GPL-2.0-only,Espace utilisateur et canal,Outil de productivité,,MIMO,5.8.2
 93,NextCloud,Partage de fichiers,2019 ; 2020,R,,,,Q25874683,117,,Orchestration et logique métier,Outil collaboratif,,MIMO,17.0.3
-94,Nexus,Dépôt d'artefacts,2018 ; 2019 ; 2020,R,,,,,178,,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,3.18.1-01
+94,Nexus,Dépôt d'artefacts,2018 ; 2019 ; 2020,R,,,,,178,EPL-1.0,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,3.18.1-01
 95,NGINX,Serveur web et reverse proxy,2018 ; 2019 ; 2020,R,,,,Q306144,213,,Réseau,Serveur Web & Reverse Proxy,Services déconcentrés,MIMPROD,Distribution
 96,NodeJS,Environnement de développement,2018 ; 2019 ; 2020,R,,,,Q756100,238,X11,Conception & Développement,Serveur d'application,,MIMDEV,8
 97,Notepad++,Éditeur de textes,2018 ; 2019 ; 2020,R,,,174,Q2033,55,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,7.8.2
