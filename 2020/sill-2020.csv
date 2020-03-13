@@ -103,7 +103,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 102,OCS Inventory ng,Automatisation de l'import OCS Inventory-NG,2018 ; 2019 ; 2020,R,GLPI,,,,91,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion parc,MIMO,1.5.6
 103,OpenDocument Reader,Lecteur de fichiers OpenDocument,2018 ; 2019 ; 2020,R,,,,,290,GPL-3.0-or-later,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.3.2
 104,OpenJDK,Environnement de développement,2018 ; 2019 ; 2020,R,,,,Q1461054,173,GPL-2.0,Conception & Développement,Environnement d'exécution,,MIMDEV,11
-105,OpenLdap,Annuaire,2018 ; 2019 ; 2020,R,,,,Q682918,98,,Sécurité,Authentification,Serveur Bureautique,MIMPROD,2.4
+105,OpenLdap,Annuaire,2018 ; 2019 ; 2020,R,,,,Q682918,98,OLDAP-2.8,Sécurité,Authentification,Serveur Bureautique,MIMPROD,2.4
 107,OpenNebula,Virtualisation de serveurs,2018 ; 2019 ; 2020,R,,,,Q1164484,222,,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,Infra virtuelle,MIMPROD,5.10
 108,OpenStack,IaaS – 2,2018 ; 2019 ; 2020,R,,,,Q1470293,221,,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,Infonuage,MIMPROD,0
 109,Pacemaker,Haute Disponibilté,2018 ; 2019 ; 2020,R,,,,,236,GPL-2.0,Logiciel Système et Virtualisation,Haute disponibilité (OS),Infra virtuelle,MIMPROD,Distribution
