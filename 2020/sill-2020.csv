@@ -65,7 +65,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 64,Jailer,Génération / Gestion des jeux de données,2018 ; 2019 ; 2020,R,,,,,192,Apache-2.0,Conception & Développement,Test & Intégration,,MIMDEV,9.0
 65,Javamelody,Outil de monitoring,2018 ; 2019 ; 2020,R,,,,,195,Apache-2.0,Conception & Développement,Test & Intégration,,MIMDEV,1.81.0
 66,Jenkins,"Outil d'aide à la livraison (dépôt, intégration continue...)",2018 ; 2019 ; 2020,R,,,,Q7491312,187,MIT,Conception & Développement,Test & Intégration,,MIMDEV,2.x
-67,Jitsi,Webconférence,2018 ; 2019 ; 2020,R,,,,Q58427,65,Apache-2.0,Espace utilisateur et canal,Visiophonie,,MIMO,2.9
+67,Jitsi,Webconférence,2018 ; 2019 ; 2020,R,,,196,Q58427,65,Apache-2.0,Espace utilisateur et canal,Visiophonie,,MIMO,2.9
 68,Roundcube,Webmail,2018,FR,,,171,Q1769269,112,GPL-3.0,Espace utilisateur et canal,Messagerie agenda contacts,,MIMO,
 69,Junit,Outil de gestion des tests unitaires,2018 ; 2019 ; 2020,R,,,,Q847675,183,EPL-1.0,Conception & Développement,Test & Intégration,,MIMDEV,5.3
 70,K-9 Mail,Client de messagerie,2019 ; 2020,O,,,,Q14565723,,Apache-2.0,Espace utilisateur et canal,Messagerie agenda contacts,Client de Messagerie,MIMO,5.600
@@ -192,3 +192,4 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 193,OpenShot,Logiciel d'édition de vidéos,2020,R,,,15,Q769346,379,GPL-3,Espace utilisateur et canal,Outil de productivité,[Site de l'académie de Rouen](http://numeriques.spip.ac-rouen.fr/?Openshot),MIMO,2.4.3
 194,VITAM,Solution d'archivage électronique,2020,R,,Oui,185,,323,CECILL-2.1,Espace utilisateur et canal,Outil de productivité,[www.programmevitam.fr](https://www.programmevitam.fr),MIMO,2.1.18
 195,Opale,Création de module de formation linéaire multi-support,2020,O,,,,Q3475265,380,"MPL-2.0, GPL-3.0, LGPL-3.0, CECILL-2.1",Espace utilisateur et canal,Outil de productivité,"Création de module de formation en ligne avec des ressources interactives, cf. [cet exemple](https://example.scenari.software/Opale@3.7/auroraW).",MIMO,3.7
+196,BigBlueButton,Serveur de visioconférence pour navigateurs WEB en HTML5,2020,R,,,67,Q4904858,,LGPL-3.0,Espace utilisateur et canal,Outil de productivité,En utilisation à l'académie de Versailles,MIMO,2.2
