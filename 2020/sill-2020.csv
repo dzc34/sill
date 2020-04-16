@@ -12,7 +12,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 11,ARX Data Anonymization Tool,Outil d'anonymisation des données,2019 ; 2020,O,,,,,310,Apache-2.0,Conception & Développement,Test & Intégration,,MIMDEV,3.7.6
 12,Asqatasun,Vérification de la conformité de l'application aux règles d'accessibilité,2018 ; 2019 ; 2020,O,,,,Q24026504,9,AGPL-3.0,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,Docker
 13,Assistant RGAA,Vérification de la conformité de l'application aux règles d'accessibilité,2020,O,,,,,,etalab-2.0,Conception & Développement,Qualité et sécurité du code source,Poste de travail des agents impliqués dans le cycle de vie d’une application utilisée via un navigateur web,MIMDEV,1.0.4
-14,Audacity,Enregistrement et édition de sons,2018 ; 2019 ; 2020,R,,,,Q191782,69,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,Enregistrement et édition de sons,MIMO,2.1
+14,Audacity,Enregistrement et édition de sons,2018 ; 2019 ; 2020,R,,,,Q191782,69,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,Enregistrement et édition de sons,MIMO,2.3.3
 15,Avidemux,Logiciel d'édition de vidéo,2018 ; 2019 ; 2020,O,,,193,Q790931,70,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2.7.4
 16,Bareos,Sauvegadre Serveurs,2018 ; 2019 ; 2020,R,,,,Q25387280,243,,Sauvegarde,Sauvegarde Serveur,Services déconcentrés,MIMPROD,Distribution
 17,Behaviors (Comportements),Options de configuration supplémentaires,2018 ; 2019 ; 2020,R,GLPI,,,,95,AGPL-3.0-or-later,Opérations,Déploiement gestion d’actif et de configuration,Gestion des tickets,MIMO,2.1.4
@@ -109,7 +109,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 109,Pacemaker,Haute Disponibilté,2018 ; 2019 ; 2020,R,,,,,236,GPL-2.0,Logiciel Système et Virtualisation,Haute disponibilité (OS),Infra virtuelle,MIMPROD,Distribution
 110,Packer,Déploiement,2018 ; 2019 ; 2020,O,,,,,228,,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
 111,PDF (impression de pdf),Export en pdf des fiches GLPI,2018 ; 2019 ; 2020,R,GLPI,,,,299,AGPL-3.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,1.5
-112,PDFSam Basic,"Outil de fusion, extraction et découpage de fichiers PDF. Il permet aussi de changer le sens des pages.",2018 ; 2019 ; 2020,R,,,,Q3898451,169,AGPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,4.0
+112,PDFSam Basic,"Outil de fusion, extraction et découpage de fichiers PDF. Il permet aussi de changer le sens des pages.",2018 ; 2019 ; 2020,R,,,,Q3898451,169,AGPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,4.1.2
 114,PHPBB,Forum,2018 ; 2019 ; 2020,FR,,,,Q14270,199,GPL-2.0,Orchestration & logique métier,Outil collaboratif,Utilisé au sein d'une forge.,MIMDEV,3.0.9
 115,PortraitOrLandscape,Orientation de la page,2018 ; 2019 ; 2020,R,LibreOffice,,,,,LGPL-3.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2
 116,Postfix,Messagerie system,2018 ; 2019 ; 2020,R,,,,Q1121334,216,,Intégration & Échanges,Serveur SMTP,Services déconcentrés,MIMPROD,Distribution
