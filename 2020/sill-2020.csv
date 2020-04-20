@@ -182,7 +182,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 186,Dia,Outil de création de diagrammes,2018,FR,,,,Q958908,66,GPL-2.0,Espace utilisateur et canal,Outil de productivité,,MIMO,
 187,Prometheus,Supervision Infrastructure et composants,2020,O,,,,,374,Apache-2.0,Opérations,Supervision / Hypervision,,MIMPROD,2.5
 188,Grafana,Supervision Infrastructure et composants,2020,O,,,,Q43399271,373,Apache-2.0,Opérations,Supervision / Hypervision,,MIMPROD,6.x
-189,OpenIO,Stockage objet,2019 ; 2020,R,,,,Q30348631,376,AGPL-3,Stockage,Sauvegarde Serveur,,MIMPROD,19.10
+189,OpenIO,Logiciel de stockage objets,2019 ; 2020,R,,,,Q30348631,376,AGPL-3.0,Stockage,Sauvegarde Serveur,,MIMPROD,19.10
 190,Correcteur terminologique fr (FranceTerme),Correction terminologique à partir de la base FranceTerme,2018 ; 2019 ; 2020,R,LibreOffice,,,,,LGPL-2.1,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.7
 191,Pulse,Télédéploiement et télédiffusion des composants techniques et métiers sur les postes de travail Windows/Linux/Mac,2020,O,GLPI,,,,377,GPL-2.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,4
 192,ProjeQtOr,Module Kanban,2020,O,,,,Q17501773,375,AGPL-3,Espace utilisateur et canal,Outil de productivité,,MIMO,8.3
