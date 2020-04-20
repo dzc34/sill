@@ -11,7 +11,6 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 10,Apache Tomcat,Environnement de développement,2018 ; 2019 ; 2020,R,,,,Q507430,205,Apache-2.0,Conception & Développement,Serveur d'application,,MIMDEV,9
 11,ARX Data Anonymization Tool,Outil d'anonymisation des données,2019 ; 2020,O,,,,,310,Apache-2.0,Conception & Développement,Test & Intégration,,MIMDEV,3.7.6
 12,Asqatasun,Vérification de la conformité de l'application aux règles d'accessibilité,2018 ; 2019 ; 2020,O,,,,Q24026504,9,AGPL-3.0,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,Docker
-13,Assistant RGAA,Vérification de la conformité de l'application aux règles d'accessibilité,2020,O,,,,,,etalab-2.0,Conception & Développement,Qualité et sécurité du code source,Poste de travail des agents impliqués dans le cycle de vie d’une application utilisée via un navigateur web,MIMDEV,1.0.4
 14,Audacity,Enregistrement et édition de sons,2018 ; 2019 ; 2020,R,,,,Q191782,69,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,Enregistrement et édition de sons,MIMO,2.3.3
 15,Avidemux,Logiciel d'édition de vidéo,2018 ; 2019 ; 2020,O,,,193,Q790931,70,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2.7.4
 16,Bareos,Sauvegadre Serveurs,2018 ; 2019 ; 2020,R,,,,Q25387280,243,,Sauvegarde,Sauvegarde Serveur,Services déconcentrés,MIMPROD,Distribution
