@@ -193,4 +193,4 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 198,Rancher,Outil d'orchestration de conteneurs,2020,O,,,75,,,Apache-2.0,Opérations,Outils système & virtualisation,,MIMPROD,
 199,exodus-privacy (standalone),Analyseur statique d'apk,2020,O,,,,Q60348651,,AGPL-3.0,Conception & Développement,Test & Intégration,,MIMDEV,1.1.1
 200,OpenFisca,Moteur de calcul socio-fiscal - [openfisca.org](https://openfisca.org),2020,R,,Oui,,Q64777688,,AGPL-3.0,Opérations,Outil métier,Calculs socio-fiscaux / Évaluation des politiques publiques,MIMDEV,34.7.3
-201,SDK Géoportail,[API Javascript Géoportail](https://github.com/IGNF/geoportal-sdk),2020,R,,Oui,,,,CECILL-B,Conception & Développement,Environnement de développement,,MIMDEV,3.0.11
+201,SDK Géoportail,[Affichage d'une carte dynamique avec les données Géoportail](https://geoservices.ign.fr/documentation/utilisation_web/sdk.html),2020,R,,Oui,,,,CECILL-B,Conception & Développement,Environnement de développement,Développement web - voir [le dépôt](https://github.com/IGNF/geoportal-sdk),MIMDEV,3.0.11
