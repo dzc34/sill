@@ -121,7 +121,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 126,SaltStack,Déploiement,2018 ; 2019 ; 2020,R,,,,Q7405800,224,,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
 127,Samba,Partage de fichiers,2018 ; 2019 ; 2020,R,,,,Q1830735,142,,Stockage,Partage de fichiers,Infra virtuelle,MIMPROD,4.9
 128,Scribus,PAO,2018 ; 2019 ; 2020,R,,,,Q8295,76,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.5
-129,Selenium IDE,Automatisation des tests Web,2018 ; 2019,R,,,,Q752522,311,Apache-2.0,Conception & Développement,Test & Intégration,,MIMDEV,3.14
+129,Selenium IDE,Automatisation des tests Web,2018 ; 2019,FR,,,,Q752522,311,Apache-2.0,Conception & Développement,Test & Intégration,,MIMDEV,3.14
 130,Selenium Server,Automatisation des tests Web,2018 ; 2019 ; 2020,R,,,,,188,Apache-2.0,Conception & Développement,Test & Intégration,,MIMDEV,3.14
 131,Shinken,Supervision Infrastructure et composants,2019 ; 2020,R,,,,,302,,Opérations,Supervision / Hypervision,Infra virtuelle,MIMPROD,2.4.3
 132,SoapUI,Outil d'aide aux tests techniques,2018 ; 2019 ; 2020,R,,,,Q2296314,186,EUPL-1.1,Conception & Développement,Test & Intégration,Tests orientés Web Services,MIMDEV,5.4.0
