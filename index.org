@@ -8,9 +8,9 @@ Il est construit de façon collaborative par des communautés d’agents
 informaticiens de la fonction publique d'État et de la fonction
 publique hospitalière.
 
-- La page d'accueil du SILL côté DINUM : [[https://disic.github.io/sill/index.html][disic.github.io/sill]]
+- La page d'accueil du SILL : https://sill.etalab.gouv.fr
+- Cette page de présentation détaillée : [[https://disic.github.io/sill/index.html][disic.github.io/sill]]
 - La page d'accueil des groupes MIM : [[https://www.mim-libre.fr/][www.mim-libre.fr]]
-- L'ancienne page de présentation du SILL de la [[https://references.modernisation.gouv.fr/socle-logiciels-libres][DINUM]]
 
 Pour toute question, écrire à [[mailto:bastien.guerry@data.gouv.fr][bastien.guerry@data.gouv.fr]] ou à
 [[mailto:mim-noyau@listes.etalab.gouv.fr][mim-noyau@listes.etalab.gouv.fr]] pour contacter l'équipe d'animation
@@ -18,7 +18,7 @@ des groupes MIM.
 
 * Le SILL 2020
 
-Le SILL 2020 est en préparation sur le site [[https://sill.etalab.gouv.fr][sill.etalab.gouv.fr]].
+Le SILL 2020 est publié sur le site [[https://sill.etalab.gouv.fr][sill.etalab.gouv.fr]].
 
 ** Les documents de construction du SILL 2020
 
