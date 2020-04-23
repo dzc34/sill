@@ -63,7 +63,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 65,Javamelody,Outil de monitoring,2018 ; 2019 ; 2020,R,,,,,195,Apache-2.0,Conception & Développement,Test & Intégration,,MIMDEV,1.81.0
 66,Jenkins,"Outil d'aide à la livraison (dépôt, intégration continue...)",2018 ; 2019 ; 2020,R,,,,Q7491312,187,MIT,Conception & Développement,Test & Intégration,,MIMDEV,2.x
 67,Jitsi,Webconférence,2018 ; 2019 ; 2020,R,,,196,q87849488,65,Apache-2.0,Espace utilisateur et canal,Visiophonie,,MIMO,2.9
-68,Roundcube,Webmail,2018,FR,,,171,Q1769269,112,GPL-3.0,Espace utilisateur et canal,Messagerie agenda contacts,,MIMO,
+68,Roundcube,Webmail,2018,FR,,,171 ; 68,Q1769269,112,GPL-3.0,Espace utilisateur et canal,Messagerie agenda contacts,,MIMO,
 69,Junit,Outil de gestion des tests unitaires,2018 ; 2019 ; 2020,R,,,,Q847675,183,EPL-1.0,Conception & Développement,Test & Intégration,,MIMDEV,5.3
 70,K-9 Mail,Client de messagerie,2019 ; 2020,O,,,,Q14565723,,Apache-2.0,Espace utilisateur et canal,Messagerie agenda contacts,Client de Messagerie,MIMO,5.600
 71,KeeFox,Pour utiliser ses codes,2018 ; 2019 ; 2020,O,Firefox,,,Q61694243,293,GPL V2.0,Espace utilisateur et canal,Navigateur web,Pour utiliser ses codes,MIMO,2.5
@@ -163,7 +163,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 168,Squash TF Cucumber Java Runner,Automatisation des tests,2020,R,Squash TF,,,,189,LGPL-3.0-only,Conception & Développement,Test & Intégration,,MIMDEV,1.21.0
 169,Squash TF Execution Server,Automatisation des tests,2020,R,Squash TF,,,,189,LGPL-3.0-only,Conception & Développement,Test & Intégration,,MIMDEV,1.21.0
 170,Squash KeywordFramework,Automatisation des tests,2020,R,Squash TF,,,,189,LGPL-3.0-only,Conception & Développement,Test & Intégration,,MIMDEV,1.21.0
-171,SOGo,Outil de webmail,2020,R,,,68,Q1523357,139,GPL-3.0-only,Espace utilisateur et canal,Messagerie agenda contacts,,MIMO,
+171,SOGo,Outil de webmail,2020,R,,,68 ; 202,Q1523357,139,GPL-3.0-only,Espace utilisateur et canal,Messagerie agenda contacts,,MIMO,
 172,Zammad,Application web pour la gestion du support,2020,O,,,54,Q71389626,355,AGPL-3.0,Espace utilisateur et canal,Outil de productivité,En version 3.1 à la DINUM (Etalab),MIMO,
 173,Jekyll,Outil de génération de sites statiques,2020,R,,,36,Q17067385,356,MIT,Données et contenu,Gestion de contenu web,En version 3.1.2 à la DINUM (Etalab),MIMO,
 174,GNU Emacs,Éditeur de textes,2020,R,,,97,Q189722,,GPL-3.0-or-later,Espace utilisateur et canal,Consultation et édition de documents,En version 26.3 à la DINUM (Etalab),MIMO,
