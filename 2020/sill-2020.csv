@@ -110,6 +110,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 110,Packer,Déploiement,2018 ; 2019 ; 2020,O,,,,,228,,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
 111,PDF (impression de pdf),Export en pdf des fiches GLPI,2018 ; 2019 ; 2020,R,GLPI,,,,299,AGPL-3.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,1.5
 112,PDFSam Basic,"Outil de fusion, extraction et découpage de fichiers PDF. Il permet aussi de changer le sens des pages.",2018 ; 2019 ; 2020,R,,,,Q3898451,169,AGPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,4.1.2
+113,Outil de maquettage IHM (statique et/ou dynamique),Pencil,2018 ; 2019,FR,,,,Q2398265,180,GPL-2.0,Conception & Développement,"Outils d’analyse, de Modélisation et de gestion de Patrimoine",,MIMDEV,3
 114,PHPBB,Forum,2018 ; 2019,FR,,,,Q14270,199,GPL-2.0,Orchestration & logique métier,Outil collaboratif,Utilisé au sein d'une forge.,MIMDEV,3.0.9
 115,PortraitOrLandscape,Orientation de la page,2018 ; 2019 ; 2020,R,LibreOffice,,,,,LGPL-3.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2
 116,Postfix,Messagerie system,2018 ; 2019 ; 2020,R,,,,Q1121334,216,"IPL-1.0, EPL-2.0",Intégration & Échanges,Serveur SMTP,Services déconcentrés,MIMPROD,Distribution
