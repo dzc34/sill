@@ -82,7 +82,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 81,LireCouleur,Ensemble d’outils destiné à aider les lecteurs débutants ou en difficulté à décoder les mots en utilisant les principes de la lecture en couleur,2019 ; 2020,R,LibreOffice,,,,287,LGPL-v2.1,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,5
 82,Logstash,Gestion des logs en mode centralisé,2018 ; 2019 ; 2020,R,,,,Q17620247,203,Apache-2.0,Sécurité,Gestion des logs,Serveur Bureautique,MIMPROD,6.x
 83,Mantis BT,Outil de remontée de bug,2018 ; 2019 ; 2020,R,,,,,174,GPL-2.0,Conception & Développement,Gestion des Anomalies,,MIMDEV,1.X
-84,MariaDB,Base transactionnelle cluster,2018 ; 2019 ; 2020,R,,,,Q787177,206,"LGPL-2.1, LGPL-2.0,  LGPL-3.0",Données et contenu,Bd Relationnelles,Base de production,MIMPROD,10.3
+84,MariaDB,Base transactionnelle cluster,2018 ; 2019 ; 2020,R,,,,Q787177,206,"LGPL-2.1, LGPL-2.0,  LGPL-3.0",Données et contenu,Bases de données relationnelles,Base de production,MIMPROD,10.3
 85,Mastodon,Microblogue,2019 ; 2020,R,,,,Q27986619,283,AGPL-3.0,Orchestration et logique métier,Outil collaboratif,[mastodon.etalab.gouv.fr](https://mastodon.etalab.gouv.fr),MIMO,3.0.1
 86,MediaWiki,Wiki,2018 ; 2019 ; 2020,R,,,,Q83,122,GPL-2.0-or-later,Orchestration et logique métier,Outil collaboratif,,MIMO,
 87,Mobile,Affichage de GLPI pour terminaux mobiles et tablettes,2018 ; 2019 ; 2020,O,GLPI,,,,,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion parc,MIMO,1.1.6
@@ -114,8 +114,8 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 114,PHPBB,Forum,2018 ; 2019,FR,,,,Q14270,199,GPL-2.0,Orchestration & logique métier,Outil collaboratif,Utilisé au sein d'une forge.,MIMDEV,3.0.9
 115,PortraitOrLandscape,Orientation de la page,2018 ; 2019 ; 2020,R,LibreOffice,,,,,LGPL-3.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2
 116,Postfix,Messagerie system,2018 ; 2019 ; 2020,R,,,,Q1121334,216,"IPL-1.0, EPL-2.0",Intégration & Échanges,Serveur SMTP,Services déconcentrés,MIMPROD,Distribution
-117,PostGIS,Base de données Géomatique,2018 ; 2019 ; 2020,R,,,,Q1569955,207,GPL-2.0-only,Données et contenu,Bd Relationnelles,Information géographique,MIMPROD,2.4
-118,PostgreSQL,Base de données transactionnelle,2018 ; 2019 ; 2020,R,,,,Q192490,123,PostgreSQL,Données et contenu,Bd Relationnelles,Base de production,MIMPROD,10
+117,PostGIS,Base de données Géomatique,2018 ; 2019 ; 2020,R,,,,Q1569955,207,GPL-2.0-or-later,Données et contenu,Bases de données relationnelles,Information géographique,MIMPROD,2.4
+118,PostgreSQL,Base de données transactionnelle,2018 ; 2019 ; 2020,R,,,,Q192490,123,PostgreSQL,Données et contenu,Bases de données relationnelles,Base de production,MIMPROD,10
 119,ProjectLibre,Gestion de projet,2018 ; 2019 ; 2020,R,,,,Q580985,59,CPA,Espace utilisateur et canal,Outil de productivité,,MIMO,1.9.1
 120,Qgis,Système d’information géographique,2018 ; 2019 ; 2020,R,,,,Q1329181,60,GPL-2.0-only,Orchestration et logique métier,Moteur SIG,,MIMO,3.10
 121,Qwant (extension de recherche),Plugin pour l'ajout du moteur de recherche Qwant,2018 ; 2019 ; 2020,R,Firefox,,,,,X11,Espace utilisateur et canal,Navigateur web,,MIMO,5
