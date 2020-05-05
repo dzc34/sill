@@ -117,7 +117,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 117,PostGIS,Base de données Géomatique,2018 ; 2019 ; 2020,R,,,,Q1569955,207,GPL-2.0-or-later,Données et contenu,Bases de données relationnelles,Information géographique,MIMPROD,2.4
 118,PostgreSQL,Base de données transactionnelle,2018 ; 2019 ; 2020,R,,,,Q192490,123,PostgreSQL,Données et contenu,Bases de données relationnelles,Base de production,MIMPROD,10
 119,ProjectLibre,Gestion de projet,2018 ; 2019 ; 2020,R,,,,Q580985,59,CPA,Espace utilisateur et canal,Outil de productivité,,MIMO,1.9.1
-120,Qgis,Système d’information géographique,2018 ; 2019 ; 2020,R,,,,Q1329181,60,GPL-2.0-only,Orchestration et logique métier,Moteur SIG,,MIMO,3.10
+120,Qgis,Système d’information géographique,2018 ; 2019 ; 2020,R,,,,Q1329181,60,GPL-2.0-or-later,Orchestration et logique métier,Moteur SIG,,MIMO,3.10
 121,Qwant (extension de recherche),Plugin pour l'ajout du moteur de recherche Qwant,2018 ; 2019 ; 2020,R,Firefox,,,,,X11,Espace utilisateur et canal,Navigateur web,,MIMO,5
 122,Redmine,Portail de gestion de projet,2018 ; 2019 ; 2020,R,,,,Q1149365,197,GPL-2.0,Orchestration & logique métier,Outil collaboratif,,MIMDEV,3.X
 123,Reports (rapports),Rapports supplémentaires à ceux inclus par défaut dans GLPI,2018 ; 2019 ; 2020,R,GLPI,,,,298,AGPL-3.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,1.12.1
