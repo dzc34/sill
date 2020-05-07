@@ -116,10 +116,10 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 116,Postfix,Messagerie system,2018 ; 2019 ; 2020,R,,,,Q1121334,216,"IPL-1.0, EPL-2.0",Intégration & Échanges,Serveur SMTP,Services déconcentrés,MIMPROD,Distribution
 117,PostGIS,Base de données Géomatique,2018 ; 2019 ; 2020,R,,,,Q1569955,207,GPL-2.0-or-later,Données et contenu,Bases de données relationnelles,Information géographique,MIMPROD,2.4
 118,PostgreSQL,Base de données transactionnelle,2018 ; 2019 ; 2020,R,,,,Q192490,123,PostgreSQL,Données et contenu,Bases de données relationnelles,Base de production,MIMPROD,10
-119,ProjectLibre,Gestion de projet,2018 ; 2019 ; 2020,R,,,,Q580985,59,CPA,Espace utilisateur et canal,Outil de productivité,,MIMO,1.9.1
+119,ProjectLibre,Gestion de projet,2018 ; 2019 ; 2020,R,,,122 ; 192,Q580985,59,CPA,Espace utilisateur et canal,Outil de productivité,,MIMO,1.9.1
 120,Qgis,Système d’information géographique,2018 ; 2019 ; 2020,R,,,,Q1329181,60,GPL-2.0-or-later,Orchestration et logique métier,Moteur SIG,,MIMO,3.10
 121,Qwant (extension de recherche),Plugin pour l'ajout du moteur de recherche Qwant,2018 ; 2019 ; 2020,R,Firefox,,,,,X11,Espace utilisateur et canal,Navigateur web,,MIMO,5
-122,Redmine,Portail de gestion de projet,2018 ; 2019 ; 2020,R,,,,Q1149365,197,GPL-2.0,Orchestration & logique métier,Outil collaboratif,,MIMDEV,3.X
+122,Redmine,Portail de gestion de projet,2018 ; 2019 ; 2020,R,,,119 ; 192,Q1149365,197,GPL-2.0,Orchestration & logique métier,Outil collaboratif,,MIMDEV,3.X
 123,Reports (rapports),Rapports supplémentaires à ceux inclus par défaut dans GLPI,2018 ; 2019 ; 2020,R,GLPI,,,,298,AGPL-3.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,1.12.1
 124,Rocketchat,Messagerie instantanée,2018 ; 2019 ; 2020,R,,,,Q24050001,200,MIT,Espace utilisateur et canal,Messagerie agenda contacts,,MIMO,
 125,Rundeck,Orchestration,2018 ; 2019 ; 2020,O,,,,Q56317793,229,Apache-2.0,Opérations,Outils système & virtualisation,Conteneurs,MIMPROD,Distribution
@@ -189,7 +189,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 189,OpenIO,Logiciel de stockage objets,2019 ; 2020,R,,,,Q30348631,376,AGPL-3.0,Stockage,Sauvegarde Serveur,,MIMPROD,19.10
 190,Correcteur terminologique fr (FranceTerme),Correction terminologique à partir de la base FranceTerme,2018 ; 2019 ; 2020,R,LibreOffice,,,,,LGPL-2.1,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.7
 191,Pulse,Télédéploiement et télédiffusion des composants techniques et métiers sur les postes de travail Windows/Linux/Mac,2020,O,GLPI,,,,377,GPL-2.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,4
-192,ProjeQtOr,Module Kanban,2020,O,,,,Q17501773,375,AGPL-3,Espace utilisateur et canal,Outil de productivité,,MIMO,8.3
+192,ProjeQtOr,Gestion de projet,2020,O,,,119 ; 122,Q17501773,375,AGPL-3,Espace utilisateur et canal,Outil de productivité,,MIMO,8.3
 193,OpenShot,Logiciel d'édition de vidéos,2020,R,,,15,Q769346,379,GPL-3,Espace utilisateur et canal,Outil de productivité,[Site de l'académie de Rouen](http://numeriques.spip.ac-rouen.fr/?Openshot),MIMO,2.4.3
 194,VITAM,Solution d'archivage électronique,2020,R,,Oui,185,,323,CECILL-2.1,Espace utilisateur et canal,Outil de productivité,[www.programmevitam.fr](https://www.programmevitam.fr),MIMO,2.1.18
 195,Opale,Création de module de formation linéaire multi-support,2020,O,,,,Q91312803,380,"MPL-2.0, GPL-3.0, LGPL-3.0, CECILL-2.1",Espace utilisateur et canal,Outil de productivité,"Création de module de formation pour utilisation en ligne ou présentielle, avec des ressources interactives, cf. [support web](https://example.scenari.software/Opale@3.7/auroraW) et [support papier](https:// example.scenari.software/Opale@3.7/paper)",MIMO,3.7
