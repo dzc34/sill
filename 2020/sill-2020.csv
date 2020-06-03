@@ -54,8 +54,8 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 53,GitLab Community Edition,Plateforme de développement,2018 ; 2019 ; 2020,R,,,,Q16639197,198,MIT,Orchestration & logique métier,Outil collaboratif,,MIMDEV,11.X
 54,GLPI,Gestion de parc et suivi d'incidents,2018 ; 2019 ; 2020,R,,,172,Q3104570,35,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,9.3.4
 55,Survey (questionnaire),Gestion de questionnaires pour GLPI,2019 ; 2020,O,GLPI,,,Q3104570,,AGPL-3.0-or-later,Opérations,Service level management,Gestion de parc,MIMO,9.3.1.0
-56,Grammalecte,Correction grammaticale,2018 ; 2019 ; 2020,R,LibreOffice,,,,79,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,Télécharger l'extension sur [grammalecte.net](https://grammalecte.net/#download),MIMO,1.7
-57,Grammalecte,Correction grammaticale,2018 ; 2019 ; 2020,R,Firefox,,,Q17629243,79,GPL-3.0,Espace utilisateur et canal,Navigateur web,Télécharger l'extension sur [grammalecte.net](https://grammalecte.net/#download),MIMO,1.7
+56,Grammalecte,Correction grammaticale,2018 ; 2019 ; 2020,R,LibreOffice,,,,79,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,Télécharger l'extension sur [grammalecte.net](https://grammalecte.net/#download),MIMO,1.10
+57,Grammalecte,Correction grammaticale,2018 ; 2019 ; 2020,R,Firefox,,,Q17629243,79,GPL-3.0,Espace utilisateur et canal,Navigateur web,Télécharger l'extension sur [grammalecte.net](https://grammalecte.net/#download),MIMO,1.10
 58,GreenShot,Capture d'écran,2018 ; 2019 ; 2020,R,,,,Q1544791,56,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.2.10
 59,H2,Base de données,2018 ; 2019 ; 2020,R,,,,Q1562670,194,MPL 2.0 et EPL 1.0,Conception & Développement,Test & Intégration,Poste développeur,MIMDEV,1.4.200
 60,HAProxy,Load Balancer,2018 ; 2019 ; 2020,R,,,,Q5628948,237,GPL-2.0-only,Réseau,Load Balancer,Services déconcentrés,MIMPROD,Distribution
