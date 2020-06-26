@@ -34,7 +34,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 33,Discourse,Forum,2019 ; 2020,R,,,,Q15054354,282,GPL-2.0,Orchestration et logique métier,Outil collaboratif,Version 2.4.0 utilisée pour forum.etalab.gouv.fr,MIMO,2.4.0
 34,Docker,Conteneurs logiciels,2018 ; 2019 ; 2020,R,,,,Q15206305,218,Apache-2.0,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
 35,Draw.io Desktop,Schémas,2019 ; 2020,O,,,,Q59339175,300,Apache-2.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,12.5
-36,Drupal,Système de gestion de contenus web,2019 ; 2020,R,,,162 ; 173 ; 203,Q170855,264,LGPL-2.0,Données et contenu,Gestion de contenu web,,MIMO,8.8
+36,Drupal,Système de gestion de contenus web,2019 ; 2020,R,,,162 ; 173 ; 203 ; 211,Q170855,264,LGPL-2.0,Données et contenu,Gestion de contenu web,,MIMO,8.8
 37,DVD Styler,Création de DVD vidéo avec un menu de navigation.,2018 ; 2019 ; 2020,O,,,,Q4117800,74,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,3.1
 38,Eclipse,Environnement de développement,2018 ; 2019 ; 2020,R,,,,Q82268,170,EPL-2.0,Conception & Développement,Environnement de développement intégré (IDE),Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,4.14
 39,Elasticsearch,Indexation et recherche plein texte,2018 ; 2019 ; 2020,R,,,,Q3050461,201,Apache-2.0,Données et contenu,Moteur de recherche,En mode cluster,MIMPROD,6.x
@@ -159,7 +159,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 159,WebAccess,Outil de dev pour l’accessibilité,2019 ; 2020,O,NVDA,,,,,GPL-2.0-only,Conception et développement,Qualité et sécurité de code source,,MIMO,2019.12.13
 160,WebService,Serveur de services web permettant à une application externe d'interroger et de piloter GLPI.,2018 ; 2019 ; 2020,O,GLPI,,,,295,GPL-2.0-or-later,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,1.9.1
 161,Wekan,Gestion de tâches,2019 ; 2020,O,,,,Q50558592,260,MIT,Espace utilisateur et canal,Outil de productivité,,MIMO,
-162,Wordpress,Système de gestion de contenus web,2019 ; 2020,R,,,36 ; 173 ; 203,Q13166,38,GPL-2.0-only,Données et contenu,Gestion de contenu web,Version 5.3.2 utilisée sur etalab.gouv.fr,MIMO,
+162,Wordpress,Système de gestion de contenus web,2019 ; 2020,R,,,36 ; 173 ; 203 ; 211,Q13166,38,GPL-2.0-only,Données et contenu,Gestion de contenu web,Version 5.3.2 utilisée sur etalab.gouv.fr,MIMO,
 163,Yarn,Outil de gestion des dépendances,2018 ; 2019 ; 2020,O,,,,Q28975591,177,BSD-2-Clause,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,1.21.0
 164,Rudder,Audit et configuration continus,2018 ; 2020,R,,,,Q16673801,227,GPL-3.0-or-later,Opérations,Déploiement gestion d’actif et de configuration,En 5.0 chez le référent,MIMPROD,Distribution
 165,SonarQube Plugins : CheckStyle,Tableau de bord d'indicateurs de qualité,2018 ; 2019 ; 2020,R,SonarQube,,,,308,,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,6.7 (à confirmer)
@@ -170,7 +170,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 170,Squash KeywordFramework,Automatisation des tests,2020,R,Squash TF,,,,189,LGPL-3.0-only,Conception & Développement,Test & Intégration,,MIMDEV,1.21.0
 171,SOGo,Outil de webmail,2020,R,,,68 ; 202,Q1523357,139,GPL-3.0-only,Espace utilisateur et canal,Messagerie agenda contacts,,MIMO,
 172,Zammad,Application web pour la gestion du support,2020,O,,,54,Q71389626,355,AGPL-3.0,Espace utilisateur et canal,Outil de productivité,En version 3.1 à la DINUM (Etalab),MIMO,
-173,Jekyll,Outil de génération de sites web statiques,2020,R,,,36 ; 162 ; 203,Q17067385,356,MIT,Données et contenu,Gestion de contenu web,En version 3.1.2 à la DINUM (Etalab),MIMO,
+173,Jekyll,Outil de génération de sites web statiques,2020,R,,,36 ; 162 ; 203 ; 211,Q17067385,356,MIT,Données et contenu,Gestion de contenu web,En version 3.1.2 à la DINUM (Etalab),MIMO,
 174,GNU Emacs,Éditeur de textes,2020,R,,,97,Q1252773,,GPL-3.0-or-later,Espace utilisateur et canal,Consultation et édition de documents,En version 26.3 à la DINUM (Etalab),MIMO,
 175,Cachet,Outil de monitoring de service,2020,O,,,,,357,BSD-3-Clause,Conception & Développement,Test & Intégration,En version 2.3.18 à la DINUM (Etalab),MIMO,
 176,Matomo,Outil de statistiques de fréquentation de sites web,2020,R,,,,Q34162,358,GPL-3.0-or-later,Opérations,Supervision / Hypervision,En version 3.12 à la DINUM (Etalab),MIMPROD,
@@ -194,10 +194,19 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 194,VITAM,Solution d'archivage électronique,2020,R,,Oui,185,,323,CECILL-2.1,Espace utilisateur et canal,Outil de productivité,[www.programmevitam.fr](https://www.programmevitam.fr),MIMO,2.1.18
 195,Opale,Création de module de formation linéaire multi-support,2020,O,,,,Q91312803,380,"MPL-2.0, GPL-3.0, LGPL-3.0, CECILL-2.1",Espace utilisateur et canal,Outil de productivité,"Création de module de formation pour utilisation en ligne ou présentielle, avec des ressources interactives, cf. [support web](https://example.scenari.software/Opale@3.7/auroraW) et [support papier](https:// example.scenari.software/Opale@3.7/paper)",MIMO,3.7
 196,BigBlueButton,Serveur de visioconférence pour navigateurs WEB en HTML5,2020,R,,,67,Q4904858,384,LGPL-3.0,Espace utilisateur et canal,Outil de productivité,"Cours en ligne, formation et présentation à distance à l'académie de Versailles",MIMO,2.2
-197,Peertube,Plateforme d'hébergement décentralisée de vidéos,2020,O,,,,Q50938515,140,AGPL-3.0-or-later,Espace utilisateur et canal,Outil de productivité,,MIMPROD,2.x
+197,Peertube,Plateforme d'hébergement décentralisée de vidéos,2020,O,,,210,Q50938515,140,AGPL-3.0-or-later,Espace utilisateur et canal,Outil de productivité,,MIMPROD,2.x
 198,Rancher,Outil d'orchestration de conteneurs,2020,O,,,75,,386,Apache-2.0,Opérations,Outils système & virtualisation,,MIMPROD,
 199,exodus-privacy (standalone),Analyseur statique d'apk,2020,O,,,,Q60348651,385,AGPL-3.0,Conception & Développement,Test & Intégration,,MIMDEV,1.1.1
 200,OpenFisca,Moteur de calcul socio-fiscal - [openfisca.org](https://openfisca.org),2020,R,,Oui,,Q64777688,387,AGPL-3.0,Opérations,Outil métier,Calculs socio-fiscaux / Évaluation des politiques publiques,MIMDEV,34.7.3
 201,SDK Géoportail,[Affichage d'une carte dynamique avec les données Géoportail](https://geoservices.ign.fr/documentation/utilisation_web/sdk.html),2020,R,,Oui,,,388,CECILL-B,Conception & Développement,Environnement de développement,Développement web - voir [le dépôt](https://github.com/IGNF/geoportal-sdk),MIMDEV,3.0.11
 202,Zimbra,Outil de webmail,2020,R,,,171 ; 68,Q203485,110,Zimbra-1.3,Espace utilisateur et canal,Messagerie agenda contacts,"**Attention** : à partir de la version 9, [Zimbra ne sera plus sous licence libre](https://wiki.zimbra.com/wiki/Zimbra_Releases/9.0.0)",MIMPROD,> 8 et < 9
-203,TYPO3,Système de gestion de contenus web,2020,R,,,36 ; 162 ; 173,Q618512,87,"GPL-2.0, LGPL-3.0",Données et contenu,Gestion de contenu web,,MIMO,9.5.16
+203,TYPO3,Système de gestion de contenus web,2020,R,,,36 ; 162 ; 173 ; 211,Q618512,87,"GPL-2.0, LGPL-3.0",Données et contenu,Gestion de contenu web,,MIMO,9.5.16
+204,Color Contrast Analyser,Outil d'analyse de contraste des couleurs,2020,R,,,,,,GPL-3.0,Conception & Développement,Environnement de développement,,MIMO,
+205,Démarches simplifiées,Outil de gestion de formulaires en ligne,2020,R,,,,Q93597458,,AGPL-3.0,Opérations,Outil métier,Déployée à la DINUM sur https://www.demarches-simplifiees.fr,MIMO,2020-06-23-02
+206,FusionDirectory,Outil de gestion d'identités,2020,R,,,,,,GPL-2.0,Sécurité,Authentification,,MIMPROD,1.3
+207,JOSM,Outil d'édition d'Open Street Map,2020,R,,,,Q12877,,GPL-2.0+,Espace utilisateur et canal,Outil de productivité,,MIMO,
+208,Moodle,Plateforme d'apprentissage à distance,2020,R,,,209,Q190434,,GPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,3.9
+209,Open EDX,Plateforme d'apprentissage à distance,2020,R,,,208,Q2106448,,AGPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,
+210,Esup-Pod,Plateforme de gestion de fichiers vidéo,2020,R,,,197,,,LGPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,2.6.0
+211,SPIP,Système de gestion de contenus web,2020,R,,,36 ; 62 ; 173 ; 203,,,GPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,3.2.7
+212,Pentaho CE,Plateforme BI,2020,O,,,,Q644841,,"GPL-2.0, LGPL-2, MPL-1.1",Opérations,Outil métier,,MIMO,
