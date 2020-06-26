@@ -208,7 +208,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 208,Moodle,Plateforme d'apprentissage à distance,2020,R,,,209,Q190434,,GPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,3.9
 209,Open EDX,Plateforme d'apprentissage à distance,2020,R,,,208,Q2106448,,AGPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,
 210,Esup-Pod,Plateforme de gestion de fichiers vidéo,2020,R,,,197,,,LGPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,2.6.0
-211,SPIP,Système de gestion de contenus web,2020,R,,,36 ; 162 ; 173 ; 203,,,GPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,3.2.7
+211,SPIP,Système de gestion de contenus web,2020,R,,,36 ; 162 ; 173 ; 203,Q1536426,,GPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,3.2.7
 212,Pentaho CE,Plateforme BI,2020,O,,,,Q644841,,"GPL-2.0, LGPL-2, MPL-1.1",Opérations,Outil métier,,MIMO,
 213,Tracim,Outil de gestion des connaissances,2020,R,,,,,,"MIT, LGPL-3, AGPL-3",Données et contenu,Gestion de contenu web,,MIMO,
 214,XWiki,Moteur de wiki,2020,R,,,86,Q526699,,LGPL-2.1,Orchestration et logique métier,Outil collaboratif,,MIMO,10.11.3
