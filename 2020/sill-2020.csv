@@ -204,7 +204,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 204,Color Contrast Analyser,Outil d'analyse de contraste des couleurs,2020,R,,,,,,GPL-3.0,Conception & Développement,Environnement de développement,,MIMO,
 205,Démarches simplifiées,Outil de gestion de formulaires en ligne,2020,R,,,,Q93597458,,AGPL-3.0,Opérations,Outil métier,Déployée à la DINUM sur https://www.demarches-simplifiees.fr,MIMO,2020-06-23-02
 206,FusionDirectory,Outil de gestion d'identités,2020,R,,,,,,GPL-2.0,Sécurité,Authentification,,MIMPROD,1.3
-207,JOSM,Outil d'édition d'Open Street Map,2020,R,,,,Q12877,,GPL-2.0+,Espace utilisateur et canal,Outil de productivité,,MIMO,
+207,JOSM,Outil d'édition d'Open Street Map,2020,R,,,,Q12877,,GPL-2.0+,Espace utilisateur et canal,Outil de productivité,,MIMO,16538
 208,Moodle,Plateforme d'apprentissage à distance,2020,R,,,209,Q190434,,GPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,3.9
 209,Open EDX,Plateforme d'apprentissage à distance,2020,R,,,208,Q2106448,,AGPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,
 210,Esup-Pod,Plateforme de gestion de fichiers vidéo,2020,R,,,197,,,LGPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,2.6.0
