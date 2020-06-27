@@ -24,7 +24,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 23,ClamAV,Antivirus : Orienté serveur,2018 ; 2019 ; 2020,R,,,,Q852000,211,GPL-2.0-only,Sécurité,Antivirus,Serveur Bureautique,MIMPROD,Distribution
 24,CockroachDB,Base transactionnelle cluster,2019 ; 2020,O,,,,,303,,Données et contenu,BD Relationnelles,Base de production,MIMPROD,2
 25,CodeceptJS,Framework de tests backend,2019 ; 2020,O,,,,,306,MIT,Conception & Développement,Test & Intégration,,MIMDEV,2.4.1
-26,Consul,Déploiement,2018 ; 2019 ; 2020,O,,,,Q28709844,317,MPL-2.0,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
+26,Consul,Déploiement,2018 ; 2019 ; 2020,O,,,,Q28709844,,MPL-2.0,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
 27,Corosync,Haute Disponibilté,2018 ; 2019 ; 2020,R,,,,,235,BSD-3-Clause,Logiciel Système et Virtualisation,Haute disponibilité (OS),Infra virtuelle,MIMPROD,Distribution
 28,CUPS,Serveur d'impression,2018 ; 2019 ; 2020,R,,,,Q868171,217,,Intégration & Échanges,Serveur d'impression,Services déconcentrés,MIMPROD,Distribution
 29,Data Injection,Injection de données dans GLPI à l'aide de fichiers CSV,2018 ; 2019 ; 2020,R,GLPI,,,,92,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,2.6.4
