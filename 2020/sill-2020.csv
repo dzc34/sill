@@ -180,7 +180,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 180,CodiMD,Outil de partage de notes,2020,O,,,,,362,AGPL-3.0,Orchestration et logique métier,Outil collaboratif,En version 1.4.1 à la DINUM,MIMO,
 181,git-crypt,Outil de chiffrement dans les dépôts Git,2020,R,,,,,363,GPL-3.0,Conception & développement,Qualité et sécurité du code source,,MIMDEV,Version distribution
 182,RStudio,Environnement de développement intégré (IDE) pour le langage de programmation R.,2020,R,,,,Q4798119,366,AGPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,En version 1.2 à l'ANCT,MIMDEV,
-183,Remediate The Flag,Outil d'entraînement à la sécurité d'applications,2020,R,,,,,367,Apache-2.0,Conception & développement,Qualité et sécurité du code source,,MIMDEV,
+183,SecureFlag Community,Outil d'entraînement à la sécurité d'applications,2020,R,,,,,367,GPL-3.0,Conception & développement,Qualité et sécurité du code source,,MIMDEV,
 184,Redis,Système de gestion de base de données,2020,R,,,,Q2136322,365,BSD-3-Clause,Données et contenu,Gestionnaire de données non relationnelles,En version 5.0.7 à Sorbonne université,MIMPROD,
 185,Archifiltre,Système d'aide à l'archivage de fichiers,2020,R,,Oui,194,Q77064547,368,MIT,Espace utilisateur et canal,Outil de productivité,En version 2.0.x aux ministères sociaux,MIMO,2.0.x
 186,Dia,Outil de création de diagrammes,2018,FR,,,,Q958908,66,GPL-2.0,Espace utilisateur et canal,Outil de productivité,,MIMO,
