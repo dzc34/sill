@@ -203,7 +203,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 203,TYPO3,Système de gestion de contenus web,2020,R,,,36 ; 162 ; 173 ; 211,Q618512,87,"GPL-2.0, LGPL-3.0",Données et contenu,Gestion de contenu web,,MIMO,9.5.16
 204,Colour Contrast Analyser,Outil d'analyse de contraste des couleurs,2020,R,,,,,398,GPL-3.0,Conception & Développement,Environnement de développement,,MIMO,
 205,Démarches simplifiées,Outil de gestion de formulaires en ligne,2020,R,,Oui,,Q93597458,136,AGPL-3.0,Opérations,Outil métier,Déployée à la DINUM sur https://www.demarches-simplifiees.fr,MIMO,2020-06-23-02
-206,FusionDirectory,Outil de gestion d'identités,2020,R,,,,,46,GPL-2.0,Sécurité,Authentification,,MIMPROD,1.3
+206,FusionDirectory,Outil de gestion d'identités,2020,R,,,,Q96679195,46,GPL-2.0,Sécurité,Authentification,,MIMPROD,1.3
 207,JOSM,Outil d'édition d'OpenStreetMap,2020,R,,,,Q12877,390,GPL-2.0+,Espace utilisateur et canal,Outil de productivité,,MIMO,16538
 208,Moodle,Plateforme d'apprentissage à distance,2020,R,,,209,Q190434,250,GPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,3.9
 209,Open EDX,Plateforme d'apprentissage à distance,2020,R,,,208,Q2106448,396,AGPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,
