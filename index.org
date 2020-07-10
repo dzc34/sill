@@ -18,12 +18,19 @@ des groupes MIM.
 
 * Les critères d’entrée d’un logiciel dans le SILL
 
-** Un prérequis pour tous les logiciels
+** Prérequis : le code source doit être publié sous licence libre sans délai entre le code source et la version exécutable
 
-Le code source du logiciel est publié sous l'une des licences libres
-reconnues par la [[https://www.gnu.org/licenses/license-list.fr.html][Free Software Foundation]] ou l'[[https://opensource.org/licenses][Open Source Initiative]],
-sans délai de publication entre le code source et la version
-exécutable.
+Le code source du logiciel doit être publié sous l'une des licences
+libres reconnues par la [[https://www.gnu.org/licenses/license-list.fr.html][Free Software Foundation]] ou l'[[https://opensource.org/licenses][Open Source
+Initiative]].
+
+La licence ne doit contenir aucun ajout ou modification risquant d'en
+altérer le caractère libre.  En cas de doute sur une licence, le
+groupe noyau qui coordonne l'ensemble du SILL est libre de refuser un
+logiciel.
+
+D'autre part, il ne doit y avoir aucun délai de publication entre le
+code source et la version exécutable du logiciel.
 
 ** Deux critères obligatoires pour les logiciels recommandés
 

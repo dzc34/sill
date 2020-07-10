@@ -1,14 +1,14 @@
 
 # Table des matières
 
--   [Les critères d’entrée d’un logiciel dans le SILL](#org4b05411)
--   [Les communautés qui construisent le SILL : groupes MIM](#orgc16ba5e)
--   [Les documents de construction du SILL 2020](#orge702e7f)
--   [Comment ajouter un logiciel libre dans le SILL ?](#org8c4c3f7)
--   [Que signifie être « référent » d’un logiciel ?](#org5398981)
--   [Présentations partagées dans les groupes MIM](#orgbc61363)
--   [Le mouvement `#BlueHats`](#orgc380ae3)
--   [Licence du SILL et de ce dépôt](#org20a7d6a)
+-   [Les critères d’entrée d’un logiciel dans le SILL](#org6b0fa2b)
+-   [Les communautés qui construisent le SILL : groupes MIM](#orgc27b2ce)
+-   [Les documents de construction du SILL 2020](#orgd96e79a)
+-   [Comment ajouter un logiciel libre dans le SILL ?](#org9f7b366)
+-   [Que signifie être « référent » d’un logiciel ?](#org053c384)
+-   [Présentations partagées dans les groupes MIM](#orgc6bee1b)
+-   [Le mouvement `#BlueHats`](#org5a94e63)
+-   [Licence du SILL et de ce dépôt](#org872d8b9)
 
 Le socle interministériel de logiciels libres (SILL) est le catalogue
 de référence des logiciels libres recommandés par l’Etat.
@@ -26,17 +26,24 @@ Pour toute question, écrire à [bastien.guerry@data.gouv.fr](mailto:bastien.gue
 des groupes MIM.
 
 
-<a id="org4b05411"></a>
+<a id="org6b0fa2b"></a>
 
 # Les critères d’entrée d’un logiciel dans le SILL
 
 
-## Un prérequis pour tous les logiciels
+## Prérequis : le code source doit être publié sous licence libre sans délai entre le code source et la version exécutable
 
-Le code source du logiciel est publié sous l'une des licences libres
-reconnues par la [Free Software Foundation](https://www.gnu.org/licenses/license-list.fr.html) ou l'[Open Source Initiative](https://opensource.org/licenses),
-sans délai de publication entre le code source et la version
-exécutable.
+Le code source du logiciel doit être publié sous l'une des licences
+libres reconnues par la [Free Software Foundation](https://www.gnu.org/licenses/license-list.fr.html) ou l'[Open Source
+Initiative](https://opensource.org/licenses).
+
+La licence ne doit contenir aucun ajout ou modification risquant d'en
+altérer le caractère libre.  En cas de doute sur une licence, le
+groupe noyau qui coordonne l'ensemble du SILL est libre de refuser un
+logiciel.
+
+D'autre part, il ne doit y avoir aucun délai de publication entre le
+code source et la version exécutable du logiciel.
 
 
 ## Deux critères obligatoires pour les logiciels recommandés
@@ -89,7 +96,7 @@ affichées publiquement :
     du logiciel a **publié des informations sur cet usage**.
 
 
-<a id="orgc16ba5e"></a>
+<a id="orgc27b2ce"></a>
 
 # Les communautés qui construisent le SILL : groupes MIM
 
@@ -108,7 +115,7 @@ Pour demander à participer aux échanges des groupes :
 -   s’inscrire sur [la liste MIMDEVOPS](https://listes.etalab.gouv.fr/listinfo/mim-devops).
 
 
-<a id="orge702e7f"></a>
+<a id="orgd96e79a"></a>
 
 # Les documents de construction du SILL 2020
 
@@ -128,7 +135,7 @@ lequel sont régulièrement consolidées les contributions faites sur ces
 documents privés.
 
 
-<a id="org8c4c3f7"></a>
+<a id="org9f7b366"></a>
 
 # Comment ajouter un logiciel libre dans le SILL ?
 
@@ -140,7 +147,7 @@ Pour proposer un nouveau logiciel en vue du SILL 2020, vous pouvez
 [formulaire de contact](https://sill.etalab.gouv.fr/fr/contact) ou écrire à `bastien.guerry@data.gouv.fr`.
 
 
-<a id="org5398981"></a>
+<a id="org053c384"></a>
 
 # Que signifie être « référent » d’un logiciel ?
 
@@ -177,7 +184,7 @@ dont il connaît l’usage au sein de son administration.
 -   obligé de publier son identité.
 
 
-<a id="orgbc61363"></a>
+<a id="orgc6bee1b"></a>
 
 # Présentations partagées dans les groupes MIM
 
@@ -187,7 +194,7 @@ dont il connaît l’usage au sein de son administration.
 -   27/11/2019 (MIMO) : [Nextcloud - Le cloud alternatif aux GAFAM](https://speakerdeck.com/bluehats/nextcloud-le-cloud-alternatif-aux-gafam)
 
 
-<a id="orgc380ae3"></a>
+<a id="org5a94e63"></a>
 
 # Le mouvement `#BlueHats`
 
@@ -199,7 +206,7 @@ Vous pouvez retrouver [la gazette #BlueHats](https://github.com/DISIC/gazette-bl
 y inscrire](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio) et voir la [documentation sur les événements #BlueHats](https://github.com/DISIC/evenements-bluehats).
 
 
-<a id="org20a7d6a"></a>
+<a id="org872d8b9"></a>
 
 # Licence du SILL et de ce dépôt
 
