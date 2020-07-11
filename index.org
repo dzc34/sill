@@ -34,11 +34,14 @@ code source et la version exécutable du logiciel.
 
 ** Deux critères obligatoires pour les logiciels recommandés
 
-- Il existe un agent public, le « référent SILL », de la fonction
-  publique d'État ou hospitalière pour ce logiciel libre.
+- *Il existe un référent SILL*, un agent public de la fonction publique
+  d'État ou hospitalière pour ce logiciel libre.
 
-- Le logiciel est significativement utilisé dans un organisme public
-  de la fonction publique d'État ou hospitalière.
+- *Le logiciel est significativement utilisé* dans un organisme public
+  de la fonction publique d'État ou hospitalière.  « Utilisé » veut
+  dire que le logiciel est /installé/ dans le SI ou sur des postes des
+  agents : les logiciels libres utilisés en SaaS via un prestataire
+  n'est pas éligible à la recommandation.
 
 ** Plusieurs logiciels aux fonctionnalités similaires sont admissibles
 

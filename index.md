@@ -1,14 +1,14 @@
 
 # Table des matières
 
--   [Les critères d’entrée d’un logiciel dans le SILL](#org6b0fa2b)
--   [Les communautés qui construisent le SILL : groupes MIM](#orgc27b2ce)
--   [Les documents de construction du SILL 2020](#orgd96e79a)
--   [Comment ajouter un logiciel libre dans le SILL ?](#org9f7b366)
--   [Que signifie être « référent » d’un logiciel ?](#org053c384)
--   [Présentations partagées dans les groupes MIM](#orgc6bee1b)
--   [Le mouvement `#BlueHats`](#org5a94e63)
--   [Licence du SILL et de ce dépôt](#org872d8b9)
+-   [Les critères d’entrée d’un logiciel dans le SILL](#orgda7c355)
+-   [Les communautés qui construisent le SILL : groupes MIM](#orga2f8953)
+-   [Les documents de construction du SILL 2020](#org499beee)
+-   [Comment ajouter un logiciel libre dans le SILL ?](#orgbb3ca82)
+-   [Que signifie être « référent » d’un logiciel ?](#orge987d72)
+-   [Présentations partagées dans les groupes MIM](#orgec31679)
+-   [Le mouvement `#BlueHats`](#orgbb543e6)
+-   [Licence du SILL et de ce dépôt](#org54a4e6b)
 
 Le socle interministériel de logiciels libres (SILL) est le catalogue
 de référence des logiciels libres recommandés par l’Etat.
@@ -26,7 +26,7 @@ Pour toute question, écrire à [bastien.guerry@data.gouv.fr](mailto:bastien.gue
 des groupes MIM.
 
 
-<a id="org6b0fa2b"></a>
+<a id="orgda7c355"></a>
 
 # Les critères d’entrée d’un logiciel dans le SILL
 
@@ -48,11 +48,14 @@ code source et la version exécutable du logiciel.
 
 ## Deux critères obligatoires pour les logiciels recommandés
 
--   Il existe un agent public, le « référent SILL », de la fonction
-    publique d'État ou hospitalière pour ce logiciel libre.
+-   **Il existe un référent SILL**, un agent public de la fonction publique
+    d'État ou hospitalière pour ce logiciel libre.
 
--   Le logiciel est significativement utilisé dans un organisme public
-    de la fonction publique d'État ou hospitalière.
+-   **Le logiciel est significativement utilisé** dans un organisme public
+    de la fonction publique d'État ou hospitalière.  « Utilisé » veut
+    dire que le logiciel est *installé* dans le SI ou sur des postes des
+    agents : les logiciels libres utilisés en SaaS via un prestataire
+    n'est pas éligible à la recommandation.
 
 
 ## Plusieurs logiciels aux fonctionnalités similaires sont admissibles
@@ -96,7 +99,7 @@ affichées publiquement :
     du logiciel a **publié des informations sur cet usage**.
 
 
-<a id="orgc27b2ce"></a>
+<a id="orga2f8953"></a>
 
 # Les communautés qui construisent le SILL : groupes MIM
 
@@ -115,7 +118,7 @@ Pour demander à participer aux échanges des groupes :
 -   s’inscrire sur [la liste MIMDEVOPS](https://listes.etalab.gouv.fr/listinfo/mim-devops).
 
 
-<a id="orgd96e79a"></a>
+<a id="org499beee"></a>
 
 # Les documents de construction du SILL 2020
 
@@ -135,7 +138,7 @@ lequel sont régulièrement consolidées les contributions faites sur ces
 documents privés.
 
 
-<a id="org9f7b366"></a>
+<a id="orgbb3ca82"></a>
 
 # Comment ajouter un logiciel libre dans le SILL ?
 
@@ -147,7 +150,7 @@ Pour proposer un nouveau logiciel en vue du SILL 2020, vous pouvez
 [formulaire de contact](https://sill.etalab.gouv.fr/fr/contact) ou écrire à `bastien.guerry@data.gouv.fr`.
 
 
-<a id="org053c384"></a>
+<a id="orge987d72"></a>
 
 # Que signifie être « référent » d’un logiciel ?
 
@@ -184,7 +187,7 @@ dont il connaît l’usage au sein de son administration.
 -   obligé de publier son identité.
 
 
-<a id="orgc6bee1b"></a>
+<a id="orgec31679"></a>
 
 # Présentations partagées dans les groupes MIM
 
@@ -194,7 +197,7 @@ dont il connaît l’usage au sein de son administration.
 -   27/11/2019 (MIMO) : [Nextcloud - Le cloud alternatif aux GAFAM](https://speakerdeck.com/bluehats/nextcloud-le-cloud-alternatif-aux-gafam)
 
 
-<a id="org5a94e63"></a>
+<a id="orgbb543e6"></a>
 
 # Le mouvement `#BlueHats`
 
@@ -206,7 +209,7 @@ Vous pouvez retrouver [la gazette #BlueHats](https://github.com/DISIC/gazette-bl
 y inscrire](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio) et voir la [documentation sur les événements #BlueHats](https://github.com/DISIC/evenements-bluehats).
 
 
-<a id="org872d8b9"></a>
+<a id="org54a4e6b"></a>
 
 # Licence du SILL et de ce dépôt
 
