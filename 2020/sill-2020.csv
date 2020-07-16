@@ -205,11 +205,12 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 205,Démarches simplifiées,Outil de gestion de formulaires en ligne,2020,R,,Oui,,Q93597458,136,AGPL-3.0,Opérations,Outil métier,Déployée à la DINUM sur https://www.demarches-simplifiees.fr,MIMO,2020-06-23-02
 206,FusionDirectory,Outil de gestion d'identités,2020,R,,,,Q96679195,46,GPL-2.0,Sécurité,Authentification,,MIMPROD,1.3
 207,JOSM,Outil d'édition d'OpenStreetMap,2020,R,,,,Q12877,390,GPL-2.0+,Espace utilisateur et canal,Outil de productivité,,MIMO,16538
-208,Moodle,Plateforme d'apprentissage à distance,2020,R,,,209,Q190434,250,GPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,3.9
-209,Open EDX,Plateforme d'apprentissage à distance,2020,R,,,208,Q2106448,396,AGPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,
+208,Moodle,Plateforme d'apprentissage à distance,2020,R,,,"209, 216",Q190434,250,GPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,3.9
+209,Open EDX,Plateforme d'apprentissage à distance,2020,R,,,"208, 216",Q2106448,396,AGPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,
 210,Esup-Pod,Plateforme de gestion de fichiers vidéo,2020,R,,,197,,397,LGPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,2.6.0
 211,SPIP,Système de gestion de contenus web,2020,R,,,36 ; 162 ; 173 ; 203,Q1536426,36,GPL-3.0,Données et contenu,Gestion de contenu web,,MIMO,3.2.7
 212,Pentaho CE,Plateforme BI,2020,O,,,,Q644841,105,"GPL-2.0, LGPL-2, MPL-1.1",Opérations,Outil métier,,MIMO,
 213,Tracim,Outil de gestion des connaissances,2020,R,,,,,273,"MIT, LGPL-3, AGPL-3",Données et contenu,Gestion de contenu web,,MIMO,
 214,XWiki,Moteur de wiki,2020,R,,,86,Q526699,11,LGPL-2.1,Orchestration et logique métier,Outil collaboratif,,MIMO,10.11.3
 215,Pycharm CE,Environnement de développement,2020,R,,,97 ; 174,Q50557308,,Apache-2.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2020.1
+216,Chamilo,Plateforme d'apprentissage à distance,2020,R,,,208 ; 209,Q423221,,GPL-3.0+,Données et contenu,Gestion de contenu web,Déployé dans l'académie d'Aix-Marseilles,MIMO,1.11.10
