@@ -95,7 +95,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 94,Nexus,Dépôt d'artefacts,2018 ; 2019 ; 2020,R,,,,,178,EPL-1.0,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,3.18.1-01
 95,NGINX,Serveur web et reverse proxy,2018 ; 2019 ; 2020,R,,,,Q306144,213,BSD-2-Clause,Réseau,Serveur Web & Reverse Proxy,Services déconcentrés,MIMPROD,Distribution
 96,NodeJS,Environnement de développement,2018 ; 2019 ; 2020,R,,,,Q756100,238,X11,Conception & Développement,Serveur d'application,,MIMDEV,8
-97,Notepad++,Éditeur de textes,2018 ; 2019 ; 2020,R,,,174 ; 215 ; 97 ; 38,Q2033,55,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,7.8.2
+97,Notepad++,Éditeur de textes,2018 ; 2019 ; 2020,R,,,174 ; 215 ; 38,Q2033,55,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,7.8.2
 98,Npm,Gestionnaire de paquets pour Node.js,2018 ; 2019 ; 2020,R,,,,Q7067518,179,Artistic-2.0,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,Dernière
 99,NVDA,Lecteur d’écran,2018 ; 2019 ; 2020,R,,,,Q1116614,63,GPL-2.0-only,Espace utilisateur et canal,Accessibilité,,MIMO,2019.2.1
 100,OBS Studio,Régie video pour enregistrement et/ou streaming,2019 ; 2020,R,,,,Q21707789,285,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,24.0.5
@@ -212,6 +212,6 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 212,Pentaho CE,Plateforme BI,2020,O,,,,Q644841,105,"GPL-2.0, LGPL-2, MPL-1.1",Opérations,Outil métier,,MIMO,
 213,Tracim,Outil de gestion des connaissances,2020,R,,,,,273,"MIT, LGPL-3, AGPL-3",Données et contenu,Gestion de contenu web,,MIMO,
 214,XWiki,Moteur de wiki,2020,R,,,86,Q526699,11,LGPL-2.1,Orchestration et logique métier,Outil collaboratif,,MIMO,10.11.3
-215,Pycharm CE,Environnement de développement,2020,R,,,97 ; 174 ; 215 ; 38,Q50557308,400,Apache-2.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2020.1
+215,Pycharm CE,Environnement de développement,2020,R,,,97 ; 174 ; 38,Q50557308,400,Apache-2.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2020.1
 216,Chamilo,Plateforme d'apprentissage à distance,2020,R,,,208 ; 209,Q423221,252,GPL-3.0+,Données et contenu,Gestion de contenu web,Déployé dans l'académie d'Aix-Marseille,MIMO,1.11.10
 217,Gravitee CE,Outil de gestion d'API,2020,R,,,,Q97819945,,Apache-2.0,Opérations,Outil métier,,MIMPROD,3.x
