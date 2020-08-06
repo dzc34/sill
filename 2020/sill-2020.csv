@@ -36,7 +36,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 35,Draw.io Desktop,Schémas,2019 ; 2020,O,,,,Q59339175,300,Apache-2.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,12.5
 36,Drupal,Système de gestion de contenus web,2019 ; 2020,R,,,162 ; 173 ; 203 ; 211,Q170855,264,LGPL-2.0,Données et contenu,Gestion de contenu web,,MIMO,8.8
 37,DVD Styler,Création de DVD vidéo avec un menu de navigation.,2018 ; 2019 ; 2020,O,,,,Q4117800,74,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,3.1
-38,Eclipse,Environnement de développement,2018 ; 2019 ; 2020,R,,,,Q82268,170,EPL-2.0,Conception & Développement,Environnement de développement intégré (IDE),Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,4.14
+38,Eclipse IDE,Environnement de développement,2018 ; 2019 ; 2020,R,,,97 ; 174 ; 215,Q82268,170,EPL-2.0,Conception & Développement,Environnement de développement intégré (IDE),Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,4.14
 39,Elasticsearch,Indexation et recherche plein texte,2018 ; 2019 ; 2020,R,,,,Q3050461,201,Apache-2.0,Données et contenu,Moteur de recherche,En mode cluster,MIMPROD,6.x
 40,EOLE AMON,Pare-feu réseau et web,2018 ; 2019 ; 2020,R,,,,,234,,Réseau,Pare-feu – Réseau,Services déconcentrés,MIMPROD,2.7
 41,EOLE (Ubuntu),Distribution GNU/LINUX,2018 ; 2019 ; 2020,R,,,,Q3046024,240,,Logiciel Système et Virtualisation,Système d'Exploitation,Services déconcentrés,MIMPROD,2.7
@@ -95,7 +95,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 94,Nexus,Dépôt d'artefacts,2018 ; 2019 ; 2020,R,,,,,178,EPL-1.0,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,3.18.1-01
 95,NGINX,Serveur web et reverse proxy,2018 ; 2019 ; 2020,R,,,,Q306144,213,BSD-2-Clause,Réseau,Serveur Web & Reverse Proxy,Services déconcentrés,MIMPROD,Distribution
 96,NodeJS,Environnement de développement,2018 ; 2019 ; 2020,R,,,,Q756100,238,X11,Conception & Développement,Serveur d'application,,MIMDEV,8
-97,Notepad++,Éditeur de textes,2018 ; 2019 ; 2020,R,,,174 ; 215,Q2033,55,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,7.8.2
+97,Notepad++,Éditeur de textes,2018 ; 2019 ; 2020,R,,,174 ; 215 ; 97 ; 38,Q2033,55,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,7.8.2
 98,Npm,Gestionnaire de paquets pour Node.js,2018 ; 2019 ; 2020,R,,,,Q7067518,179,Artistic-2.0,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,Dernière
 99,NVDA,Lecteur d’écran,2018 ; 2019 ; 2020,R,,,,Q1116614,63,GPL-2.0-only,Espace utilisateur et canal,Accessibilité,,MIMO,2019.2.1
 100,OBS Studio,Régie video pour enregistrement et/ou streaming,2019 ; 2020,R,,,,Q21707789,285,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,24.0.5
@@ -171,7 +171,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 171,SOGo,Outil de webmail,2020,R,,,68 ; 202,Q1523357,139,GPL-3.0-only,Espace utilisateur et canal,Messagerie agenda contacts,,MIMO,
 172,Zammad,Application web pour la gestion du support,2020,O,,,54,Q71389626,355,AGPL-3.0,Espace utilisateur et canal,Outil de productivité,En version 3.1 à la DINUM (Etalab),MIMO,
 173,Jekyll,Outil de génération de sites web statiques,2020,R,,,36 ; 162 ; 203 ; 211,Q17067385,356,MIT,Données et contenu,Gestion de contenu web,En version 3.1.2 à la DINUM (Etalab),MIMO,
-174,GNU Emacs,Éditeur de textes et environnement de développement,2020,R,,,97 ; 215,Q1252773,,GPL-3.0-or-later,Espace utilisateur et canal,Consultation et édition de documents,En version 26.3 à la DINUM (Etalab),MIMO,
+174,GNU Emacs,Éditeur de textes et environnement de développement,2020,R,,,97 ; 215 ; 38,Q1252773,,GPL-3.0-or-later,Espace utilisateur et canal,Consultation et édition de documents,En version 26.3 à la DINUM (Etalab),MIMO,
 175,Cachet,Outil de monitoring de service,2020,O,,,,,357,BSD-3-Clause,Conception & Développement,Test & Intégration,En version 2.3.18 à la DINUM (Etalab),MIMO,
 176,Matomo,Outil de statistiques de fréquentation de sites web,2020,R,,,,Q34162,358,GPL-3.0-or-later,Opérations,Supervision / Hypervision,En version 3.12 à la DINUM (Etalab),MIMPROD,
 177,postfix.admin,Outil de gestion de configuration postfix,2020,R,,,,,359,GPL-2.0-or-later,Opérations,Supervision / Hypervision,En version 3.2 à la DINUM (Etalab),MIMPROD,
@@ -212,6 +212,6 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 212,Pentaho CE,Plateforme BI,2020,O,,,,Q644841,105,"GPL-2.0, LGPL-2, MPL-1.1",Opérations,Outil métier,,MIMO,
 213,Tracim,Outil de gestion des connaissances,2020,R,,,,,273,"MIT, LGPL-3, AGPL-3",Données et contenu,Gestion de contenu web,,MIMO,
 214,XWiki,Moteur de wiki,2020,R,,,86,Q526699,11,LGPL-2.1,Orchestration et logique métier,Outil collaboratif,,MIMO,10.11.3
-215,Pycharm CE,Environnement de développement,2020,R,,,97 ; 174,Q50557308,400,Apache-2.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2020.1
+215,Pycharm CE,Environnement de développement,2020,R,,,97 ; 174 ; 215 ; 38,Q50557308,400,Apache-2.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2020.1
 216,Chamilo,Plateforme d'apprentissage à distance,2020,R,,,208 ; 209,Q423221,252,GPL-3.0+,Données et contenu,Gestion de contenu web,Déployé dans l'académie d'Aix-Marseille,MIMO,1.11.10
 217,Gravitee CE,Outil de gestion d'API,2020,R,,,,Q97819945,,Apache-2.0,Opérations,Outil métier,,MIMPROD,3.x
