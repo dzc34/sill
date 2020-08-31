@@ -54,8 +54,8 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 53,GitLab Community Edition,Plateforme de développement,2018 ; 2019 ; 2020,R,,,,Q16639197,198,MIT,Orchestration & logique métier,Outil collaboratif,,MIMDEV,11.X
 54,GLPI,Gestion de parc et suivi d'incidents,2018 ; 2019 ; 2020,R,,,172,Q3104570,35,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,9.3.4
 55,Survey (questionnaire),Gestion de questionnaires pour GLPI,2019 ; 2020,O,GLPI,,,Q3104570,,AGPL-3.0-or-later,Opérations,Service level management,Gestion de parc,MIMO,9.3.1.0
-56,Grammalecte,Correction grammaticale,2018 ; 2019 ; 2020,R,LibreOffice,,,,79,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,Télécharger l'extension sur [grammalecte.net](https://grammalecte.net/#download).  Intégration de la base terminologique FranceTerme.,MIMO,1.11
-57,Grammalecte,Correction grammaticale,2018 ; 2019 ; 2020,R,Firefox,,,Q17629243,79,GPL-3.0,Espace utilisateur et canal,Navigateur web,Télécharger l'extension sur [grammalecte.net](https://grammalecte.net/#download).  Intégration de la base terminologique FranceTerme.,MIMO,1.11
+56,Grammalecte,Correction grammaticale,2018 ; 2019 ; 2020,R,LibreOffice,,,,79,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,Télécharger l'extension sur [grammalecte.net](https://grammalecte.net/#download).  Intégration de la base terminologique FranceTerme.,MIMO,1.12
+57,Grammalecte,Correction grammaticale,2018 ; 2019 ; 2020,R,Firefox,,,Q17629243,79,GPL-3.0,Espace utilisateur et canal,Navigateur web,Télécharger l'extension sur [grammalecte.net](https://grammalecte.net/#download).  Intégration de la base terminologique FranceTerme.,MIMO,1.12
 58,GreenShot,Capture d'écran,2018 ; 2019 ; 2020,R,,,,Q1544791,56,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.2.10
 59,H2,Base de données,2018 ; 2019 ; 2020,R,,,,Q1562670,194,MPL 2.0 et EPL 1.0,Conception & Développement,Test & Intégration,Poste développeur,MIMDEV,1.4.200
 60,HAProxy,Load Balancer,2018 ; 2019 ; 2020,R,,,,Q5628948,237,GPL-2.0-only,Réseau,Load Balancer,Services déconcentrés,MIMPROD,Distribution
@@ -76,7 +76,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 75,Kubernetes,Orchestration,2018 ; 2019 ; 2020,R,,,198,Q22661306,219,,Opérations,Outils système & virtualisation,Conteneurs,MIMPROD,Distribution
 76,KVM,Hyperviseur,2018 ; 2019 ; 2020,R,,,,Q377539,220,"LGPL-2.1, LGPL-2.0,  LGPL-3.0",Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,Virtualisation serveurs,MIMPROD,Distribution
 77,LemonLDAP::NG,SSO,2018 ; 2019 ; 2020,R,,,,Q3229380,101,GPL-2.0-or-later,Sécurité,Authentification,Version 2.0.7 utilisée à la Gendarmerie nationale,MIMPROD,2.0.x
-78,LibreOffice,Suite bureautique,2018 ; 2019 ; 2020,R,,,,Q10135,33,MPL-2.0,Espace utilisateur et canal,Consultation et édition de documents,Version MIMO basée sur la 6.2.8.2_M2 [téléchargeable ici](ftp://eoleng.ac-dijon.fr/Archive-Mimo/mimo-dev/Libo62_Mimo/),MIMO,
+78,LibreOffice,Suite bureautique,2018 ; 2019 ; 2020,R,,,,Q10135,33,MPL-2.0,Espace utilisateur et canal,Consultation et édition de documents,Version MIMO basée sur la 6.4.6.2 [téléchargeable ici](ftp://eoleng.ac-dijon.fr/Archive-Mimo/mimo-dev/Libo62_Mimo/),MIMO,
 79,LibreOffice (Collabora) online,Rédaction collaborative,2019 ; 2020,R,,,,Q30584920,294,MPL-2.0,Orchestration et logique métier,Outil collaboratif,,MIMO,4.0.10
 80,Limesurvey,Enquête,2019 ; 2020,O,,,,Q1514978,42,GPL-3.0,Orchestration et logique métier,Outil collaboratif,,MIMO,
 81,LireCouleur,Ensemble d’outils destiné à aider les lecteurs débutants ou en difficulté à décoder les mots en utilisant les principes de la lecture en couleur,2019 ; 2020,R,LibreOffice,,,,287,LGPL-v2.1,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,5
