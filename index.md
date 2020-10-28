@@ -149,6 +149,11 @@ Pour proposer un nouveau logiciel en vue du SILL 2020, vous pouvez
 [ouvrir un ticket sur le dépôt de travail](https://github.com/DISIC/sill/issues/new?assignees=bzg&labels=Soumission&template=ajout-logiciel.md&title=Nouveau+logiciel+%3A+), nous contacter via le
 [formulaire de contact](https://sill.etalab.gouv.fr/fr/contact) ou écrire à `bastien.guerry@data.gouv.fr`.
 
+Si vous êtes une entreprise et que votre logiciel libre est utilisé
+par une ou plusieurs administrations publiques, il vous faudra trouver
+dans cette administration un agent public volontaire pour être
+référent de votre logiciel.
+
 
 <a id="orge987d72"></a>
 
