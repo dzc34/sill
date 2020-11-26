@@ -87,7 +87,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 86,MediaWiki,Moteur de wiki,2018 ; 2019 ; 2020,R,,,214,Q83,122,GPL-2.0-or-later,Orchestration et logique métier,Outil collaboratif,,MIMO,
 87,Mobile,Affichage de GLPI pour terminaux mobiles et tablettes,2018 ; 2019 ; 2020,O,GLPI,,,,,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion parc,MIMO,1.1.6
 88,MongoDB,Base de données NoSQL,2018 ; 2019,R,,,,Q1165204,208,,Données et contenu,Gestionnaire de données non relationnelles,,MIMPROD,
-89,Mozilla Firefox (Extended Support Release),Navigateur,2018 ; 2019 ; 2020,R,,,,Q698,82,MPL-2.0,Espace utilisateur et canal,Navigateur web,Navigateur,MIMO,68
+89,Mozilla Firefox (Extended Support Release),Navigateur,2018 ; 2019 ; 2020,R,,,,Q698,82,MPL-2.0,Espace utilisateur et canal,Navigateur web,Navigateur,MIMO,Dernière
 90,MultiDiff,Diffusion multiformat,2018 ; 2019 ; 2020,R,LibreOffice,,,,77,LGPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.3.0
 91,MuPDF,Outil de visualisation de PDF,2018 ; 2019 ; 2020,R,,,,Q6930567,291,AGPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,
 92,NAPS2,Outil de scan de PDF,2020,R,,,,,351,GPL-2.0-only,Espace utilisateur et canal,Outil de productivité,,MIMO,5.8.2
