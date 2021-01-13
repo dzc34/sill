@@ -1,6 +1,6 @@
 ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-libre,licence,secteur,composant,contexte-usage,groupe,version
 1,7zip,Compression,2018 ; 2019 ; 2020,R,,,,Q215051,72,LGPL-2.0-only,Données et contenu,Compression décompression,,MIMO,19
-2,Acceleo,Outil et/ou plugin de génération de tout ou partie du code,2018 ; 2019 ; 2020,R,,,,Q2822666,304,EPL-2.0,Conception & développement,Environnement de développement intégré (IDE),Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,3.7.7
+2,Acceleo,Outil et/ou plugin de génération de tout ou partie du code,2018 ; 2019 ; 2020,R,,,,Q2822666,304,EPL-2.0,Conception & développement,Environnement de développement intégré (IDE),Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,3.7.8
 3,Additional Alerts,Notifications supplémentaires à celles incluses dans GLPI,2018 ; 2020,O,GLPI,,,,93,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion des tickets,MIMO,2.1.2
 4,Agent OCS,"Inventaire, télédéploiement et découverte du réseau",2018 ; 2019 ; 2020,R,OCS Inventory,,,,88,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,2.4
 5,Ansible,Déploiement,2018 ; 2019 ; 2020,R,,,,Q2852503,225,GPL-3.0-only,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
@@ -60,10 +60,10 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 59,H2,Base de données,2018 ; 2019 ; 2020,R,,,,Q1562670,194,MPL 2.0 et EPL 1.0,Conception & Développement,Test & Intégration,Poste développeur,MIMDEV,1.4.200
 60,HAProxy,Load Balancer,2018 ; 2019 ; 2020,R,,,,Q5628948,237,GPL-2.0-only,Réseau,Load Balancer,Services déconcentrés,MIMPROD,Distribution
 61,Inkscape,Dessin (vectoriel),2018 ; 2019 ; 2020,O,,,,Q8041,68,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,0.92.4
-62,IS Designer,Environnement de développement,2019 ; 2020,O,,,,,319,EPL-1.0,Conception & Développement,Modeleur,,MIMDEV,1.9.1
+62,IS Designer,Environnement de développement,2019 ; 2020,O,,,,,319,EPL-1.0,Conception & Développement,Modeleur,,MIMDEV,1.9.2
 63,Jacoco,Couverture du code,2018 ; 2019 ; 2020,R,,,,Q6109486,182,EPL-2.0,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,0.8.5
 64,Jailer,Génération / Gestion des jeux de données,2018 ; 2019 ; 2020,R,,,,,192,Apache-2.0,Conception & Développement,Test & Intégration,,MIMDEV,9.0
-65,Javamelody,Outil de monitoring,2018 ; 2019 ; 2020,R,,,,,195,Apache-2.0,Conception & Développement,Test & Intégration,,MIMDEV,1.81.0
+65,Javamelody,Outil de monitoring,2018 ; 2019 ; 2020,R,,,,,195,Apache-2.0,Conception & Développement,Test & Intégration,,MIMDEV,1.86.0
 66,Jenkins,"Outil d'aide à la livraison (dépôt, intégration continue...)",2018 ; 2019 ; 2020,R,,,,Q7491312,187,MIT,Conception & Développement,Test & Intégration,,MIMDEV,2.x
 67,Jitsi,Webconférence,2018 ; 2019 ; 2020,R,,,196,q87849488,65,Apache-2.0,Espace utilisateur et canal,Visiophonie,,MIMO,2.9
 68,Roundcube,Webmail,2018,FR,,,171 ; 68,Q1769269,112,GPL-3.0,Espace utilisateur et canal,Messagerie agenda contacts,,MIMO,
