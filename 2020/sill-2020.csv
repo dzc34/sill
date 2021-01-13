@@ -59,7 +59,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 58,GreenShot,Capture d'écran,2018 ; 2019 ; 2020,R,,,,Q1544791,56,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.2.10
 59,H2,Base de données,2018 ; 2019 ; 2020,R,,,,Q1562670,194,MPL 2.0 et EPL 1.0,Conception & Développement,Test & Intégration,Poste développeur,MIMDEV,1.4.200
 60,HAProxy,Load Balancer,2018 ; 2019 ; 2020,R,,,,Q5628948,237,GPL-2.0-only,Réseau,Load Balancer,Services déconcentrés,MIMPROD,Distribution
-61,Inkscape,Dessin (vectoriel),2018 ; 2019 ; 2020,O,,,,Q8041,68,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,0.92.4
+61,Inkscape,Dessin (vectoriel),2018 ; 2019 ; 2020,O,,,,Q8041,68,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.0.1
 62,IS Designer,Environnement de développement,2019 ; 2020,O,,,,,319,EPL-1.0,Conception & Développement,Modeleur,,MIMDEV,1.9.2
 63,Jacoco,Couverture du code,2018 ; 2019 ; 2020,R,,,,Q6109486,182,EPL-2.0,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,0.8.5
 64,Jailer,Génération / Gestion des jeux de données,2018 ; 2019 ; 2020,R,,,,,192,Apache-2.0,Conception & Développement,Test & Intégration,,MIMDEV,9.0
