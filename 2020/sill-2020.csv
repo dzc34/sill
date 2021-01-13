@@ -155,7 +155,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 155,Visual Studio Code,Environnement de développement,2018 ; 2019 ; 2020,R,,,,Q19841877,171,MIT,Conception & Développement,Environnement de développement intégré (IDE),Outil et/ou plugin de génération de tout ou partie du code,MIMDEV,Dernière
 156,VLC,Lecteur multimédia,2018 ; 2019 ; 2020,R,,,,Q171477,62,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,La version 3.0.7.1 est utilisée à la Gendarmerie nationale,MIMO,3.0.8
 157,VRT network equipment,Galerie d’images,2019 ; 2020,R,LibreOffice,,,,289,CC-BY-SA-4.0,Espace utilisateur et canal,Consultation et édition de documents,Diagrammes informatiques,MIMO,1.2
-158,WAPT Community,"Déploiement, mise à jour et suppression des logiciels et des configurations sur un parc Windows",2019 ; 2020,O,,,,Q50829216,261,GPL-3.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion de parc,MIMO,1.6 Community
+158,WAPT Community,"Déploiement, mise à jour et suppression des logiciels et des configurations sur un parc Windows",2019 ; 2020,O,,,,Q50829216,261,GPL-3.0-only,Opérations,Déploiement gestion d’actif et de configuration,Gestion de parc,MIMO,1.8.2
 159,WebAccess,Outil de dev pour l’accessibilité,2019 ; 2020,O,NVDA,,,,,GPL-2.0-only,Conception et développement,Qualité et sécurité de code source,,MIMO,2019.12.13
 160,WebService,Serveur de services web permettant à une application externe d'interroger et de piloter GLPI.,2018 ; 2019 ; 2020,O,GLPI,,,,295,GPL-2.0-or-later,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,1.9.1
 161,Wekan,Gestion de tâches,2019 ; 2020,O,,,,Q50558592,260,MIT,Espace utilisateur et canal,Outil de productivité,,MIMO,
