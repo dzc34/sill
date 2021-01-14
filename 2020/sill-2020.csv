@@ -30,7 +30,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 29,Data Injection,Injection de données dans GLPI à l'aide de fichiers CSV,2018 ; 2019 ; 2020,R,GLPI,,,,92,GPL-2.0-only,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,2.6.4
 30,DBAN (Darik's Boot and Nuke),Effacement complet de tous les supports magnétiques d’une machine.,2018 ; 2019 ; 2020,O,,,,Q1165893,81,GPL-2.0-only / LGPL-2.0-only,Données et contenu,Gestion des accès aux données,,MIMO,2.3.0
 31,DbFit,Outil d'injection afin tester les couches basses,2018 ; 2019,FR,,,,,185,GPL-2.0-only,Conception & Développement,Test & Intégration,,MIMDEV,3.2.0
-32,Debian,Distribution GNU/LINUX,2018 ; 2019 ; 2020,R,,,,Q7715973,241,,Logiciel Système et Virtualisation,Système d'Exploitation,En centre de production,MIMPROD,9
+32,Debian,Distribution GNU/LINUX,2018 ; 2019 ; 2020,R,,,,Q7715973,241,,Logiciel Système et Virtualisation,Système d'Exploitation,En centre de production,MIMPROD,10
 33,Discourse,Forum,2019 ; 2020,R,,,,Q15054354,282,GPL-2.0,Orchestration et logique métier,Outil collaboratif,Version 2.4.0 utilisée pour forum.etalab.gouv.fr,MIMO,2.4.0
 34,Docker,Conteneurs logiciels,2018 ; 2019 ; 2020,R,,,,Q15206305,218,Apache-2.0,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
 35,Draw.io Desktop,Schémas,2019 ; 2020,O,,,,Q59339175,300,Apache-2.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,12.5
