@@ -175,7 +175,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 175,Cachet,Outil de monitoring de service,2020 ; 2021,O,,,,,357,BSD-3-Clause,Conception & Développement,Test & Intégration,En version 2.3.18 à la DINUM (Etalab),MIMO,
 176,Matomo,Outil de statistiques de fréquentation de sites web,2020 ; 2021,R,,,,Q34162,358,GPL-3.0-or-later,Opérations,Supervision / Hypervision,En version 3.12 à la DINUM (Etalab),MIMPROD,
 177,postfix.admin,Outil de gestion de configuration postfix,2020 ; 2021,R,,,,,359,GPL-2.0-or-later,Opérations,Supervision / Hypervision,En version 3.2 à la DINUM (Etalab),MIMPROD,
-178,Proxmox VE,Outil de gestion de machines virtuelles,2020 ; 2021,R,,,,Q344376,113,AGPL-3.0,Opérations,Outils système & virtualisation,En version 5.4-13 à la DINUM (Etalab),MIMPROD,Dernière stable
+178,Proxmox VE,Outil de gestion de machines virtuelles,2020 ; 2021,R,,,,Q344376,113,AGPL-3.0,Opérations,Outils système & virtualisation,En version 5.4-13 à la DINUM (Etalab),MIMPROD,6.x
 179,Yunohost,Outil de déploiement d'applications,2020 ; 2021,O,,,,Q15971793,361,AGPL-3.0,Opérations,Outils système & virtualisation,En version 3.6.5.3 à la DINUM (Etalab),MIMPROD,
 180,CodiMD,Outil de partage de notes,2020 ; 2021,O,,,,,362,AGPL-3.0,Orchestration et logique métier,Outil collaboratif,En version 1.4.1 à la DINUM,MIMO,
 181,git-crypt,Outil de chiffrement dans les dépôts Git,2020 ; 2021,R,,,,,363,GPL-3.0,Conception & développement,Qualité et sécurité du code source,,MIMDEV,Version distribution
