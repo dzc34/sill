@@ -104,7 +104,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 103,OpenDocument Reader,Lecteur de fichiers OpenDocument,2018 ; 2019 ; 2020 ; 2021,R,,,,,290,GPL-3.0-or-later,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.3.2
 104,OpenJDK,Environnement de développement,2018 ; 2019 ; 2020 ; 2021,R,,,,Q1461054,173,GPL-2.0,Conception & Développement,Environnement d'exécution,,MIMDEV,11
 105,OpenLdap,Annuaire,2018 ; 2019 ; 2020 ; 2021,R,,,,Q682918,98,OLDAP-2.8,Sécurité,Authentification,Serveur Bureautique,MIMPROD,2.4
-107,OpenNebula,Virtualisation de serveurs,2018 ; 2019 ; 2020 ; 2021,R,,,,Q1164484,222,Apache-2.0,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,Infra virtuelle,MIMPROD,5.10
+107,OpenNebula CE,Virtualisation de serveurs,2018 ; 2019 ; 2020 ; 2021,R,,,,Q1164484,222,Apache-2.0,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,Infra virtuelle,MIMPROD,5.10
 108,OpenStack,IaaS – 2,2018 ; 2019 ; 2020 ; 2021,R,,,,Q1470293,221,,Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,Infonuage,MIMPROD,0
 109,Pacemaker,Haute Disponibilté,2018 ; 2019 ; 2020 ; 2021,R,,,,,236,GPL-2.0,Logiciel Système et Virtualisation,Haute disponibilité (OS),Infra virtuelle,MIMPROD,Distribution
 110,Packer,Déploiement,2018 ; 2019 ; 2020 ; 2021,O,,,,,228,,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
