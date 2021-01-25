@@ -115,7 +115,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 115,PortraitOrLandscape,Orientation de la page,2018 ; 2019 ; 2020 ; 2021,R,LibreOffice,,,,,LGPL-3.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2
 116,Postfix,Messagerie system,2018 ; 2019 ; 2020 ; 2021,R,,,,Q1121334,216,"IPL-1.0, EPL-2.0",Intégration & Échanges,Serveur SMTP,Services déconcentrés,MIMPROD,Distribution
 117,PostGIS,Base de données Géomatique,2018 ; 2019 ; 2020 ; 2021,R,,,,Q1569955,207,GPL-2.0-or-later,Données et contenu,Bases de données relationnelles,Information géographique,MIMPROD,2.4
-118,PostgreSQL,Base de données transactionnelle,2018 ; 2019 ; 2020 ; 2021,R,,,,Q192490,123,PostgreSQL,Données et contenu,Bases de données relationnelles,Base de production,MIMPROD,10
+118,PostgreSQL,Base de données transactionnelle,2018 ; 2019 ; 2020 ; 2021,R,,,,Q192490,123,PostgreSQL,Données et contenu,Bases de données relationnelles,Base de production,MIMPROD,11
 119,ProjectLibre,Outil de gestion de projet,2018 ; 2019 ; 2020 ; 2021,R,,,122 ; 192,Q580985,59,CPA,Espace utilisateur et canal,Outil de productivité,,MIMO,1.9.3
 120,Qgis,Système d’information géographique,2018 ; 2019 ; 2020 ; 2021,R,,,,Q1329181,60,GPL-2.0-or-later,Orchestration et logique métier,Moteur SIG,,MIMO,3.10
 121,Qwant (extension de recherche),Plugin pour l'ajout du moteur de recherche Qwant,2018 ; 2019 ; 2020 ; 2021,R,Firefox,,,,,X11,Espace utilisateur et canal,Navigateur web,,MIMO,5
