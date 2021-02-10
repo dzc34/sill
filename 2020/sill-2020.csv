@@ -218,3 +218,4 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 218,OpenSVC,Logiciel d'orchestration applicative et de clustering haute disponibilité,2020 ; 2021,R,,,,Q100588070,336,GPL-2.0,Opérations,Outil métier,,MIMPROD,2.1
 219,Apache Superset,Logiciel de datavisualisation,2021,R,,,,Q68705831,,Apache-2.0,Opérations,Outil métier,,MIMPROD,0.38
 220,uPortal,Portail pour l'enseignement supérieur,2021,R,,,,Q3547301,,Apache-2.0,Données et contenu,Gestion de contenu web,,MIMO,5.2.x
+221,Tuleap,Gestionnaire de cycle applicatif,2021,R,,,,Q3541946,,GPL-2.0,Conception & développement,Gestionnaire de cycle applicatif,,MIMPROD,12.2-1
