@@ -217,4 +217,4 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 217,Gravitee CE,Outil de gestion d'API,2020 ; 2021,R,,,,Q97819945,404,Apache-2.0,Opérations,Outil métier,,MIMPROD,3.x
 218,OpenSVC,Logiciel d'orchestration applicative et de clustering haute disponibilité,2020 ; 2021,R,,,,Q100588070,336,GPL-2.0,Opérations,Outil métier,,MIMPROD,2.1
 219,Apache Superset,Logiciel de datavisualisation,2021,R,,,,Q68705831,,Apache-2.0,Opérations,Outil métier,,MIMPROD,0.38
-220,uPortal,Portail pour l'enseignement supérieur,2020,R,,,,Q3547301,,Apache-2.1,Données et contenu,Gestion de contenu web,,MIMO,5.2.x
+220,uPortal,Portail pour l'enseignement supérieur,2021,R,,,,Q3547301,,Apache-2.1,Données et contenu,Gestion de contenu web,,MIMO,5.2.x
