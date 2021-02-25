@@ -97,7 +97,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 96,NodeJS,Environnement de développement,2018 ; 2019 ; 2020 ; 2021,R,,,,Q756100,238,X11,Conception & Développement,Serveur d'application,,MIMDEV,8
 97,Notepad++,Éditeur de textes,2018 ; 2019 ; 2020 ; 2021,R,,,174 ; 215 ; 38,Q2033,55,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,7.8.2
 98,Npm,Gestionnaire de paquets pour Node.js,2018 ; 2019 ; 2020 ; 2021,R,,,,Q7067518,179,Artistic-2.0,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,Dernière
-99,NVDA,Lecteur d'écran,2018 ; 2019 ; 2020 ; 2021,R,,,,Q1116614,63,GPL-2.0-only,Espace utilisateur et canal,Accessibilité,,MIMO,2019.2.1
+99,NVDA,Lecteur d'écran,2018 ; 2019 ; 2020 ; 2021,R,,,,Q1116614,63,GPL-2.0-only,Espace utilisateur et canal,Accessibilité,,MIMO,2020.4
 100,OBS Studio,Régie video pour enregistrement et/ou streaming,2019 ; 2020 ; 2021,R,,,,Q21707789,285,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,26.1.x
 101,OCS Inventory,"Inventaire, télédéploiement et découverte du réseau",2018 ; 2019 ; 2020 ; 2021,R,,,,Q1135744,83,GPL-2.0-only,Opérations,Déploiement gestion d'actif et de configuration,,MIMO,2.4
 102,OCS Inventory ng,Automatisation de l'import OCS Inventory-NG,2018 ; 2019 ; 2020 ; 2021,R,GLPI,,,,91,GPL-2.0-only,Opérations,Déploiement gestion d'actif et de configuration,Gestion parc,MIMO,1.5.6
@@ -156,7 +156,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 156,VLC,Lecteur multimédia,2018 ; 2019 ; 2020 ; 2021,R,,,,Q171477,62,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,La version 3.0.7.1 est utilisée à la Gendarmerie nationale,MIMO,3.0.8
 157,VRT network equipment,Galerie d'images,2019 ; 2020 ; 2021,R,LibreOffice,,,,289,CC-BY-SA-4.0,Espace utilisateur et canal,Consultation et édition de documents,Diagrammes informatiques,MIMO,1.2
 158,WAPT Community,"Déploiement, mise à jour et suppression des logiciels et des configurations sur un parc Windows - **Attention**, [WAPT Community n'est plus développé](https://www.tranquil.it/wapt-community-changements-majeurs-2021/)",2019 ; 2020 ; 2021,O,,,,Q50829216,261,GPL-3.0-only,Opérations,Déploiement gestion d'actif et de configuration,Gestion de parc,MIMO,1.8.2
-159,WebAccess,Outil de dev pour l'accessibilité,2019 ; 2020 ; 2021,O,NVDA,,,,,GPL-2.0-only,Conception et développement,Qualité et sécurité de code source,,MIMO,2019.12.13
+159,WebAccess,Outil de dev pour l'accessibilité,2019 ; 2020 ; 2021,O,NVDA,,,,,GPL-2.0-only,Conception et développement,Qualité et sécurité de code source,,MIMO,2021.02.10
 160,WebService,Serveur de services web permettant à une application externe d'interroger et de piloter GLPI.,2018 ; 2019 ; 2020 ; 2021,O,GLPI,,,,295,GPL-2.0-or-later,Opérations,Déploiement gestion d'actif et de configuration,,MIMO,1.9.1
 161,Wekan,Gestion de tâches,2019 ; 2020 ; 2021,O,,,,Q50558592,260,MIT,Espace utilisateur et canal,Outil de productivité,,MIMO,
 162,Wordpress,Système de gestion de contenus web,2019 ; 2020 ; 2021,R,,,36 ; 173 ; 203 ; 211,Q13166,38,GPL-2.0-only,Données et contenu,Gestion de contenu web,Version 5.3.2 utilisée sur etalab.gouv.fr,MIMO,
