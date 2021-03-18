@@ -21,7 +21,7 @@ des groupes MIM.
 ** Prérequis : le code source doit être publié sous licence libre sans délai entre le code source et la version exécutable
 
 Le code source du logiciel doit être publié sous l'une des licences
-libres reconnues par la [[https://www.gnu.org/licenses/license-list.fr.html][Free Software Foundation]] ou l'[[https://opensource.org/licenses][Open Source
+libres reconnues par la [[https://www.gnu.org/licenses/license-list.fr.html][Free Software Foundation]] et l'[[https://opensource.org/licenses][Open Source
 Initiative]].
 
 La licence ne doit contenir aucun ajout ou modification risquant d'en
