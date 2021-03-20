@@ -23,7 +23,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 22,Chromium,Navigateurs,2018 ; 2019 ; 2020 ; 2021,R,,,,Q48524,193,BSD-3-Clause,Conception & Développement,Test & Intégration,Poste développeur,MIMDEV,Dernière
 23,ClamAV,Antivirus : Orienté serveur,2018 ; 2019 ; 2020 ; 2021,R,,,,Q852000,211,GPL-2.0-only,Sécurité,Antivirus,Serveur Bureautique,MIMPROD,Distribution
 24,CockroachDB,Base transactionnelle cluster,2019 ; 2020 ; 2021,O,,,,,303,,Données et contenu,BD Relationnelles,Base de production,MIMPROD,2
-25,CodeceptJS,Framework de tests backend,2019 ; 2020 ; 2021,O,,,,,306,MIT,Conception & Développement,Test & Intégration,,MIMDEV,2.4.1
+25,CodeceptJS,Cadriciel de tests backend,2019 ; 2020 ; 2021,O,,,,,306,MIT,Conception & Développement,Test & Intégration,,MIMDEV,2.4.1
 26,Consul,Déploiement,2018 ; 2019 ; 2020 ; 2021,O,,,,Q28709844,226,MPL-2.0,Opérations,Outils système & virtualisation,Services déconcentrés,MIMPROD,Distribution
 27,Corosync,Haute Disponibilté,2018 ; 2019 ; 2020 ; 2021,R,,,,,235,BSD-3-Clause,Logiciel Système et Virtualisation,Haute disponibilité (OS),Infra virtuelle,MIMPROD,Distribution
 28,CUPS,Serveur d'impression,2018 ; 2019 ; 2020 ; 2021,R,,,,Q868171,217,,Intégration & Échanges,Serveur d'impression,Services déconcentrés,MIMPROD,Distribution
@@ -219,3 +219,4 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 219,Apache Superset,Logiciel de datavisualisation,2021,R,,,,Q68705831,418,Apache-2.0,Opérations,Outil métier,,MIMPROD,0.38
 220,uPortal,Portail pour l'enseignement supérieur et le secondaire,2021,R,,,,Q3547301,419,Apache-2.0,Données et contenu,Gestion de contenu web,,MIMO,5.2.x
 221,Tuleap,Gestionnaire de cycle applicatif,2021,R,,,,Q3541946,325,GPL-2.0,Conception & développement,Gestionnaire de cycle applicatif,,MIMPROD,12.2-1
+222,Dash,"Cadriciel d'applications web basé sur Flask (Python), React et Plotly.js",2021,O,,,,Q106081011,,MIT,Conception & développement,Gestionnaire de cycle applicatif,,MIMDEV,1.19.0
