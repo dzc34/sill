@@ -128,7 +128,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 128,Scribus,PAO,2018 ; 2019 ; 2020 ; 2021,R,,,,Q8295,76,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.5
 129,Selenium IDE,Automatisation des tests Web,2018 ; 2019,FR,,,,Q752522,311,Apache-2.0,Conception & Développement,Test & Intégration,,MIMDEV,3.14
 130,Selenium Server,Automatisation des tests Web,2018 ; 2019 ; 2020 ; 2021,R,,,,,188,Apache-2.0,Conception & Développement,Test & Intégration,,MIMDEV,3.14
-131,Shinken,Supervision Infrastructure et composants,2019 ; 2020 ; 2021,R,,,,Q3482264,302,AGPL-3.0-only,Opérations,Supervision / Hypervision,Infra virtuelle,MIMPROD,2.4.3
+131,Shinken,Supervision Infrastructure et composants,2019 ; 2020 ;,FR,,,,Q3482264,302,AGPL-3.0-only,Opérations,Supervision / Hypervision,Infra virtuelle,MIMPROD,2.4.3
 132,SOAP UI Open Source,Outil d'aide aux tests techniques,2018 ; 2019 ; 2020 ; 2021,R,,,,Q2296314,186,EUPL-1.1,Conception & Développement,Test & Intégration,Tests orientés Web Services,MIMDEV,5.6.x
 133,SonarQube,Tableau de bord d'indicateurs de qualité,2018 ; 2019 ; 2020 ; 2021,R,,,,Q541691,181,LGPL-3.0-only,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,7.9
 134,SonarQube Plugins : FindBugs,Tableau de bord d'indicateurs de qualité,2018 ; 2019 ; 2020 ; 2021,R,SonarQube,,,,307,,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,6.7 (à confirmer)
