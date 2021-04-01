@@ -219,4 +219,4 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 219,Apache Superset,Logiciel de datavisualisation,2021,R,,,,Q68705831,418,Apache-2.0,Opérations,Outil métier,,MIMPROD,0.38
 220,uPortal,Portail pour l'enseignement supérieur et le secondaire,2021,R,,,,Q3547301,419,Apache-2.0,Données et contenu,Gestion de contenu web,,MIMO,5.2.x
 221,Tuleap,Gestionnaire de cycle applicatif,2021,R,,,,Q3541946,325,GPL-2.0,Conception & développement,Gestionnaire de cycle applicatif,,MIMPROD,12.2-1
-222,Dash,"Cadriciel d'applications web basé sur Flask (Python), React et Plotly.js",2021,O,,,,Q106081011,,MIT,Conception & développement,Gestionnaire de cycle applicatif,,MIMDEV,1.19.0
+222,Dash,"Cadriciel d'applications web basé sur Flask (Python), React et Plotly.js",2021,O,,,,Q106081011,424,MIT,Conception & développement,Gestionnaire de cycle applicatif,,MIMDEV,1.19.0
