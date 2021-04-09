@@ -177,7 +177,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 177,postfix.admin,Outil de gestion de configuration postfix,2020 ; 2021,R,,,,,359,GPL-2.0-or-later,Opérations,Supervision / Hypervision,En version 3.2 à la DINUM (Etalab),MIMPROD,
 178,Proxmox VE,Outil de gestion de machines virtuelles,2020 ; 2021,R,,,,Q344376,113,AGPL-3.0,Opérations,Outils système & virtualisation,En version 5.4-13 à la DINUM (Etalab),MIMPROD,6.x
 179,Yunohost,Outil de déploiement d'applications,2020 ; 2021,O,,,,Q15971793,361,AGPL-3.0,Opérations,Outils système & virtualisation,En version 3.6.5.3 à la DINUM (Etalab),MIMPROD,
-180,CodiMD,Outil de partage de notes,2020 ; 2021,O,,,,,362,AGPL-3.0,Orchestration et logique métier,Outil collaboratif,En version 1.4.1 à la DINUM,MIMO,
+180,CodiMD,Outil de partage de notes,2020,FR,,,223,Q98731953,362,AGPL-3.0,Orchestration et logique métier,Outil collaboratif,"En version 1.4.1 à la DINUM, remplacé par Hedgedoc",MIMO,
 181,git-crypt,Outil de chiffrement dans les dépôts Git,2020 ; 2021,R,,,,,363,GPL-3.0,Conception & développement,Qualité et sécurité du code source,,MIMDEV,Version distribution
 182,RStudio,Environnement de développement intégré (IDE) pour le langage de programmation R.,2020 ; 2021,R,,,,Q4798119,366,AGPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,En version 1.2 à l'ANCT,MIMDEV,
 183,SecureFlag Community,Outil d'entraînement à la sécurité d'applications,2020 ; 2021,R,,,,Q96781925,367,GPL-3.0,Conception & développement,Qualité et sécurité du code source,,MIMDEV,
@@ -220,3 +220,4 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 220,uPortal,Portail pour l'enseignement supérieur et le secondaire,2021,R,,,,Q3547301,419,Apache-2.0,Données et contenu,Gestion de contenu web,,MIMO,5.2.x
 221,Tuleap,Gestionnaire de cycle applicatif,2021,R,,,,Q3541946,325,GPL-2.0,Conception & développement,Gestionnaire de cycle applicatif,,MIMPROD,12.2-1
 222,Dash,"Cadriciel d'applications web basé sur Flask (Python), React et Plotly.js",2021,O,,,,Q106081011,424,MIT,Conception & développement,Gestionnaire de cycle applicatif,,MIMDEV,1.19.0
+223,Hedgedoc,Outil de partage de notes,2021,O,,,180,,362,AGPL-3.0,Orchestration et logique métier,Outil collaboratif,En version 1.7.x à la DINUM,MIMO,
