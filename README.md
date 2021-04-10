@@ -28,6 +28,7 @@ dépôt](https://github.com/etalab/sillweb).
 | nom            | Nom du logiciel                     | Gimp                        | Valeur obligatoire |
 | parent         | Logiciel parent                     | LibreOffice                 | Valeur optionnelle |
 | public         | Logiciel porté par l'administration | VITAM                       | Valeur optionnelle |
+| support        | Présent dans le marché de support   | Apache HTTP server          | Valeur optionnelle |
 | secteur        | Description du secteur              | Conception & Développement  | Valeur obligatoire |
 | similaire-a    | Logiciels similaires                | Redmine                     | Valeur optionnelle |
 | statut         | Recommandé, en observation          | R                           | Valeur obligatoire |
