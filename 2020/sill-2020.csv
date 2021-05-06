@@ -76,7 +76,7 @@ ID,nom,fonction,annees,statut,parent,public,support,similaire-a,wikidata,comptoi
 75,Kubernetes,Orchestration,2018 ; 2019 ; 2020 ; 2021,R,,,,198,Q22661306,219,,Opérations,Outils système & virtualisation,Conteneurs,MIMPROD,Distribution
 76,KVM,Hyperviseur,2018 ; 2019 ; 2020 ; 2021,R,,,,,Q377539,220,"LGPL-2.1, LGPL-2.0,  LGPL-3.0",Logiciel Système et Virtualisation,Virtualisation serveur et jusqu'à plateforme,Virtualisation serveurs,MIMPROD,Distribution
 77,LemonLDAP::NG,SSO,2018 ; 2019 ; 2020 ; 2021,R,,,Oui,,Q3229380,101,GPL-2.0-or-later,Sécurité,Authentification,Version 2.0.7 utilisée à la Gendarmerie nationale,MIMPROD,2.0.x
-78,LibreOffice,Suite bureautique,2018 ; 2019 ; 2020 ; 2021,R,,,Oui,,Q10135,33,MPL-2.0,Espace utilisateur et canal,Consultation et édition de documents,Version MIMO basée sur la 6.4.7.2 [téléchargeable ici](ftp://eoleng.ac-dijon.fr/Archive-Mimo/mimo-dev/),MIMO,
+78,LibreOffice,Suite bureautique,2018 ; 2019 ; 2020 ; 2021,R,,,Oui,,Q10135,33,MPL-2.0,Espace utilisateur et canal,Consultation et édition de documents,Version MIMO basée sur la 7.1.3.2 [téléchargeable ici](ftp://eoleng.ac-dijon.fr/Archive-Mimo/mimo-dev/),MIMO,
 79,LibreOffice (Collabora) online,Rédaction collaborative,2019 ; 2020 ; 2021,R,,,,,Q30584920,294,MPL-2.0,Orchestration et logique métier,Outil collaboratif,,MIMO,4.0.10
 80,Limesurvey,Enquête,2019 ; 2020 ; 2021,O,,,Oui,,Q1514978,42,GPL-3.0,Orchestration et logique métier,Outil collaboratif,,MIMO,
 81,LireCouleur,Ensemble d'outils destiné à aider les lecteurs débutants ou en difficulté à décoder les mots en utilisant les principes de la lecture en couleur,2019 ; 2020 ; 2021,R,LibreOffice,,,,,287,LGPL-v2.1,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,5
