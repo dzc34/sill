@@ -221,5 +221,5 @@ ID,nom,fonction,annees,statut,parent,public,support,similaire-a,wikidata,comptoi
 221,Tuleap,Gestionnaire de cycle applicatif,2021,R,,,,,Q3541946,325,GPL-2.0,Conception & développement,Gestionnaire de cycle applicatif,,MIMPROD,12.2-1
 222,Dash,"Cadriciel d'applications web basé sur Flask (Python), React et Plotly.js",2021,O,,,,,Q106081011,424,MIT,Conception & développement,Gestionnaire de cycle applicatif,,MIMDEV,1.19.0
 223,Hedgedoc,Outil de partage de notes,2021,O,,,,180,,362,AGPL-3.0,Orchestration et logique métier,Outil collaboratif,En version 1.7.x à la DINUM,MIMO,
-224,Lazarus IDE,IDE de programme en FreePascal,2021,R,,,,,,,"GPL-2.0, LGPL-2.0",Espace utilisateur et canal,Consultation et édition de documents,,MIMDEV,2.0.12
-225,FreePascal,Langage de programmation FreePascal,2021,R,,,,,,,GPL-2.0,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,3.2.0
+224,Lazarus IDE,IDE de programme en FreePascal,2021,R,,,,,,430,"GPL-2.0, LGPL-2.0",Espace utilisateur et canal,Consultation et édition de documents,,MIMDEV,2.0.12
+225,FreePascal,Langage de programmation FreePascal,2021,R,,,,,,429,GPL-2.0,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,MIMDEV,3.2.0
