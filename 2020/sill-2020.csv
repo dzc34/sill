@@ -223,3 +223,4 @@ ID,nom,fonction,annees,statut,parent,public,support,similaire-a,wikidata,comptoi
 223,Hedgedoc,Outil de partage de notes,2021,O,,,,180,,362,AGPL-3.0,Orchestration et logique métier,Outil collaboratif,En version 1.7.x à la DINUM,,MIMO,
 224,Lazarus IDE,IDE de programme en FreePascal,2021,R,,,,,,,"GPL-2.0, LGPL-2.0",Espace utilisateur et canal,Consultation et édition de documents,,,MIMDEV,2.0.12
 225,FreePascal,Langage de programmation FreePascal,2021,R,,,,,,,GPL-2.0,Conception & Développement,"Installation, Packaging, Diffusion et Distribution",,,MIMDEV,3.2.0
+226,MurExpo,Logiciel pédagogique pour créer un mur d'exposition,2021,R,,,,,,,GPL-3.0,Espace utilisateur et canal,Outil de productivité,Site du logiciel : https://me.murexpo.org,,MIMO,0.6.0
